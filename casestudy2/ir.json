@@ -22,7 +22,8 @@
           "route": "PO",
           "frequency": "Daily",
           "startDateTime": "10/18/23 11:13:00 COT"
-        }
+        },
+        {}
       ],
       "pastMedicalHistory": ["Bipolar", "Diabetes mellitus", "Hypertension", "Schizoaffective disorder", "UTI"],
       "socialHistory": {

@@ -43,6 +43,7 @@ def extract_text_from_folder(folder_path):
         if filename.endswith(".png") or filename.endswith(".jpg"):
             image_path = os.path.join(folder_path, filename)
             text = ocr_core(image_path)
+            # print(f"Text extracted from {filename}:\n{text}\n{'-'*30}")
             print(f"Text extracted from {filename}:\n{text}\n{'-'*30}")
 
 folder_path = './casestudy2'

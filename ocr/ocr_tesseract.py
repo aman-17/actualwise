@@ -46,5 +46,5 @@ def extract_text_from_folder(folder_path):
             # print(f"Text extracted from {filename}:\n{text}\n{'-'*30}")
             print(f"Text extracted from {filename}:\n{text}\n{'-'*30}")
 
-folder_path = './casestudy2'
+folder_path = './ocr/phiTest'
 extract_text_from_folder(folder_path)

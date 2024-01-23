@@ -34,19 +34,7 @@ Unique Identifier: UQ-2024-03-10-AG
 
 Insurance Carrier: Medicaid, ID: MD-55503-56
 
-Alice Green, a 48-year-old female, was seen for a surgery consultation on March 10, 2024, with Dr. Emily
-White (EWhite). Alice, living at 987 Elm Rd, Denver, CO, 80203, has a history of chronic back pain, which
-has progressively worsened over the past year. During the consultation, Dr. White reviewed Alice's
-previous treatments, including physical therapy and pain medication, which provided only temporary
-relief. Alice expressed her concern about the impact of her condition on her daily activities, especially
-her job as a schoolteacher Her brother, Robert Green, accompanied her and provided additional
-insights into her reduced mobility and increased dependency on pain medications. An MRI scan taken
-two weeks prior was reviewed, showing significant disc herniation at L4-L5. Surgery was discussed as @
-viable option, given the patient's history and current symptoms. Alice's medical record number
-$C20240310-356 was referenced throughout the consultation. Her insurance details, Medicaid (ID: MD-
-55503-56), were updated in her file, along with her social security number 234-56-7890. Dr. White
-advised Alice to consider the surgery, explaining the risks and benefits in detail. A follow-up appointment
-was scheduled for two weeks later to finalize the decision. Notes were compiled by ewhite.
+Alice Green, a 48-year-old female, was seen for a surgery consultation on March 10, 2024, with Dr. Emily White (EWhite). Alice, living at 987 Elm Rd, Denver, CO, 80203, has a history of chronic back pain, which has progressively worsened over the past year. During the consultation, Dr. White reviewed Alice's previous treatments, including physical therapy and pain medication, which provided only temporary relief. Alice expressed her concern about the impact of her condition on her daily activities, especially her job as a schoolteacher Her brother, Robert Green, accompanied her and provided additional insights into her reduced mobility and increased dependency on pain medications. An MRI scan taken two weeks prior was reviewed, showing significant disc herniation at L4-L5. Surgery was discussed as @ viable option, given the patient's history and current symptoms. Alice's medical record number $C20240310-356 was referenced throughout the consultation. Her insurance details, Medicaid (ID: MD- 55503-56), were updated in her file, along with her social security number 234-56-7890. Dr. White advised Alice to consider the surgery, explaining the risks and benefits in detail. A follow-up appointment was scheduled for two weeks later to finalize the decision. Notes were compiled by ewhite.
 
 ------------------------------
 Test Case 2: Routine Check-up
@@ -150,3 +138,5 @@ the procedures. Emily's social security number 123-45-6789 was recorded for bill
 ultrasound, thankfully, did not reveal any acute pathology.
 
 ------------------------------
+
+. Result Type: History and Physical. Date: October 18, 2023 15:45 CDT. Result Status: Auth (Verified). Result Title: H&P -M SHAHZAD,MD.FACP.. Performed By: SHAHZAD MD, MUHAMMAD A on October 18, 2023 15:53 CDT. Verified By: SHAHZAD MD, MUHAMMAD A on October 18, 2023 15:53 CDT. Encounter info: 50036288, GLE, Behavioral Health Adult, 10/18/2023 -. mt * Final Report *. H&P -M SHAHZAD,MD.FACP.. Patient DANTZLER, SHAVONIA MRN: 591605 FIN: 50036288. Age: 39years Sex: Female DOB: 02/22/1984. Associated Dagnoses: None. Author. SHAHZAD MD, MUHAMMAD A :. Admission Information. Date of Admission: 10/18/2023 .. Subjective:. Chief Complaint: .. Bipolar, Schizophrenia/Psychotic. History of Present Iliness: .. HISTORY OF PRESENT ILLNESS :. —39 year oi HOMELESS AAF admitted for severe psychosis. —she was found wandering about in the store with trespassing order against her.. ~she was aggressive in the emergency roomand threatening to Kill the staff. ~-Talking without making any sense. She had flight of ideas and was very tangential.. —she was noncompliant with the medications.. --her blood sugar in the emergency roomwas 390 and she was given 18 units of insulin. .. ASSOCIATED COMPLAINTS:. ~-Hallucinations=Denies AH, VH.. --Very delusional and psychotic.. --Suicidal ideations=None.. ~-Horricidal ideation=None,. --Appetite=Without any change from baseline.. ~-Recent sudden w eight change=none.. ~Sleep=POOR. Medication compliance at home=As per the report,home medications are not taken as prescribed.. --Pain=Scale 0/10.. --Systemic complaint= none. --GU complaints=Denies any dysuria,hematuria,flank pain ete.

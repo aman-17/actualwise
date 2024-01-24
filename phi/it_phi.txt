@@ -73,17 +73,7 @@ Unique Identifier: UQ-2024-05-15-DS
 
 Insurance Carrier: Meridian, ID: M-55502-47
 
-David Smith, a 39-year-old male, came in for his routine check-up on May 15, 2024. Residing at 2356 Oak
-Street, Lincoln, NE, 68502, he has been a patient under the care of Dr. John Doe (JDge) for the past five
-years. During this visit, David mentioned experiencing mild, intermittent chest discomfort over the past
-month. He has a family history of heart disease, as noted in his previous records. His mother, Julia Smith,
-had @ myocardial infarction at the age of 65. David's vitals were within normal limits, with a blood
-pressure reading of 130/85 mmHg. Dr. Doe recommended a stress test and an EKG to evaluate David's
-cardiac function, considering his family history and symptoms. The patient's social security number 987-
-65-4321 was used for records. His medical record number RC20240515-247 was updated with these new
-findings. David's insurance information, Meridian (ID: M-55502-47), was confirmed. jdoe advises a heart-
-healthy diet and consider starting 4 low-impact exercise regimen. A follow-up appointment was
-scheduled for six months later to reassess his condition.
+David Smith, a 39-year-old male, came in for his routine check-up on May 15, 2024. Residing at 2356 Oak Street, Lincoln, NE, 68502, he has been a patient under the care of Dr. John Doe (JDge) for the past five years. During this visit, David mentioned experiencing mild, intermittent chest discomfort over the past month. He has a family history of heart disease, as noted in his previous records. His mother, Julia Smith, had @ myocardial infarction at the age of 65. David's vitals were within normal limits, with a blood pressure reading of 130/85 mmHg. Dr. Doe recommended a stress test and an EKG to evaluate David's cardiac function, considering his family history and symptoms. The patient's social security number 987- 65-4321 was used for records. His medical record number RC20240515-247 was updated with these new findings. David's insurance information, Meridian (ID: M-55502-47), was confirmed. jdoe advises a heart- healthy diet and consider starting 4 low-impact exercise regimen. A follow-up appointment was scheduled for six months later to reassess his condition.
 
 ------------------------------
 Test Case 1: Emergency Room Visit
@@ -123,19 +113,7 @@ Unique Identifier: UQ-2024-01-20-E)
 
 Insurance Carrier: Blue Cross Blue Shield, ID: BCBS-55501-34
 
-Emily Johnson, a 14-year-old female, presented to the ER on January 20, 2024, accompanied by her
-father, Michael Johnson. The patient complained of severe abdominal pain and nausea. Dr. Sarah Kline
-(SKling) noted Emily's history of similar episodes in the past, suspecting a possible gastrointestinal issue.
-Emily, residing at 1425 Maple Ave, Springfield, IL, 62704, was previously admitted to our facility for a
-similar complaint. During this visit, she was notably distressed and reported the pain intensity as 8 ona
-scale of 10. Vitals taken on admission included a temperature of 98.6°F, a heart rate of 88 bpm, anda
-blood pressure of 120/80 mmHg. Lab tests were ordered, including a CBC and an abdominal ultrasound,
-as Dr. Kline wanted to rule out appendicitis or an ovarian cyst, considering her age and symptoms.
-Emily's mother, Julia Johnson, reached out on the phone number 555-0134 to inquire about her
-daughter's condition. The patient's medical record number ER20240120-159 was used for
-documentation. Her insurance, Blue Cross Blue Shield (ID: BCBS-55501-34), was verified for coverage of
-the procedures. Emily's social security number 123-45-6789 was recorded for billing purposes. The
-ultrasound, thankfully, did not reveal any acute pathology.
+Emily Johnson, a 14-year-old female, presented to the ER on January 20, 2024, accompanied by her father, Michael Johnson. The patient complained of severe abdominal pain and nausea. Dr. Sarah Kline (SKling) noted Emily's history of similar episodes in the past, suspecting a possible gastrointestinal issue. Emily, residing at 1425 Maple Ave, Springfield, IL, 62704, was previously admitted to our facility for a similar complaint. During this visit, she was notably distressed and reported the pain intensity as 8 ona scale of 10. Vitals taken on admission included a temperature of 98.6°F, a heart rate of 88 bpm, anda blood pressure of 120/80 mmHg. Lab tests were ordered, including a CBC and an abdominal ultrasound, as Dr. Kline wanted to rule out appendicitis or an ovarian cyst, considering her age and symptoms. Emily's mother, Julia Johnson, reached out on the phone number 555-0134 to inquire about her daughter's condition. The patient's medical record number ER20240120-159 was used for documentation. Her insurance, Blue Cross Blue Shield (ID: BCBS-55501-34), was verified for coverage of the procedures. Emily's social security number 123-45-6789 was recorded for billing purposes. The ultrasound, thankfully, did not reveal any acute pathology.
 
 ------------------------------
 

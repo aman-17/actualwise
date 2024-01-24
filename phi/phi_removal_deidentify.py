@@ -24,6 +24,8 @@ text = ("Alice Green, a 48-year-old female, was seen for a surgery consultation 
 "advised Alice to consider the surgery, explaining the risks and benefits in detail. A follow-up appointment"
 "was scheduled for two weeks later to finalize the decision. Notes were compiled by ewhite.")
 
+# text = ("David Smith, a 39-year-old male, came in for his routine check-up on May 15, 2024. Residing at 2356 Oak Street, Lincoln, NE, 68502, he has been a patient under the care of Dr. John Doe (JDge) for the past five years. During this visit, David mentioned experiencing mild, intermittent chest discomfort over the past month. He has a family history of heart disease, as noted in his previous records. His mother, Julia Smith, had @ myocardial infarction at the age of 65. David's vitals were within normal limits, with a blood pressure reading of 130/85 mmHg. Dr. Doe recommended a stress test and an EKG to evaluate David's cardiac function, considering his family history and symptoms. The patient's social security number 987- 65-4321 was used for records. His medical record number RC20240515-247 was updated with these new findings. David's insurance information, Meridian (ID: M-55502-47), was confirmed. jdoe advises a heart- healthy diet and consider starting 4 low-impact exercise regimen. A follow-up appointment was scheduled for six months later to reassess his condition.")
+
 # Wrap text in document
 documents = [
     Document(name='doc_01', text=text)

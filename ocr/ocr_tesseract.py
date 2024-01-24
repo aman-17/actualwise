@@ -38,13 +38,15 @@ def ocr_core(image):
     text = pytesseract.image_to_string(Image.open(image))
     return text
 
-def extract_text_from_folder(folder_path):
-    for filename in os.listdir(folder_path):
-        if filename.endswith(".png") or filename.endswith(".jpg"):
-            image_path = os.path.join(folder_path, filename)
-            text = ocr_core(image_path)
-            # print(f"Text extracted from {filename}:\n{text}\n{'-'*30}")
-            print(f"Text extracted from {filename}:\n{text}\n{'-'*30}")
+def extract_text_from_folder(folder_path, output_file):
+    with open(output_file, 'w') as f:
+        for filename in os.listdir(folder_path):
+            if filename.endswith(".png") or filename.endswith(".jpg"):
+                image_path = os.path.join(folder_path, filename)
+                text = ocr_core(image_path)
+                f.write(f"{text}\n{'-'*30}\n")
 
-folder_path = './ocr/phiTest'
-extract_text_from_folder(folder_path)
+folder_path = './casestudy1'
+output_file = './casestudy1/output.txt'
+extract_text_from_folder(folder_path, output_file)
+

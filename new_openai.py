@@ -3,7 +3,7 @@ import openai
 import json
 
 openai.api_type = "azure"
-openai.api_key = "d3c67b9fdf1e4f438d2ac07193c88708"
+openai.api_key = ""
 openai.api_base = "https://test-gpt-4-ks.openai.azure.com"
 openai.api_version = "2023-05-15"
 openai.log = "debug"

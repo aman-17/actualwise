@@ -1,0 +1,74 @@
+Powered by [U-HOSP]Fax [L-DATE] 14:30 eGoldFax Page [L-DATE]
+
+Medication Administration Record
+[L-DATE] 11:00 - [L-DATE] 12:
+
+ 
+
+   
+
+ 
+
+Name: Hospital Num:
+Location: Admit Date: [L-DATE]
+Physician: [I-STAFF] [L-STAFF]
+D Weight ‘Stack 17:42 [L-DATE] Stop: 12:08 [L-DATE] Admin Sched
+Now [L-DATE] 12:08 11:42 _ Complete agarin
+‘A tivaroxaban TABLET 10mg Sian 9:00 [U-DATE]/[L-DATE] Slop: 23:59 [L-DATE] ‘Admin ‘Sched
+(*Xarelto) [L-DATE] 9:21 9:00 Complete kelupek
+Oral ONCE ADAY [U-DATE]/30 &14 9:00 Complete rsoriano
+for dvt
+A sertraline TABLET (Zoloft) 50 mg ‘Start 9:00 [L-DATE] Stop: 23:59 [U-DATE]/[L-DATE] Admin Sched
+Oral ONCE ADAY 1029 9:20 9:00 Complete kelupek
+for Mood 10/30 %14 9:00 Complete rsoriano
+Simultaneous with
+sertraline TABLET (Zoloft) 25 my
+A sertraline TABLET (Zoloft) 25mg ‘Slack 9:00 [U-DATE]31 Stop: 23:59 [L-DATE] ‘Admin ‘Sched
+Oral ONCE ADAY
+for Depression
+take with SOmg (total 75mg)
+Simultaneous with
+sertraline TABLET (Zoloft) $0 m;
+P buprenorphine TABLET 8 mg. ‘Slat: [B-ID]:47 [L-DATE] Stop: 9:55 [L-DATE] ‘Admin ‘Sched
+(*Subutex) PRN
+Sublingual TWICE DAILY 0900 & 2100
+PRN
+for Maintenance
+Max Daily Doses: 2
+‘A. dicyclomnine TABLET 20mg ‘Sia: 13:59 [L-DATE] Stop: 23:59 [L-DATE] Admin Sched
+(Bentyl) PRN
+Oral THREE TIMES DAILY 09[I-PHONE] [L-ID]1700 PRN
+for Stomach Cramps
+Max Daily Doses: 3
+A  LORazepam TABLET (*Ativan) 1 mg PRN ‘Siar: 14:29 10/28 Stop: 23:59 1231 Admin ‘Sched
+Oral EVERY 6 HOURS PRN 10/28 14:56 Complete kslupek
+for Anxiety 1029 1:24 Complete mebreo
+Max Daily Doses: 4 10/29 9:20 Complete kslupek
+10/29 17:46 Complete kslupek
+10/30 0:12 Complete sjohn
+10/30_&16 Complete rsoriano
+A melatonin TABLET 3mg PRN Slacl: 13:59 10/28 Stop: 23:59 12/31 Admin Sched
+Oral AT BEDTIME PRN 10/28 20:49 Complete mebreo
+for Insomnia
+Max Daily Doses: 1
+A methocarbamol TABLET 500mg ‘Stat 21:00 10/28 Stop: 23:59 12/31 Admin Sched
+(Robaxin) PRN 10/29 &57 Complete mebreo
+Oral THREE TIMES DAILY 0900 1300 10/29 20:38 Complete sjokn.
+2100 PRN 10/30 11:08 Complete rsoriano
+for muscle spasm.
+‘A nicotine GUM (Nicorette) 2 mg PRN Stack 14:11 10728 Sop: 23:59 12731 Admin ‘Sched
+Oral Transmucosal EVERY 2 HOURS 10/28 16:17 Complete agarin
+PRN 10/28 19:58 Complete mebreo
+for Smoking Cessation 10/29 7:26 Complete mebreo
+Max Daily Doses: 12 10/29 9,22 Completo kslupok
+10/29. 13:04 Complete kslupek
+‘A ttaMADol TABLET (Ultram) 100 mg PRN ‘Sia: 21:00 10/28 Stop: 23:59 12731 Admin ‘Sched
+Oral THREE TIMES DAILY 0900 1300 10/28 21:08 Complete mebreo
+2100 PRN 10/29 10:34 Complete Icslupek
+‘To give 100 mg use 2 of 50 mg 10/29 16:50 Complete kelupek
+for Pain 10/30 2:54 Complete sjohn
+10/30 11:08 Complete ssoriano
+
+printed: 10/30/23 12:37 Page 3 of 3
+
+------------------------------

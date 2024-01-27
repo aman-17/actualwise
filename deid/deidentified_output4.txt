@@ -1,0 +1,83 @@
+Powered by [U-HOSP]GoldFax
+
+ 
+
+Home Meds:
+Description
+Indication
+
+  
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+[L-DATE] 14:30
+
+[U-HOSP]GoldFax Page [L-DATE]
+
+Medical History and Physical
+Examination (H&P) M
+
+Brand
+
+Dose
+
+ 
+
+Admit Date: [L-DATE]
+
+Observation Date/Time: [U-DATE]/[U-DATE]/[L-DATE] 18:53
+
+Route Frequency PRN
+
+    
+
+clindamycin Oral 300 mg capsule Cleocin
+HCL
+gabapentin Oral 300 mg capsule Neurontin
+gabapentin Oral 400 mg capsule Neurontin 1,200 FO TID[U-ID]17 Anxiety
+mg
+gabapentin Oral 800 mg TAB 1 ea Neurentin
+hydrOX¥zine hydrochloride Oral 50 Atarax
+mg TAB 1 ea
+lamoTRigine Oral 25 mg tablet Lamictal 25 ng FO DAILY
+Seizures
+methocarbamol Oral 500 mg tablet Robaxin 500 mg FO TID[U-ID]1321 P muscle
+spasm
+mirtazapine Oral 15 mg tablet Remeron 15 ng FO HS Sleep
+nicotine 21 mg/24 hr TERF Habitrol
+omeprazole Oral 20 mg delayed PriLOSEC 20 ng FO DAILY GERD
+release capsule
+prazosin Oral 1 mg capsule Minipress 1 mg FO HS
+nightmares
+QUEtiapine Oral 100 mg tablet SBROquel
+QUEtiapine Oral 300 mg tablet SEROquel 300 mg FO HS Mood
+sertraline Oral 50 mg tablet Zoloft 50 ng FO DAILY Mood
+traMADol 50 mg TAB Ultram 100 mg FO TID[U-ID]1321 P Fain
+Admission Meds:
+Description Brand Dose Route Frequency PRN
+Indication
+gabapentin Oral 400 mg capsule Neurentin 1,200 FO TID[U-ID]17 Anxiety
+mg
+methocarbamol Oral 500 mg tablet Robaxin 500 mg FO TID[L-DATE]21 P muscle
+spasm
+mirtazapine Oral 15 mg tablet Remeron 15 mg FO HS Sleep
+omeprazole Oral 20 mg delayed PriLOSEC 20 mg FO DAILY GERD
+release capsule
+prazosin Oral 1 mg capsule Minipress 1 mg FO HS
+nightmares
+QUEtiapine Oral 300 mg tablet SEROquel 300 mg FO HS Mood
+sertraline Oral 50 mg tablet Zoloft 50 ng FO DAILY Mood
+traMADel Oral 50 mg tablet Ultram 100 mg FO TID91321 P Fain
+Allergy Type Reaction Severity Date Code System
+Comments
+Printed On: 10/30/2023 @ 12:37 Page 2 of 10
+
+------------------------------

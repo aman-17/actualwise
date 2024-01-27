@@ -1,2 +1,0 @@
-# actualwise
-OCR

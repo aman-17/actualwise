@@ -1,0 +1,53 @@
+{
+  "finalReport": {
+      "complaints": {
+        "general": "No alarm symptoms of hermatemesis, melena or weight loss reported.",
+        "neurological": "Denies any double vision, unusual headache, focal motor or sensory loss, ataxia, paresthesias etc.",
+        "endocrine": "No heat or cold intolerance or skin changes reported.",
+        "pulmonary": "No hemoptysis, unusual nocturnal cough or weight loss reported.",
+        "dermatologic": "No new rash, pruritis or pigmentation reported.",
+        "musculoskeletal": "No Joint swelling, morning stiffness or decrease in ROM of the joints reported.",
+        "renal": "No history of any CKD reported. No polyuria, polydipsia, nocturia or incontinence reported.",
+        "cardiovascular": "Denies any chest pain, dyspnea, orthopnea or PND or ankle swelling reported."
+      },
+      "otherProblems": "AS PER-PL.",
+      "allergyProfile": {
+        "allergyList": ["shrimp"]
+      },
+      "medicationList": [
+        {
+          "name": "amLoObDiPine",
+          "dose": "10 mg",
+          "form": "TAB",
+          "route": "PO",
+          "frequency": "Daily",
+          "startDateTime": "10/18/23 11:13:00 COT"
+        },
+        {}
+      ],
+      "pastMedicalHistory": ["Bipolar", "Diabetes mellitus", "Hypertension", "Schizoaffective disorder", "UTI"],
+      "socialHistory": {
+        "education": "High school graduate or GED",
+        "language": "English",
+        "recentTravel": "No recent travel",
+        "alcoholUse": "Never",
+        "tobaccoUse": {
+          "smokingStatus": "Current everyday smoker",
+          "cessationInformation": "Patient refuses information",
+          "type": "Cigarettes",
+          "yearsOfUse": 20
+        }
+      },
+      "familyHistory": "Unknown",
+      "reviewOfSystems": {
+      },
+      "physicalExamination": {
+      },
+      "laboratoryResults": {
+      },
+      "diagnosticImpression": ["Anxiety", "Bipolar disorder", "Paranoia", "Hypertension", "Schizophrenia", "Suicidal ideation", "Diabetes mellitus", "Atrial flutter", "Psychosis"]
+    },
+    "additionalInfo": {
+    }
+  }
+  

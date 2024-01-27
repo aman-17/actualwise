@@ -1,0 +1,71 @@
+Powered by [U-HOSP]Fax [L-DATE] 14:30 [U-HOSP]GoldFax Page [I-ID]
+
+ 
+
+Psychiatric Evaluation
+
+Admit Date: [L-DATE]
+eed Observation Date/Time: [L-DATE] 16:56
+acetaminophen Oral 325 mg tablet APAP 650 mg PO O48 P Pain
+LORazepam Oral 1 mg tablet ‘Ativan 1 mg PO 6H P Anxiety
+dicyclomine Oral 20 mg tablet Bentyl 20 mg PO TID[U-ID]1317 PB Stomach
+Cramps
+gabapentin Oral 600 mg tablet Neurontin 1,200 PO TID[U-ID]1321 Anxiety
+
+mg
+loperamide Oral 2 mg capsule Imodium 2 mg PO O28 P
+Diarrhea
+Notes:Not more than lémg per day
+LORazepam Injectable 2 mg/mL Ativan 2 mg IM 4H P FOR
+SEIZURE ONLY
+solution
+melatonin Oral 5 mg TAB 1 ea 5 mg FO HS PB
+Insomia
+methocarbamol Oral 500 mg tablet Robaxin 500 mg FO TID[U-ID]1221 P muscle
+spasm
+mirtazapine Oral 15 mg tablet Remeron 15 mg FO HS Sleep
+multivitamin Oral tablet Daily 1 tab PO DAILY
+Nutritional Support
+Multiple
+Vitamins
+nicotine Oral Transmucosal 2 mg Nicorette 2 mg om O28 P Smoking
+Cessation
+gum
+omeprazole Oral 20 mg delayed PriLOsEC 20 mg PO DAILY GERD
+release capsule
+ondansetron Oral 4 mg tablet, Zofran 4 mg PO Q6H P
+Nausea/Vomiting
+disintegrating ODT
+Patient Cw Medication - Stored in POM lea NA uD P Patient
+Own Med
+Notes:Patient Own Medications
+
+"Stored in the Pharmacy”
+Pharmacy
+prazosin Oral 1 mg capsule Minipress 1 mg PO HS
+nightmares
+QUEtiapine Oral 300 mg tablet SEROquel 300 mg FO HS Mood
+sertraline Oral 50 mg tablet Zoloft 50 mg PO DAILY Mood
+traMADol Oral 50 mg tablet Ultram 100 mg FO TID[U-ID]21 PB Pain
+tivaroxaban Oral 10 mg tablet *Xarelto 10 mg PO DAILY dvt
+Ancillary Orders:
+Description Frequency PRN
+
+-Admit to: 4N, Dual Diagnosis - Substance Abuse and Detox
+
+-Environment Patient Safety Checklist BIB -
+Assessmen
+ts
+-Patient/Family Education Q4H PB
+-Daily Nursing Progress Note BID -
+Assessmen
+ts
+-Psychotropic Medication Notice and Consent Form Q4H P
+-LIPID PANEL W/HDL IN AM-uc
+-Suicidal Ideation Severity Assessment 1600
+-TSH ONLY, ULTRA SENSITIVE 3RD GEN IN AM-UC
+-COMPREHENSIVE METABOLIC IN AM-UC
+
+Printed On: 10/30/2023 @ 12:37 Page 9 of 11
+
+------------------------------

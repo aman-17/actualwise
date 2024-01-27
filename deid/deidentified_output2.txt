@@ -1,0 +1,70 @@
+Powered by [U-HOSP]Fax [U-DATE]/[L-DATE] 14:30 [U-HOSP]GoldFax Page [L-ID]
+
+Psychiatric Evaluation
+
+ 
+
+Admit Date: [L-DATE]
+Observation Date/Time: [L-DATE] 16:56
+
+ 
+
+-CBC W/O DIFFERENTIAL IN AM-UC
+-Special Diet Heart Healthy: Finger Foods: No Consult Needed?
+Yes Reason:
+
+-Vital Signs VS_BID
+-Level Of Observation: Q10 minutes (Q10) Reason: SI with plan
+to OD on prescription meds LOS Rational;
+
+-Precautions SUICIDAL Precaution, HIGH RISK Precaution and DETOX
+-Provisional Diagnosis $I with plan to OD on prescription meds
+-Legal Status Voluntary
+
+-Urine Drug Screen IN AM-UC
+Notes:Nurse Collect
+-Cows Scale Q4H-COWS
+
+Notes:If initial score >10 assess vitals pez protecolverify with MD the initiation of the
+medical detox protocol.
+
+Estimated Length of Stay 8 Days
+Stren;
+Who do you call for when you when need support? Yes
+
+Pt reported that his brother, mother, and "NA people” are supportive of him.
+Do you have an outpatient treatment team that supports you? Yes
+
+Dr. [I-HOSP] [I-HOSP] [I-HOSP] [L-HOSP]
+
+ 
+
+Tell me one goal you have for yourself for the future. Yes
+Pt reported thal he would like to
+
+Liabilities
+
+How has your living situation changed or impacted your stress. Yes
+
+levels?
+
+Pris currently homeless,
+Patient has been engaging in using the following substances: Yes
+
+Pt abuses alcohol, heroin, and cocaine.
+Patient is currently involved with the following legal issues: Yes
+
+Pthas a history of legal issues.
+
+Discharge
+Diagnosis - Must have at least one ACTIVE and one PRIMARY
+Diagnosis
+
+Diagnosis Class Type Priority Date
+Code System
+
+ 
+
+Printed On: [L-DATE] @ 12:37 Page 10 of 11
+
+------------------------------

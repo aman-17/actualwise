@@ -1,0 +1,111 @@
+Sure, I am here to help you. How may I assist you today?
+------------------------------
+{
+"Report_Details": {
+  "Powered_By": "U-HOSP",
+  "Fax_Date": "Unknown",
+  "Record_Type": "Medication Administration Record",
+  "Dates_Covered": "Unknown"
+},
+"Patient_Info": {
+  "Name": "Unknown",
+  "Hospital_Number": "Unknown",
+  "Location": "Unknown",
+  "Admit_Date": "Unknown",
+  "Physician": "I-STAFF L-STAFF"
+},
+"Medication_Records": [
+  {
+    "Medication": "Tivaroxaban (Xarelto) TABLET 10mg",
+    "Administration_Method": "Oral",
+    "Frequency": "ONCE ADAY",
+    "Start_Date": "U-DATE/L-DATE",
+    "Stop_Date": "L-DATE",
+    "Completion": ["Complete agarin", "Complete kelupek", "Complete rsoriano"],
+    "Purpose": "For DVT"
+  },
+  {
+    "Medication": "Sertraline (Zoloft) TABLET 50mg",
+    "Administration_Method": "Oral",
+    "Frequency": "ONCE ADAY",
+    "Start_Date": "L-DATE",
+    "Stop_Date": "U-DATE/L-DATE",
+    "Completion": ["Complete kelupek", "Complete rsoriano"],
+    "Purpose": "For Mood"
+  },
+  {
+    "Medication": "Sertraline (Zoloft) TABLET 25mg",
+    "Administration_Method": "Oral",
+    "Frequency": "ONCE ADAY",
+    "Start_Date": "U-DATE",
+    "Stop_Date": "L-DATE",
+    "Purpose": "For Depression"
+  },
+  {
+    "Medication": "Buprenorphine (Subutex) TABLET 8mg",
+    "Administration_Method": "Sublingual",
+    "Frequency": "TWICE DAILY",
+    "Start_Date": "B-ID/L-DATE",
+    "Stop_Date": "L-DATE",
+    "Purpose": "For Maintenance"
+  },
+  {
+    "Medication": "Dicyclomnine (Bentyl) TABLET 20mg",
+    "Administration_Method": "Oral",
+    "Frequency": "THREE TIMES DAILY",
+    "Start_Date": "L-DATE",
+    "Stop_Date": "L-DATE",
+    "Purpose": "For Stomach Cramps"
+  },
+  {
+    "Medication": "LORazepam (Ativan) TABLET 1mg",
+    "Administration_Method": "Oral",
+    "Frequency": "EVERY 6 HOURS",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete kslupek", "Complete mebreo", "Complete kslupek", "Complete kslupek", "Complete sjohn", "Complete rsoriano"],
+    "Purpose": "For Anxiety"
+  },
+  {
+    "Medication": "Melatonin TABLET 3mg",
+    "Administration_Method": "Oral",
+    "Frequency": "AT BEDTIME",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete mebreo"],
+    "Purpose": "For Insomnia"
+  },
+  {
+    "Medication": "Methocarbamol (Robaxin) TABLET 500mg",
+    "Administration_Method": "Oral",
+    "Frequency": "THREE TIMES DAILY",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete mebreo", "Complete sjokn", "Complete rsoriano"],
+    "Purpose": "For muscle spasm"
+  },
+  {
+    "Medication": "Nicotine (Nicorette) GUM 2mg",
+    "Administration_Method": "Oral Transmucosal",
+    "Frequency": "EVERY 2 HOURS",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete agarin", "Complete mebreo", "Complete mebreo", "Complete kslupok", "Complete kslupek"],
+    "Purpose": "For Smoking Cessation"
+  },
+  {
+    "Medication": "TaMADol (Ultram) TABLET 100mg",
+    "Administration_Method": "Oral",
+    "Frequency": "THREE TIMES DAILY",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete mebreo", "Complete lslupek", "Complete kelupek", "Complete sjohn", "Complete ssoriano"],
+    "Purpose": "For Pain"
+  }
+],
+"Report_Print_Details": {
+  "Printed_Date": "10/30/23",
+  "Page_Number": "3 of 3"
+}
+}
+------------------------------

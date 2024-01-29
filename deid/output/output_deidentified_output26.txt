@@ -1,0 +1,40 @@
+How can I assist you today?
+------------------------------
+Patient Medical History and Physical Examination:
+
+Admit Date: [U-DATE]
+Observation Date/Time: [L-DATE] 18:53
+
+Current Medications:
+1. Acetaminophen - Oral 325 mg tablet (APAP 650 mg), dosage: FO 4H, purpose: Pain
+2. LORazepam - Oral 1 mg tablet (*Ativan 1 mg), dosage: PO Q6H, purpose: Anxiety 
+3. Dicyclomine - Oral 20 mg tablet (Bentyl 20 mg), dosage: FO TID, purpose: Stomach Cramps
+4. Gabapentin - Oral 600 mg tablet (Neurontin 1,200 mg), dosage: FO TID, purpose: Anxiety
+5. Loperamide - Oral 2 mg capsule (Imodium 2 mg), dosage: FO Q2H, purpose: Diarrhea. Note: Not more than 16mg per day
+6. LORazepam - Injectable 2 mg/mL (Ativan 2 mg), dosage: IM Q48, purpose: Seizure
+7. Melatonin - Oral 5 mg TAB, dosage: 5 mg PO HS, purpose: Insomnia
+8. Methocarbamol - Oral 500 mg tablet (Robaxin 500 mg), dosage: FO TID, purpose: Muscle spasm
+9. Mirtazapine - Oral 15 mg tablet (Remeron 15 mg), dosage: PO HS, purpose: Sleep
+10. Multivitamin - Oral tablet Daily, dosage: ltab FO DAILY, purpose: Nutritional Support
+11. Nicotine - Oral Transmucosal 2 mg gum (Nicorette 2 mg), dosage: oM QaH, purpose: Smoking Cessation
+12. Omeprazole - Oral 20 mg delayed release capsule (PriLOSEC 20 mg), dosage: PO DAILY, purpose: GERD
+13. Ondansetron - Oral 4 mg tablet, disintegrating oDT (Zofran 4 mg), dosage: FO Q6H, purpose: Nausea/Vomiting
+14. Prazosin - Oral 1 mg capsule (Minipress 1 mg), dosage: PO HS, purpose: Nightmares
+15. QUEtiapine - Oral 300 mg tablet (SEROquel 600 mg), dosage: FO HS, purpose: Mood
+16. Sertraline - Oral 50 mg tablet (Zoloft 50 mg), dosage: FO DAILY, purpose: Mood
+17. Buprenorphine - Sublingual 8 mg tablet ('subutex 8 mg), dosage: SL BID, purpose: Maintenance
+18. TraMADol - Oral 50 mg tablet (Ultram 100 mg), dosage: FO TID, purpose: Pain
+19. Rivaroxaban - Oral 10 mg tablet (*Xarelto 10 mg), dosage: PO DAILY, purpose: Dvt
+
+Ancillary Orders:
+1. Admit to: 4N, Dual Diagnosis - Substance Abuse and Detox
+2. Safety Checklist - BID 
+3. Patient/Family Education - Q4H 
+4. Nursing Progress Note - BID 
+5. Psychotropic Medication Notice and Consent Form - Q4H 
+6. LIPID PANEL W/HDL IN AM-UC
+
+Printed On: 10/30/2023 @ 12:37
+Page: 9 of 10
+
+------------------------------

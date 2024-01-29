@@ -1,0 +1,32 @@
+Indeed, I am designed to assist in a variety of ways, including answering questions, offering information, setting reminders, and more. How can I assist you today?
+------------------------------
+{
+"Psychiatric Evaluation": {
+  "Admit Date": "[L-DATE]",
+  "Observation Date/Time": "Le : ° '",
+  "Assessment Initiation Requirement": "Yes",
+  "Failure or inability for less intensive outpatient setting": "Yes",
+  "Medical History": {
+    "Current": {
+      "Blood clot disorder": "Yes",
+      "Hip replacement": "Yes",
+      "Back surgery": "Yes",
+      "Seizures from withdrawal": "Yes",
+      "Sciatica": "Yes",
+      "Bipolar": "Yes"
+     }
+  },
+  "Surgical History": {
+    "Lumbar fusion": "Yes",
+    "Back surgery": "Yes",
+    "Total left hip arthroplasty": "Yes",
+    "Contribution to current psychiatric presentation": "No"
+  },
+  "Allergies and Home Meds": {
+    "Allergies reviewed in banner": "Yes",
+    "Home Meds": "[Pending data]"
+  },
+  "Printed On": "[U-DATE]/[L-DATE] @ 12:37"
+ }
+}
+------------------------------

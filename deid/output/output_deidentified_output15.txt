@@ -1,0 +1,107 @@
+How can I assist you today?
+------------------------------
+{
+  "Report_Type": "Medication Administration Record",
+  "Record_Start": "[L-DATE] 11:00",
+  "Record_End": "[L-DATE] 12:37",
+  "Patient_Name": null,
+  "Patient_Location": null,
+  "Physician": "[I-STAFF] [L-STAFF]",
+  "Tasks": 
+  [
+    {
+      "Task_Name": "Blood Glucose Monitoring",
+      "Frequency": "NOW"
+    },
+    {
+      "Task_Name": "Care Profile and Crisis Plan",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "CBC W/O DIFFERENTIAL",
+      "Frequency": "EVERY MORNING UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "COMPREHENSIVE METABOLIC",
+      "Frequency": "EVERY MORNING UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "Consent and Declination of Seasonal Influenza Vaccine",
+      "Frequency": "EVERY 12 HOURS UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "COWS Scale",
+      "Frequency": "Every 4 hours"
+    },
+    {
+      "Task_Name": "Daily Nursing Progress Note",
+      "Frequency": "Twice a Day"
+    }
+  ],
+  "Assesments_Details": 
+  [
+    {
+      "Date": "[L-DATE]",
+      "Start_Time": "12:07",
+      "Reference_Time": "11:42",
+      "Admin_Status": "Not Administered/Nc agarin",
+      "Additional_Info": "Other - See Notes"
+    },
+    {
+      "Date": "[L-DATE]",
+      "Start_Time": "16:01",
+      "Reference_Time": "10:00",
+      "Admin_Status": "Not Administered/Nekslupek"
+    },
+    {
+      "Date": "[L-DATE]",
+      "Start_Time": "16:01",
+      "Reference_Time": "10:00",
+      "Admin_Status": "Not Administered/Nc kelupek",
+      "Additional_Info": "Other - See [L-STAFF]"
+    }
+  ],
+  "Protocol_Details":
+  [
+    {
+      "Protocol_Name": "Environment Patient Safety Checklist",
+      "Frequency": "Twice a Day",
+      "Admin_Sched": 
+      [
+        {
+          "Date": "10/28",
+          "Start_Time": "16:00",
+          "Finish_Time": "23:59",
+          "End_Date": "12/31"
+        }
+      ]
+    },
+    {
+      "Protocol_Name": "Initial Nursing Assessment",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Protocol_Name": "Initial Treatment Plan",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Protocol_Name": "Initiate Treatment Plan for Patient",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Protocol_Name": "LIPID PANEL W/HDL",
+      "Frequency": "EVERY MORNING UNTIL COMPLETE"
+    }
+  ],
+  "Medication_Details": 
+  [
+    {
+      "Medication_Name": "buprenorphine TABLET 2mg (Subutex)",
+      "Dose_Schedule": "TWICE DAILY 0900 & 1700",
+      "Purpose": "for Maintenance"
+    }
+  ],
+  "Record_Print_Date": "10/30/23 12:37",
+  "Page": "1of3"
+}
+------------------------------

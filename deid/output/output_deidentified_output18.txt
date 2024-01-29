@@ -1,0 +1,50 @@
+Great, how can I assist you today?
+
+------------------------------
+{
+  "Medical History and Physical Examination (H&P)": {
+    "Admit Date": "[L-DATE]",
+    "Observation Date/Time": "[L-DATE] 18:53",
+    "Medical History": {
+      "Central Nervous System": "No History of Problems",
+      "Tics": "No",
+      "Genitourinary": "No History of Problems",
+      "Gastrointestinal": "GERD",
+      "Cardiovascular": "history of DVT and PE",
+      "Musculoskeletal": "No History of Problems",
+      "Additional": "seizures",
+      "Surgical History": "Yes"
+    },
+    "Surgery Details": {
+      "Lumbar Fusion": "Yes",
+      "Back Surgery": "Yes",
+      "Total Left Hip Arthoplasty": "Yes"
+    },
+    "Sexual History": {
+      "Sexual History NIA": "Yes",
+      "Recent Contraception NIA": "Yes",
+      "STI": "None",
+      "Sexual Activity in Last Five Days": "No"
+    },
+    "Assessment": {
+      "Reviewed Lab Results": "Yes",
+      "UDS": "Benzos/cocaine/fentanyl-positive"
+    },
+    "Physical Assessment": {
+      "General/Mental Status": "WNL",
+      "Skin": "WNL",
+      "Head": "WNL",
+      "Eyes": "WNL",
+      "ENT": "WNL",
+      "Neck": "WNL",
+      "Lungs": "WNL",
+      "Heart": "WNL",
+      "Abdomen": "WNL",
+      "Extremities": "WNL"
+    }
+  },
+  "Printed On": "[L-DATE] @ 12:37",
+  "Page": "6 of 10"
+}
+
+------------------------------

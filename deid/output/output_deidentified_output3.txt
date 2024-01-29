@@ -1,0 +1,51 @@
+How may I assist you today?
+------------------------------
+{
+  "Medical History and Physical Examination": {
+    "Admit Date": "[L-DATE]",
+    "LES Observation Date/Time": "[L-DATE] 18:53",
+    "Observations": [
+      "Suicidal Ideation Severity Assessment 1600",
+      "TSH ONLY, ULTRA SENSITIVE 3RD GEN IN AM-UC",
+      "COMPREHENSIVE METABOLIC IN AM-UC",
+      "CBC W/O DIFFERENTIAL IN AM-UC"
+    ],
+    "Special Diet": "Heart Healthy: Finger Foods: No Consult Needed",
+    "Vital Signs": "VS_BID",
+    "Level Of Observation": "Q10 minutes (Q10)",
+    "Reason For Observation": "SI with plan to OD on prescription meds LOS Rational",
+    "Precautions": [
+      "SUICIDAL Precaution",
+      "HIGH RISK Precaution",
+      "DETOX"
+    ],
+    "Provisional Diagnosis": "SI with plan to OD on prescription meds",
+    "Legal Status": "Voluntary",
+    "Tests": [
+      "Urine Drug Screen IN AM-UC"
+    ],
+    "Notes": [
+      "Nurse Collect",
+      "COWS Scale Q4H-Cows"
+    ],
+    "Additional Notes": "If initial score >10 assess vitals per protocol.Verify with MD the initiation of the medical detox protocol"
+  },
+  "Telehealth": {
+    "Mode of Communication": "Interactive audio and No video telecommunication",
+    "Site": "[B-HOSP] [I-HOSP] [L-HOSP]",
+    "Distant Site": "Provider Home"
+  },
+  "Plan Of Care": {
+    "Documented by Scribe": "No",
+    "APN Signature": "[I-STAFF] [L-STAFF], NP",
+    "APN Signature Time": "[L-DATE] 10:22",
+    "Medical Provider Signature": "[I-STAFF] [L-STAFF], MD",
+    "Medical Provider Signature Time": "[L-DATE] 00:28"
+  },
+  "Print Details": {
+    "Printed On Date": "[L-DATE]",
+    "Printed On Time": "12:37",
+    "Page": "10 of 10"
+  }
+}
+------------------------------

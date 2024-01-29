@@ -1,0 +1,82 @@
+How can I assist you today?
+------------------------------
+Here is the structured data based on the extracted text:
+
+1. Medication Administration Record
+   - Start Time: 11:00 [L-DATE]
+   - End Time: 12:37 [L-DATE]
+
+2. Hospital Information:
+   - Hospital Name: Unknown (Hospital vw?)
+   - Location: Unknown
+   - Admit Date: [L-DATE]
+   - Physician: [I-STAFF] [L-STAFF]
+
+3. Medication:
+   - Buprenorphine 8mg tablet
+     - Administration1: 
+         - Start: 17:00 [L-DATE] 
+         - Stop: 23:59 [L-DATE] 
+         - Date Administered: [L-DATE] 
+         - Admin Time: 17:32
+         - Completion Status: kslupek
+     - Administration2: 
+         - Start: 12:20 [U-DATE]/[L-DATE] 
+         - Stop: 12:56 [L-DATE]
+         - Date Administered: [L-DATE]
+         - Admin Time: 12:26
+         - Completion Status: kalupek
+   - Gabapentin 1,200mg tablet
+     - Administration Time: 17:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 17:32
+     - Completion Status: kslupek
+   - Mirtazapine 15mg tablet
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:44
+     - Completion Status: mebreo
+   - Multivitamin tablet
+     - Administration Time: 9:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 9:21
+     - Completion Status: kslupek
+   - Omeprazole 20mg DR CAP
+     - Administration Time: 9:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 9:20
+     - Completion Status: kslupek
+   - Prazosin 1mg CAPSULE
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:45
+     - Completion Status: mebreo
+   - Quetiapine 300mg tablet
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:43
+     - Completion Status: mebreo
+   - Quetiapine 600mg tablet
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:37
+     - Completion Status: sjobn
+   - Suicidal Ideation Severity Assessment
+     - Administration Time: 16:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 14:35
+     - Completion Status: kelupek
+
+4. Tests:
+   - TSH ONLY, ULTRASENSITIVE 3RD GEN
+     - Date Administered: [L-DATE]
+   - Urine Drug Screen
+     - Date Administered: [L-DATE]
+
+5. Vital Signs
+   - Date Administered: [L-DATE]
+   - Admin Time: 21:09
+   - Completion Status: mebreo
+
+Please note that [L-DATE], [I-STAFF] and [L-STAFF] are placeholders and should be replaced with actual data. Also, the administration times, dates, and the doctors/nurses who administered medication, tests, and evaluation are repeated for different medications. They may need to be adjusted based on the actual data and requirement. Also, the details for the hospital are unknown and marked as such.
+------------------------------

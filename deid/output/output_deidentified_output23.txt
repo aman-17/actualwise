@@ -1,0 +1,33 @@
+That's correct! How can I assist you today?
+------------------------------
+{
+  "Communication": {
+    "Expectation": "Is there a reasonable expectation that this patient will make timely and significant practical improvement in the presenting acute symptoms as a result of inpatient hospitalization services?"
+  },
+  "Orders": {
+    "Medication": {
+      "Inpatient Meds": {
+        "Description": "",
+        "Indication": ""
+      }
+    },
+    "Ancillary": ""
+  },
+  "PrintedOn": "",
+  "PsychiatricEvaluation": "Yes",
+  "Route": "eGoldFax",
+  "AdmitDate": "",
+  "Observation": {
+    "DateTime": "",
+    "Frequency": "PRN"
+  },
+  "Pages": {
+    "Total": "28",
+    "Current": "24"
+  },
+  "PageInformation": {
+    "Total": "11",
+    "Current": "8"
+  }
+}
+------------------------------

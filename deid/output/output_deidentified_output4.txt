@@ -1,0 +1,156 @@
+How can I assist you today?
+------------------------------
+Here's the information structured as follows:
+
+**Medical History and Physical Examination (H&P)**
+
+**Admit Date:** [L-DATE]
+
+**Observation Date/Time:** [L-DATE] 18:53 
+
+**Home Meds:**
+
+        Description: clindamycin
+        Form: Oral 
+        Dose: 300 mg capsule 
+        Brand: Cleocin HCL
+
+        Description: gabapentin
+        Form: Oral 
+        Dose: 300 mg capsule 
+        Brand: Neurontin
+
+        Description: gabapentin
+        Form: Oral 
+        Dose: 400 mg capsule 
+        Brand: Neurontin
+        Indication: Anxiety
+
+        Description: gabapentin
+        Form: Oral 
+        Dose: 800 mg TAB 
+        Brand: Neurentin
+
+        Description: hydrOX¥zine hydrochloride
+        Form: Oral 
+        Dose: 50mg TAB 
+        Brand: Atarax
+
+        Description: lamoTRigine
+        Form: Oral 
+        Dose: 25 mg tablet
+        Brand: Lamictal
+        Indication: Seizures
+        Daily Use Details: 25 ng FO DAILY
+
+        Description: methocarbamol
+        Form: Oral 
+        Dose: 500 mg tablet 
+        Brand: Robaxin
+        Indication: Muscle Spasm
+        Dosage: 500 mg FO TID[U-ID]1321 P
+
+        Description: mirtazapine
+        Form: Oral 
+        Dose: 15 mg tablet 
+        Brand: Remeron
+        Indication: Sleep
+        Daily Use Details: 15 ng FO HS
+
+        Description: nicotine
+        Dose: 21 mg/24 hr
+        Brand: TERF Habitrol
+
+        Description: omeprazole
+        Form: Oral 
+        Dose: 20 mg delayed-release capsule
+        Brand: PriLOSEC
+        Indication: GERD
+        Daily Use Details: 20 ng FO DAILY
+
+        Description: prazosin
+        Form: Oral 
+        Dose: 1 mg capsule 
+        Brand: Minipress
+        Indication: Nightmares
+        Daily Use Details: 1 mg FO HS
+
+        Description: QUEtiapine
+        Form: Oral 
+        Dose: 100 mg tablet
+        Brand: SBROquel
+
+        Description: QUEtiapine
+        Form: Oral 
+        Dose: 300 mg tablet
+        Brand: SEROquel
+        Indication: Mood
+        Daily Use Details: 300 mg FO HS
+
+        Description: sertraline
+        Form: Oral 
+        Dose: 50 mg tablet
+        Brand: Zoloft
+        Indication: Mood
+        Daily Use Details: 50 ng FO DAILY
+
+        Description: traMADol
+        Dose: 50 mg TAB
+        Brand: Ultram
+        Dosage: 100 mg FO TID[U-ID]1321 P
+        Indication: Pain
+
+**Admission Meds:**
+
+      Description: gabapentin
+      Form: Oral 
+      Dose: 400 mg capsule 
+      Brand: Neurontin
+      Indication: Anxiety
+
+     Description: methocarbamol
+     Form: Oral 
+     Dose: 500 mg tablet 
+     Brand: Robaxin
+     Indication: Muscle Spasm
+
+     Description: mirtazapine
+     Form: Oral 
+     Dose: 15 mg tablet 
+     Brand: Remeron
+     Indication: Sleep
+
+     Description: omeprazole
+     Form: Oral 
+     Dose: 20 mg delayed-release capsule
+     Brand: PriLOSEC
+     Indication: GERD
+
+     Description: prazosin
+     Form: Oral 
+     Dose: 1 mg capsule 
+     Brand: Minipress
+     Indication: Nightmares
+
+     Description: QUEtiapine
+     Form: Oral 
+     Dose: 300 mg tablet
+     Brand: SEROquel
+     Indication: Mood
+
+     Description: sertraline
+     Form: Oral 
+     Dose: 50 mg tablet
+     Brand: Zoloft
+     Indication: Mood
+
+     Description: traMADel
+     Form: Oral 
+     Dose: 50 mg tablet
+     Brand: Ultram
+     Indication: Pain
+
+**Allergy Type and Details are not available in the provided data.**
+
+Please note that indicators like [L-DATE], [U-DATE], [U-ID] are placeholders and are typically replaced with real data in the actual report.
+------------------------------

@@ -1,0 +1,54 @@
+How can I assist you today?
+------------------------------
+Patient Details: N/A
+
+Admission Meds:
+1. Gabapentin Oral 400 mg capsule - Indicated for Anxiety
+2. Methocarbamol Oral 500 mg tablet - Indicated for Muscle Spasm
+3. Mirtazapine Oral 15 mg tablet - Indicated for Sleep disorders
+4. Omeprazole Oral 20 mg delayed release capsule - Indicated for GERD
+5. Prazosin Oral 1 mg capsule - Indicated for Nightmares
+6. Quetiapine Oral 300 mg tablet - Indicated for Mood disorders
+7. Sertraline Oral 50 mg tablet - Indicated for Mood disorders
+8. Tramadol Oral 50 mg tablet - Indicated for Pain
+
+Other Medications:
+1. Clindamycin Oral 300 mg capsule
+2. Gabapentin Oral 300 mg capsule
+3. Gabapentin Oral 400 mg capsule
+4. Gabapentin Oral 800 mg Tablet
+5. Hydroxyzine hydrochloride Oral 50 mg Tablet
+6. Lamotrigine Oral 25 mg tablet - Indicated for seizures
+7. Methocarbamol Oral 500 mg tablet  
+8. Mirtazapine Oral 15 mg tablet
+9. Nicotine 21 mg/24 hr TERF
+10. Omeprazole Oral 20 mg delayed release capsule
+11. Prazosin Oral 1 mg capsule
+12. Quetiapine Oral 100 mg tablet
+13. Quetiapine Oral 300 mg tablet
+14. Sertraline Oral 50 mg tablet
+15. Tramadol 50 mg TAB
+
+Psychiatric Evaluation Meds:
+1. Cleocin HCl
+2. Neurontin 400 mg, 1,200 mg
+3. Atarax
+4. Lamictal 25 mg
+5. Robaxin 500 mg
+6. Remeron 15 mg
+7. Habitrol
+8. Prilosec 20 mg
+9. Minipress 1 mg
+10. Seroquel 100 mg, 300 mg
+11. Zoloft 50 mg
+12. Ultram 100 mg
+
+Treatment History:
+- History of Inpatient Treatment: Yes
+- No of Hospitalizations: 16+
+- Most Recent Admission: Swedish Covenant, 2 weeks earlier
+- Age of First Hospitalization: 20
+- Reason for most recent admission: Suicidal Ideation, Detox
+
+Trauma and Abuse: Details not provided in the copied text.
+------------------------------

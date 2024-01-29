@@ -1,0 +1,40 @@
+Absolutely, I'm here to assist you. How can I help you today?
+------------------------------
+{
+"Medical_Report": {
+  "Details": {
+  	"FaxDate": "[L-DATE] 14:30",
+  	"Psychiatric_Evaluation": {
+  	  "Admit Date": "[L-DATE]",
+  	  "Observation_Date_Time": "[L-DATE] 16:56",
+  	  "Primary_Diagnosis": "MAJOR DEPRESSIVE DISORDER",
+  	  "Diagnosis_Date": "[L-DATE]",
+  	  "Icb10_Code": "F33.9",
+  	  "Condition": "RECURRENT, UNSPECIFIED",
+  	  "Provisional_Diagnosis": "Major depressive disorder",
+  	  "IcD-10_Code": "F33.2",
+  	  "Additional_Condition": "recurrent severe without 1 psychotic features"
+  	},
+  	"Initial_Aftercare_Plan": {
+  	  "Living_Placement": "Home/independent Living, Residential Treatment Center",
+  	  "Programs": "[I-HOSP] [L-HOSP]/Shelter Programs/Follow-Up Partial Hospitalization Program and Individual Therapy/Medication Management"
+  	},
+  	"Discharge_Goals_and_Criteria": ["Establish and maintain safety (no SI/HI, self harm, aggression)", "Improvement in signs and symptoms of mood disorder and/or psychosis", "Build insight into condition"],
+  	"Treatment_Explained_To_Patient": "Yes",
+  	"Telehealth_Visit": {
+  	  "Method": "Interactive audio and video telecommunication",
+  	  "Real_Time_Communication": "Yes",
+  	  "Consent of Virtual Visit": "Obtained",
+  	  "Originating_Site": "[B-HOSP] [I-HOSP] [L-HOSP]",
+  	  "Distant_Site": "Provider Home"
+  	},
+  	"Discharge_Documented_by_Scribe": "No",
+  	"Discussion_Regarding_Treatment": "The provider discussed with the patient the use of antipsychotic drugs, including the risks and benefits of the medication, possible adverse effects such as weight gain, increased serum glucose, sedation, movement disorders, and cardiac reactions; likely symptoms and risk and benefits of the medication not being taken, and alternative treatments along with the risks and benefits of those alternative treatments.",
+  	"Provider_Signature": "e-Signed by [I-STAFF] [L-STAFF], MD at [L-DATE] 16:56"
+  },
+  "Printed_On": "[L-DATE] @ 12:37",
+  "Page": "11 of 11"
+ }
+}
+
+------------------------------

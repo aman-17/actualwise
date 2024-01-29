@@ -1,0 +1,39 @@
+That's correct! How can I assist you today?
+------------------------------
+{
+  "Medical Diagnosis": [
+    {
+      "Diagnosis": "Acute embolism and thrombosis of unspecified deep veins of right lower extremity",
+      "Code": "182.401 IcD-10"
+    },
+    {
+      "Diagnosis": "Alcoholic hepatitis without ascites",
+      "Code": "K70.10 IcD-10"
+    },
+    {
+      "Diagnosis": "Gastro-esophageal reflux disease with esophagitis, without bleeding",
+      "Code": "K21.00 IcD-10"
+    },
+    {
+      "Diagnosis": "Other pulmonary embolism without acute cor pulmonale",
+      "Code": "126.99 IcD-10"
+    },
+    {
+      "Diagnosis": "Unspecified convulsions",
+      "Code": "R56.9 IcD-10"
+    }
+  ],
+  "Psychiatric Diagnoses": [
+    {
+      "Diagnosis": "MAJOR DEPRESSIVE DISORDER, RECURRENT, UNSPECIFIED",
+      "Code": "F33.9 IcD10"
+    }
+  ],
+  "Reason for admission": "SI with plan to OD on prescription meds",
+  "Gender": "Male",
+  "Preferred Pronouns": "He/Him/His",
+  "Informant": "Patient.chart",
+  "Reliability": "Yes",
+  "Past Medical History": "LLE DVT, PE, GERD, Congenitalspondylosethesis, left hip avascular necrosis. hx hip replacement, hx back surgery, hx seizures from withdrawal"
+}
+------------------------------

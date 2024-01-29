@@ -1,0 +1,1323 @@
+------------------------------
+Patient Details: N/A
+
+Admission Meds:
+1. Gabapentin Oral 400 mg capsule - Indicated for Anxiety
+2. Methocarbamol Oral 500 mg tablet - Indicated for Muscle Spasm
+3. Mirtazapine Oral 15 mg tablet - Indicated for Sleep disorders
+4. Omeprazole Oral 20 mg delayed release capsule - Indicated for GERD
+5. Prazosin Oral 1 mg capsule - Indicated for Nightmares
+6. Quetiapine Oral 300 mg tablet - Indicated for Mood disorders
+7. Sertraline Oral 50 mg tablet - Indicated for Mood disorders
+8. Tramadol Oral 50 mg tablet - Indicated for Pain
+
+Other Medications:
+1. Clindamycin Oral 300 mg capsule
+2. Gabapentin Oral 300 mg capsule
+3. Gabapentin Oral 400 mg capsule
+4. Gabapentin Oral 800 mg Tablet
+5. Hydroxyzine hydrochloride Oral 50 mg Tablet
+6. Lamotrigine Oral 25 mg tablet - Indicated for seizures
+7. Methocarbamol Oral 500 mg tablet  
+8. Mirtazapine Oral 15 mg tablet
+9. Nicotine 21 mg/24 hr TERF
+10. Omeprazole Oral 20 mg delayed release capsule
+11. Prazosin Oral 1 mg capsule
+12. Quetiapine Oral 100 mg tablet
+13. Quetiapine Oral 300 mg tablet
+14. Sertraline Oral 50 mg tablet
+15. Tramadol 50 mg TAB
+
+Psychiatric Evaluation Meds:
+1. Cleocin HCl
+2. Neurontin 400 mg, 1,200 mg
+3. Atarax
+4. Lamictal 25 mg
+5. Robaxin 500 mg
+6. Remeron 15 mg
+7. Habitrol
+8. Prilosec 20 mg
+9. Minipress 1 mg
+10. Seroquel 100 mg, 300 mg
+11. Zoloft 50 mg
+12. Ultram 100 mg
+
+Treatment History:
+- History of Inpatient Treatment: Yes
+- No of Hospitalizations: 16+
+- Most Recent Admission: Swedish Covenant, 2 weeks earlier
+- Age of First Hospitalization: 20
+- Reason for most recent admission: Suicidal Ideation, Detox
+
+Trauma and Abuse: Details not provided in the copied text.
+------------------------------
+------------------------------
+{
+  "Medical History and Physical Examination": {
+    "DOB": "Not mentioned",
+    "Admit Date": "[L-DATE]",
+    "Observation Date/Time": {
+      "Date": "[U-DATE]",
+      "Time": "[L-DATE] 18:53"
+    },
+    "Substance Use": {
+      "Alcohol": {
+        "Format": "Oral",
+        "Quantity": "1/2 gallon",
+        "Frequency": "daily",
+        "Age First Use": "teen",
+        "Last Use Date": "[L-DATE]",
+        "Status": "Current"
+      },
+      "Cannabis": {
+        "Format": "Smoke/Vap",
+        "Frequency": "Sporadic",
+        "Age First Use": "teen",
+        "Last Use Date": "[U-DATE]/[L-DATE]",
+        "Status": "Current"
+      },
+      "Cocaine/Crack": {
+        "Format": "Snort/Inhal",
+        "Quantity": "$40",
+        "Frequency": "daily",
+        "Age First Use": "20's",
+        "Last Use Date": "[U-DATE]/[U-DATE]23",
+        "Status": "Current"
+      },
+      "Opiates": {
+        "Format": "Inject",
+        "Quantity": "$80",
+        "Age First Use": "18",
+        "Last Use Date": "[U-DATE]/[U-DATE]23",
+        "Status": "Current"
+      },
+      "Tobacco Use": {
+        "Admitted": "Yes",
+        "Types Used": {
+          "Cigarettes": {
+            "Quantity": "1 ppd"
+          }
+        }
+      }
+    },
+    "Education": {
+      "Currently in School": "No",
+      "Highest level of Education": "Some College"
+    },
+    "Social/Family History": {
+      "Living Situation": "Homeless",
+      "Can patient return": "Yes",
+      "Raised By": "Adopted Parents",
+      "Number of Siblings": "2",
+      "Describe Relationship": "1 twin brother, only close with twin brother",
+      "Number of Children": "9",
+      "Children's Relationship": "[B-PATIENT]ia[L-PATIENT]"
+    }
+  }
+}
+------------------------------
+------------------------------
+{
+"Medical History and Physical Examination (H&P)": {
+"Admit Date": "[L-DATE]",
+"Observation Date/Time": "[L-DATE] 18:53"
+},
+"Social/Family History": {
+"FAMILY PSYCH/SUBSTANCE ABUSE HISTORY": {
+"1": {
+"Relationship": "Sibling",
+"History of mental health/chemical dependency issues": "depression, drug addiction"
+}
+}
+},
+"Family Medical History": "patient denies",
+"Legal History": {
+"Any Legal Issues": "Yes",
+"Number of arrests": "multiple",
+"Current/Pending Charges": "No",
+"Arrest Details": "drug possession",
+"Time incarcerated": "1 month in jail",
+"Probation/Parole": "No"
+},
+"Military Service": {
+"Military Service": "No",
+"History of Service": "No"
+},
+"Review of Systems": {
+"RESPIRATORY": "No History of Problems",
+"Have you been vaccinated for COVID-19? (Corona)": "No",
+"Do you want to be vaccinated?": "No",
+"Date of last TB Test": "UNK",
+"SKIN": "No History of Problems"
+},
+"Printed On": "[L-DATE] @ 12:37 Page 5 of 10"
+}
+------------------------------
+------------------------------
+Psychiatric Evaluation
+
+- Admit Date: Not Provided
+- Observation Date/Time: Not Provided
+
+Medications:
+- Acetaminophen Oral: 325mg tablet/650mg
+- LORazepam Oral: 1mg tablet (Ativan)
+- Dicyclomine Oral: 20mg tablet (Bentyl)
+- Gabapentin Oral: 600mg tablet (Neurontin)
+- Loperamide Oral: 2mg capsule (Imodium)
+- Lorazepam Injectable: 2mg/mL (Ativan)
+- Melatonin Oral: 5mg/tab
+- Methocarbamol Oral: 500mg tablet (Robaxin)
+- Mirtazapine Oral: 15mg tablet (Remeron)
+- Multivitamin Oral: 1 tablet per day
+- Nicotine Oral Transmucosal: 2mg (Nicorette)
+- Omeprazole Oral: 20mg delayed release capsule (PriLOsEC)
+- Ondansetron Oral: 4mg tablet (Zofran)
+- Prazosin Oral: 1mg capsule (Minipress)
+- Quetiapine Oral: 300mg tablet (SEROquel)
+- Sertraline Oral: 50mg tablet (Zoloft)
+- Tramadol Oral: 50mg tablet (Ultram)
+- Tivaroxaban Oral: 10mg tablet (*Xarelto)
+
+Ancillary Orders:
+- Admit to: 4N, Dual Diagnosis - Substance Abuse and Detox
+- Environment Patient Safety Checklist
+- Patient/Family Education
+- Daily Nursing Progress Note
+- Psychotropic Medication Notice and Consent Form
+- LIPID PANEL W/HDL IN AM-uc
+- Suicidal Ideation Severity Assessment at 1600
+- TSH ONLY, ULTRA SENSITIVE 3RD GEN IN AM-UC
+- COMPREHENSIVE METABOLIC IN AM-UC
+
+Printed On: 10/30/2023 @ 12:37 Page 9 of 11
+------------------------------
+------------------------------
+{
+  "Medical History and Physical Examination": {
+    "Admit Date": "[L-DATE]",
+    "LES Observation Date/Time": "[L-DATE] 18:53",
+    "Observations": [
+      "Suicidal Ideation Severity Assessment 1600",
+      "TSH ONLY, ULTRA SENSITIVE 3RD GEN IN AM-UC",
+      "COMPREHENSIVE METABOLIC IN AM-UC",
+      "CBC W/O DIFFERENTIAL IN AM-UC"
+    ],
+    "Special Diet": "Heart Healthy: Finger Foods: No Consult Needed",
+    "Vital Signs": "VS_BID",
+    "Level Of Observation": "Q10 minutes (Q10)",
+    "Reason For Observation": "SI with plan to OD on prescription meds LOS Rational",
+    "Precautions": [
+      "SUICIDAL Precaution",
+      "HIGH RISK Precaution",
+      "DETOX"
+    ],
+    "Provisional Diagnosis": "SI with plan to OD on prescription meds",
+    "Legal Status": "Voluntary",
+    "Tests": [
+      "Urine Drug Screen IN AM-UC"
+    ],
+    "Notes": [
+      "Nurse Collect",
+      "COWS Scale Q4H-Cows"
+    ],
+    "Additional Notes": "If initial score >10 assess vitals per protocol.Verify with MD the initiation of the medical detox protocol"
+  },
+  "Telehealth": {
+    "Mode of Communication": "Interactive audio and No video telecommunication",
+    "Site": "[B-HOSP] [I-HOSP] [L-HOSP]",
+    "Distant Site": "Provider Home"
+  },
+  "Plan Of Care": {
+    "Documented by Scribe": "No",
+    "APN Signature": "[I-STAFF] [L-STAFF], NP",
+    "APN Signature Time": "[L-DATE] 10:22",
+    "Medical Provider Signature": "[I-STAFF] [L-STAFF], MD",
+    "Medical Provider Signature Time": "[L-DATE] 00:28"
+  },
+  "Print Details": {
+    "Printed On Date": "[L-DATE]",
+    "Printed On Time": "12:37",
+    "Page": "10 of 10"
+  }
+}
+------------------------------
+------------------------------
+{
+"Admit Date": "[L-DATE]",
+"Observation Date/Time": "[L-DATE] 16:56",
+"Medical Procedures": [
+  "CBC W/O DIFFERENTIAL IN AM-UC",
+  "Vital Signs VS_BID",
+  "Urine Drug Screen IN AM-UC"
+],
+"Special Diet": "Heart Healthy: Finger Foods",
+"Consult Needed": "No",
+"Observation Level": "Q10 minutes (Q10)",
+"Observation Reason": "SI with plan to OD on prescription meds",
+"Precautions": [
+  "SUICIDAL Precaution",
+  "HIGH RISK Precaution",
+  "DETOX"
+],
+"Provisional Diagnosis": "$I with plan to OD on prescription meds",
+"Legal Status": "Voluntary",
+"Medical Assessment": "Cows Scale Q4H-COWS",
+"Estimated Length of Stay": "8 Days",
+"Support System": ["Brother", "Mother", "NA people"],
+"Outpatient Treatment Team": "Yes",
+"Doctor Details": ["Dr. [I-HOSP] [I-HOSP] [I-HOSP] [L-HOSP]"],
+"Personal Goal": "Not provided",
+"Living Situation": "Homeless",
+"Substance Abuse": ["alcohol", "heroin", "cocaine"],
+"Legal Issues": "Yes",
+"Discharge Diagnosis Requirements": "At least one ACTIVE and one PRIMARY Diagnosis",
+"Printed On": "[L-DATE] @ 12:37"
+}
+------------------------------
+------------------------------
+{
+  "Report_Type": "Medication Administration Record",
+  "Record_Start": "[L-DATE] 11:00",
+  "Record_End": "[L-DATE] 12:37",
+  "Patient_Name": null,
+  "Patient_Location": null,
+  "Physician": "[I-STAFF] [L-STAFF]",
+  "Tasks": 
+  [
+    {
+      "Task_Name": "Blood Glucose Monitoring",
+      "Frequency": "NOW"
+    },
+    {
+      "Task_Name": "Care Profile and Crisis Plan",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "CBC W/O DIFFERENTIAL",
+      "Frequency": "EVERY MORNING UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "COMPREHENSIVE METABOLIC",
+      "Frequency": "EVERY MORNING UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "Consent and Declination of Seasonal Influenza Vaccine",
+      "Frequency": "EVERY 12 HOURS UNTIL COMPLETE"
+    },
+    {
+      "Task_Name": "COWS Scale",
+      "Frequency": "Every 4 hours"
+    },
+    {
+      "Task_Name": "Daily Nursing Progress Note",
+      "Frequency": "Twice a Day"
+    }
+  ],
+  "Assesments_Details": 
+  [
+    {
+      "Date": "[L-DATE]",
+      "Start_Time": "12:07",
+      "Reference_Time": "11:42",
+      "Admin_Status": "Not Administered/Nc agarin",
+      "Additional_Info": "Other - See Notes"
+    },
+    {
+      "Date": "[L-DATE]",
+      "Start_Time": "16:01",
+      "Reference_Time": "10:00",
+      "Admin_Status": "Not Administered/Nekslupek"
+    },
+    {
+      "Date": "[L-DATE]",
+      "Start_Time": "16:01",
+      "Reference_Time": "10:00",
+      "Admin_Status": "Not Administered/Nc kelupek",
+      "Additional_Info": "Other - See [L-STAFF]"
+    }
+  ],
+  "Protocol_Details":
+  [
+    {
+      "Protocol_Name": "Environment Patient Safety Checklist",
+      "Frequency": "Twice a Day",
+      "Admin_Sched": 
+      [
+        {
+          "Date": "10/28",
+          "Start_Time": "16:00",
+          "Finish_Time": "23:59",
+          "End_Date": "12/31"
+        }
+      ]
+    },
+    {
+      "Protocol_Name": "Initial Nursing Assessment",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Protocol_Name": "Initial Treatment Plan",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Protocol_Name": "Initiate Treatment Plan for Patient",
+      "Frequency": "EVERY 4 HOURS - UNTIL COMPLETE"
+    },
+    {
+      "Protocol_Name": "LIPID PANEL W/HDL",
+      "Frequency": "EVERY MORNING UNTIL COMPLETE"
+    }
+  ],
+  "Medication_Details": 
+  [
+    {
+      "Medication_Name": "buprenorphine TABLET 2mg (Subutex)",
+      "Dose_Schedule": "TWICE DAILY 0900 & 1700",
+      "Purpose": "for Maintenance"
+    }
+  ],
+  "Record_Print_Date": "10/30/23 12:37",
+  "Page": "1of3"
+}
+------------------------------
+------------------------------
+{
+"Report_Details": {
+  "Powered_By": "U-HOSP",
+  "Fax_Date": "Unknown",
+  "Record_Type": "Medication Administration Record",
+  "Dates_Covered": "Unknown"
+},
+"Patient_Info": {
+  "Name": "Unknown",
+  "Hospital_Number": "Unknown",
+  "Location": "Unknown",
+  "Admit_Date": "Unknown",
+  "Physician": "I-STAFF L-STAFF"
+},
+"Medication_Records": [
+  {
+    "Medication": "Tivaroxaban (Xarelto) TABLET 10mg",
+    "Administration_Method": "Oral",
+    "Frequency": "ONCE ADAY",
+    "Start_Date": "U-DATE/L-DATE",
+    "Stop_Date": "L-DATE",
+    "Completion": ["Complete agarin", "Complete kelupek", "Complete rsoriano"],
+    "Purpose": "For DVT"
+  },
+  {
+    "Medication": "Sertraline (Zoloft) TABLET 50mg",
+    "Administration_Method": "Oral",
+    "Frequency": "ONCE ADAY",
+    "Start_Date": "L-DATE",
+    "Stop_Date": "U-DATE/L-DATE",
+    "Completion": ["Complete kelupek", "Complete rsoriano"],
+    "Purpose": "For Mood"
+  },
+  {
+    "Medication": "Sertraline (Zoloft) TABLET 25mg",
+    "Administration_Method": "Oral",
+    "Frequency": "ONCE ADAY",
+    "Start_Date": "U-DATE",
+    "Stop_Date": "L-DATE",
+    "Purpose": "For Depression"
+  },
+  {
+    "Medication": "Buprenorphine (Subutex) TABLET 8mg",
+    "Administration_Method": "Sublingual",
+    "Frequency": "TWICE DAILY",
+    "Start_Date": "B-ID/L-DATE",
+    "Stop_Date": "L-DATE",
+    "Purpose": "For Maintenance"
+  },
+  {
+    "Medication": "Dicyclomnine (Bentyl) TABLET 20mg",
+    "Administration_Method": "Oral",
+    "Frequency": "THREE TIMES DAILY",
+    "Start_Date": "L-DATE",
+    "Stop_Date": "L-DATE",
+    "Purpose": "For Stomach Cramps"
+  },
+  {
+    "Medication": "LORazepam (Ativan) TABLET 1mg",
+    "Administration_Method": "Oral",
+    "Frequency": "EVERY 6 HOURS",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete kslupek", "Complete mebreo", "Complete kslupek", "Complete kslupek", "Complete sjohn", "Complete rsoriano"],
+    "Purpose": "For Anxiety"
+  },
+  {
+    "Medication": "Melatonin TABLET 3mg",
+    "Administration_Method": "Oral",
+    "Frequency": "AT BEDTIME",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete mebreo"],
+    "Purpose": "For Insomnia"
+  },
+  {
+    "Medication": "Methocarbamol (Robaxin) TABLET 500mg",
+    "Administration_Method": "Oral",
+    "Frequency": "THREE TIMES DAILY",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete mebreo", "Complete sjokn", "Complete rsoriano"],
+    "Purpose": "For muscle spasm"
+  },
+  {
+    "Medication": "Nicotine (Nicorette) GUM 2mg",
+    "Administration_Method": "Oral Transmucosal",
+    "Frequency": "EVERY 2 HOURS",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete agarin", "Complete mebreo", "Complete mebreo", "Complete kslupok", "Complete kslupek"],
+    "Purpose": "For Smoking Cessation"
+  },
+  {
+    "Medication": "TaMADol (Ultram) TABLET 100mg",
+    "Administration_Method": "Oral",
+    "Frequency": "THREE TIMES DAILY",
+    "Start_Date": "10/28",
+    "Stop_Date": "12/31",
+    "Completion": ["Complete mebreo", "Complete lslupek", "Complete kelupek", "Complete sjohn", "Complete ssoriano"],
+    "Purpose": "For Pain"
+  }
+],
+"Report_Print_Details": {
+  "Printed_Date": "10/30/23",
+  "Page_Number": "3 of 3"
+}
+}
+------------------------------
+------------------------------
+Psychiatric Evaluation:
+- Admit Date: [L-DATE]
+- Observation Date/Time: [L-DATE] 16:56
+- Issues:
+  - Sexual assault at teenage, not reported legally
+  - Neglected by biological parents in childhood, was later adopted 
+
+Substance Use:
+- Admission to use: Yes
+- Positive Drug Screen
+
+Details:
+- Alcohol: 
+  - Has Prescription: No
+  - Method: Oral
+  - Quantity: 1/2 gallon daily
+  - Age of First Use: Teenage
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+- Cannabis:
+  - Has Prescription: No
+  - Method: Smoke/Vape
+  - Quantity/Frequency: Sporadic
+  - Age of First Use: Teenage
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+- Cocaine/Crack:
+  - Has Prescription: No
+  - Method: Snort/Inhal
+  - Quantity: $40 daily
+  - Age of First Use: 20's
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+- Opiates (Heroin/Oxy etc.):
+  - Has Prescription: No
+  - Method: Injects
+  - Quantity: $80 of heroin
+  - Age of First Use: 18
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+
+Tobacco Use:
+- Admission to use: Yes
+- Use of Cigarettes: 1 pack per day
+- Other Addictive Behaviors: No
+
+Printed Date/Time: [L-DATE] @ 12:37
+Pages: Page 4 of 11
+------------------------------
+------------------------------
+{
+"Cranial Nerves Exam":{
+   "CNI":{
+      "test_method":"Not Mentioned",
+      "result":"WNL"
+   },
+   "CN Il":{
+      "test_method":"Not Mentioned",
+      "result":"WNL"
+   },
+   "CN III, IV, VI":{
+      "test_method":"Finger Tracking",
+      "result":"WNL"
+   },
+   "CN V":{
+      "test_method":"Light touch forehead",
+      "result":"WNL"
+   },
+   "CN VII":{
+      "test_method":"Eyebrow raise",
+      "result":"WNL"
+   },
+   "CN VIII":{
+      "test_method":"Finger rub near ear",
+      "result":"WNL"
+   },
+   "CN IX, X":{
+      "test_method":"Palate elevation",
+      "result":"WNL"
+   },
+   "CN X":{
+      "test_method":"Palate elevation",
+      "result":"WNL"
+   },
+   "CN XI":{
+      "test_method":"Shoulder Shrug",
+      "result":"WNL"
+   },
+   "CN XII":{
+      "test_method":"Extend tongue side to side",
+      "result":"Not Mentioned"
+   }
+},
+"Plan Of Care":{
+   "Printed On":"[L-DATE] @ 12:37"
+},
+"Medical History and Physical HH Examination (H&P)":{
+   "Admit Date":"[L-DATE]",
+   "Observation Date/Time":"[L-DATE] 18:53"
+}
+}
+------------------------------
+------------------------------
+{
+"Medical_Report": {
+  "Details": {
+  	"FaxDate": "[L-DATE] 14:30",
+  	"Psychiatric_Evaluation": {
+  	  "Admit Date": "[L-DATE]",
+  	  "Observation_Date_Time": "[L-DATE] 16:56",
+  	  "Primary_Diagnosis": "MAJOR DEPRESSIVE DISORDER",
+  	  "Diagnosis_Date": "[L-DATE]",
+  	  "Icb10_Code": "F33.9",
+  	  "Condition": "RECURRENT, UNSPECIFIED",
+  	  "Provisional_Diagnosis": "Major depressive disorder",
+  	  "IcD-10_Code": "F33.2",
+  	  "Additional_Condition": "recurrent severe without 1 psychotic features"
+  	},
+  	"Initial_Aftercare_Plan": {
+  	  "Living_Placement": "Home/independent Living, Residential Treatment Center",
+  	  "Programs": "[I-HOSP] [L-HOSP]/Shelter Programs/Follow-Up Partial Hospitalization Program and Individual Therapy/Medication Management"
+  	},
+  	"Discharge_Goals_and_Criteria": ["Establish and maintain safety (no SI/HI, self harm, aggression)", "Improvement in signs and symptoms of mood disorder and/or psychosis", "Build insight into condition"],
+  	"Treatment_Explained_To_Patient": "Yes",
+  	"Telehealth_Visit": {
+  	  "Method": "Interactive audio and video telecommunication",
+  	  "Real_Time_Communication": "Yes",
+  	  "Consent of Virtual Visit": "Obtained",
+  	  "Originating_Site": "[B-HOSP] [I-HOSP] [L-HOSP]",
+  	  "Distant_Site": "Provider Home"
+  	},
+  	"Discharge_Documented_by_Scribe": "No",
+  	"Discussion_Regarding_Treatment": "The provider discussed with the patient the use of antipsychotic drugs, including the risks and benefits of the medication, possible adverse effects such as weight gain, increased serum glucose, sedation, movement disorders, and cardiac reactions; likely symptoms and risk and benefits of the medication not being taken, and alternative treatments along with the risks and benefits of those alternative treatments.",
+  	"Provider_Signature": "e-Signed by [I-STAFF] [L-STAFF], MD at [L-DATE] 16:56"
+  },
+  "Printed_On": "[L-DATE] @ 12:37",
+  "Page": "11 of 11"
+ }
+}
+
+------------------------------
+------------------------------
+{
+"Psychiatric Evaluation": {
+    "Admit Date": "[L-DATE]",
+    "Observation Date/Time": "[L-DATE] 16:56"
+    },
+"Substance Abuse Treatment": [
+    {
+    "Row": 1,
+    "Type of Treatment": "RIC LSsI",
+    "Location of Treatment": "",
+    "Dates of Treatment": "[U-DATE]"
+    },
+    {
+    "Row": 2,
+    "Type of Treatment": "RIC ECS",
+    "Location of Treatment": "[U-LOC], [U-LOC]",
+    "Dates of Treatment": "a few months ago"
+    },
+    {
+    "Row": 3,
+    "Type of Treatment": "dual diagnosis",
+    "Location of Treatment": "[L-HOSP] - [B-LOC] [L-LOC], [U-LOC]",
+    "Dates of Treatment": "[U-DATE]"
+    }
+],
+"Family/Living Situation": {
+    "Current living situation": "Homeless",
+    "Can patient return": "Yes",
+    "Patient raised by": "Adopted parents",
+    "Number of Siblings": 2,
+    "Describe Relationship": "1 twin brother, only close with twin brother",
+    "Number of Children": 0,
+    "Describe Relationship with Children": "N/A"
+},
+"Legal History": {
+    "Any Legal Issues": "Yes",
+    "Number of arrests": "Multiple",
+    "Current/Pending Charges": "No",
+    "Arrest Details": "Drug possession",
+    "Time incarcerated": "1 month in jail",
+    "Probation/Parole": "No"
+},
+"Military Service": {
+    "Military Service": "No",
+    "History of Service": "No"
+},
+"Activities of Daily Living": {
+    "Sleep disturbance(s)": "Yes",
+    "Sleep disturbance details": "Get about 4-hours a night. Difficulty falling asleep and frequent awakening",
+    "Normal hours of sleep": 8
+}
+}
+------------------------------
+------------------------------
+Admission Information:
+- Admit Date: [L-DATE]
+- Observation Date/Time: [L-DATE] 18:53
+
+Allergy Information:
+- Aripiprazole: Severe Allergy, Symptoms - Blurred Vision
+- Bee Sting: Severe Allergy, Symptoms - Swelling
+- Dust Mite: Mild Allergy
+- Ketorolac: Mild Allergy, Symptoms - Swelling
+- Penicillin: Severe Allergy, Symptoms - Hives
+
+Dietary And Activity status:
+- Dietary Restrictions: No
+- Activity Restrictions: No
+
+Vital Signs:
+- Height: 67 in
+- Weight: 151 lb
+- BMI: 23.6
+- Systolic BP: 108 mmHg
+- Diastolic BP: 66 mmHg
+- Blood Pressure overall: 119/170
+- Heart Rate: 82 beats/min
+- Temperature: 97.6°F
+- Respiration: 20 resp/min
+- SpO2: 99%
+
+Past Medical History:
+- Last Dental Exam: 2 years ago
+- Last Eye Exam: 2 years ago
+- Immunizations: Up to date
+- Last PPD: Negative
+- Recent Illness/Injuries: None (patient denies)
+- Past Hospitalization/Psych: Yes
+
+Substance Use:
+- Patient Confirmation: Yes
+- Positive Drug Screen: Yes
+------------------------------
+------------------------------
+Here's the information structured as follows:
+
+**Medical History and Physical Examination (H&P)**
+
+**Admit Date:** [L-DATE]
+
+**Observation Date/Time:** [L-DATE] 18:53 
+
+**Home Meds:**
+
+        Description: clindamycin
+        Form: Oral 
+        Dose: 300 mg capsule 
+        Brand: Cleocin HCL
+
+        Description: gabapentin
+        Form: Oral 
+        Dose: 300 mg capsule 
+        Brand: Neurontin
+
+        Description: gabapentin
+        Form: Oral 
+        Dose: 400 mg capsule 
+        Brand: Neurontin
+        Indication: Anxiety
+
+        Description: gabapentin
+        Form: Oral 
+        Dose: 800 mg TAB 
+        Brand: Neurentin
+
+        Description: hydrOX¥zine hydrochloride
+        Form: Oral 
+        Dose: 50mg TAB 
+        Brand: Atarax
+
+        Description: lamoTRigine
+        Form: Oral 
+        Dose: 25 mg tablet
+        Brand: Lamictal
+        Indication: Seizures
+        Daily Use Details: 25 ng FO DAILY
+
+        Description: methocarbamol
+        Form: Oral 
+        Dose: 500 mg tablet 
+        Brand: Robaxin
+        Indication: Muscle Spasm
+        Dosage: 500 mg FO TID[U-ID]1321 P
+
+        Description: mirtazapine
+        Form: Oral 
+        Dose: 15 mg tablet 
+        Brand: Remeron
+        Indication: Sleep
+        Daily Use Details: 15 ng FO HS
+
+        Description: nicotine
+        Dose: 21 mg/24 hr
+        Brand: TERF Habitrol
+
+        Description: omeprazole
+        Form: Oral 
+        Dose: 20 mg delayed-release capsule
+        Brand: PriLOSEC
+        Indication: GERD
+        Daily Use Details: 20 ng FO DAILY
+
+        Description: prazosin
+        Form: Oral 
+        Dose: 1 mg capsule 
+        Brand: Minipress
+        Indication: Nightmares
+        Daily Use Details: 1 mg FO HS
+
+        Description: QUEtiapine
+        Form: Oral 
+        Dose: 100 mg tablet
+        Brand: SBROquel
+
+        Description: QUEtiapine
+        Form: Oral 
+        Dose: 300 mg tablet
+        Brand: SEROquel
+        Indication: Mood
+        Daily Use Details: 300 mg FO HS
+
+        Description: sertraline
+        Form: Oral 
+        Dose: 50 mg tablet
+        Brand: Zoloft
+        Indication: Mood
+        Daily Use Details: 50 ng FO DAILY
+
+        Description: traMADol
+        Dose: 50 mg TAB
+        Brand: Ultram
+        Dosage: 100 mg FO TID[U-ID]1321 P
+        Indication: Pain
+
+**Admission Meds:**
+
+      Description: gabapentin
+      Form: Oral 
+      Dose: 400 mg capsule 
+      Brand: Neurontin
+      Indication: Anxiety
+
+     Description: methocarbamol
+     Form: Oral 
+     Dose: 500 mg tablet 
+     Brand: Robaxin
+     Indication: Muscle Spasm
+
+     Description: mirtazapine
+     Form: Oral 
+     Dose: 15 mg tablet 
+     Brand: Remeron
+     Indication: Sleep
+
+     Description: omeprazole
+     Form: Oral 
+     Dose: 20 mg delayed-release capsule
+     Brand: PriLOSEC
+     Indication: GERD
+
+     Description: prazosin
+     Form: Oral 
+     Dose: 1 mg capsule 
+     Brand: Minipress
+     Indication: Nightmares
+
+     Description: QUEtiapine
+     Form: Oral 
+     Dose: 300 mg tablet
+     Brand: SEROquel
+     Indication: Mood
+
+     Description: sertraline
+     Form: Oral 
+     Dose: 50 mg tablet
+     Brand: Zoloft
+     Indication: Mood
+
+     Description: traMADel
+     Form: Oral 
+     Dose: 50 mg tablet
+     Brand: Ultram
+     Indication: Pain
+
+**Allergy Type and Details are not available in the provided data.**
+
+Please note that indicators like [L-DATE], [U-DATE], [U-ID] are placeholders and are typically replaced with real data in the actual report.
+------------------------------
+------------------------------
+{
+"Fax Details": {
+    "Hospital": "[U-HOSP]",
+    "Fax Time": "[L-DATE] 14:30",
+    "Printed On": "[L-DATE] @ 12:37"
+},
+"Patient Details": {
+    "Admit Date": "[L-DATE]",
+    "Observation Date and Time": "[L-DATE] 18:53"
+},
+"Medical History": {
+    "Major Depression": {"Indication": None, "Medication": None},
+    "SI wiplan to OD": {"Indication": None, "Medication": None},
+    "Polysubstance Abuse": {"Indication": None, "Medication": None},
+    "Seizure due to Alcohol Withdrawal": {"Indication": None, "Medication": None},
+    "Left Lower Extremity Deep Vein Thrombosis/Pulmonary Embolism": {"Indication": "LLE DVT/PE", "Medication": "Xarelto"},
+    "GastroEsophageal Reflux Disease": {"Indication": "GERD", "Medication": "Omeprazole"},
+    "Alcoholic Hepatitis": {"Indication": None, "Medication": None},
+    "Left Hip Avascular Necrosis": {"Indication": "Left hip avascular necrosis/pain", "Medication": "Tramadol"},
+    "Nicotine Dependence": {"Indication": "Nicotine Dependence", "Medication": "Patch"},
+    "Medical Consultation": {"Description": "Medical Consultation-[U-HOSP]h, labs &meds reviewed", "Brand": None}
+    }
+}
+
+------------------------------
+------------------------------
+{
+"DocumentType": "ADMISSION | DISCHARGE RECORD",
+"SubmissionDate&Time": "[U-DATE]/[L-PHONE] 11:00",
+"ContactDetails": {
+    "Telephone Number": "[I-PHONE] [L-PHONE]",
+    "Cell": "",
+    "HospitalPhone_Chicago": "",
+    "HospitalPhone_PolicyNumber": "[U-ID]2"
+},
+"PatientDetails": {
+    "ID": "[U-ID]",
+    "Name": "[B-PATIENT] [B-PATIENT]es[I-PATIENT] [L-PATIENT]is",
+    "Sex": "",
+    "DateOfBirth": "",
+    "GroupNumber": "",
+    "PolicyName": ",",
+    "GroupName": "",
+    "AdmissionStatus": "AUTEHs",
+    "RelationStatus": ": :"
+},
+"Diagnosis": {
+    "DiagnosisCode": "F339",
+    "DiagnosisName": "MAJOR DEPRESSIVE DISORDER, RECURRENT, UNSPECIFIED",
+    "DiagnosisDetails": "[U-ID]40/28/2; eBIoGNIOTIETS"
+}
+}
+------------------------------
+------------------------------
+Here is the structured data based on the extracted text:
+
+1. Medication Administration Record
+   - Start Time: 11:00 [L-DATE]
+   - End Time: 12:37 [L-DATE]
+
+2. Hospital Information:
+   - Hospital Name: Unknown (Hospital vw?)
+   - Location: Unknown
+   - Admit Date: [L-DATE]
+   - Physician: [I-STAFF] [L-STAFF]
+
+3. Medication:
+   - Buprenorphine 8mg tablet
+     - Administration1: 
+         - Start: 17:00 [L-DATE] 
+         - Stop: 23:59 [L-DATE] 
+         - Date Administered: [L-DATE] 
+         - Admin Time: 17:32
+         - Completion Status: kslupek
+     - Administration2: 
+         - Start: 12:20 [U-DATE]/[L-DATE] 
+         - Stop: 12:56 [L-DATE]
+         - Date Administered: [L-DATE]
+         - Admin Time: 12:26
+         - Completion Status: kalupek
+   - Gabapentin 1,200mg tablet
+     - Administration Time: 17:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 17:32
+     - Completion Status: kslupek
+   - Mirtazapine 15mg tablet
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:44
+     - Completion Status: mebreo
+   - Multivitamin tablet
+     - Administration Time: 9:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 9:21
+     - Completion Status: kslupek
+   - Omeprazole 20mg DR CAP
+     - Administration Time: 9:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 9:20
+     - Completion Status: kslupek
+   - Prazosin 1mg CAPSULE
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:45
+     - Completion Status: mebreo
+   - Quetiapine 300mg tablet
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:43
+     - Completion Status: mebreo
+   - Quetiapine 600mg tablet
+     - Administration Time: 21:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 20:37
+     - Completion Status: sjobn
+   - Suicidal Ideation Severity Assessment
+     - Administration Time: 16:00
+     - Date Administered: [L-DATE]
+     - Admin Time: 14:35
+     - Completion Status: kelupek
+
+4. Tests:
+   - TSH ONLY, ULTRASENSITIVE 3RD GEN
+     - Date Administered: [L-DATE]
+   - Urine Drug Screen
+     - Date Administered: [L-DATE]
+
+5. Vital Signs
+   - Date Administered: [L-DATE]
+   - Admin Time: 21:09
+   - Completion Status: mebreo
+
+Please note that [L-DATE], [I-STAFF] and [L-STAFF] are placeholders and should be replaced with actual data. Also, the administration times, dates, and the doctors/nurses who administered medication, tests, and evaluation are repeated for different medications. They may need to be adjusted based on the actual data and requirement. Also, the details for the hospital are unknown and marked as such.
+------------------------------
+------------------------------
+{
+"Psychiatric Evaluation": {
+  "Admit Date": "[L-DATE]",
+  "Observation Date/Time": "Le : ° '",
+  "Assessment Initiation Requirement": "Yes",
+  "Failure or inability for less intensive outpatient setting": "Yes",
+  "Medical History": {
+    "Current": {
+      "Blood clot disorder": "Yes",
+      "Hip replacement": "Yes",
+      "Back surgery": "Yes",
+      "Seizures from withdrawal": "Yes",
+      "Sciatica": "Yes",
+      "Bipolar": "Yes"
+     }
+  },
+  "Surgical History": {
+    "Lumbar fusion": "Yes",
+    "Back surgery": "Yes",
+    "Total left hip arthroplasty": "Yes",
+    "Contribution to current psychiatric presentation": "No"
+  },
+  "Allergies and Home Meds": {
+    "Allergies reviewed in banner": "Yes",
+    "Home Meds": "[Pending data]"
+  },
+  "Printed On": "[U-DATE]/[L-DATE] @ 12:37"
+ }
+}
+------------------------------
+------------------------------
+{
+  "Communication": {
+    "Expectation": "Is there a reasonable expectation that this patient will make timely and significant practical improvement in the presenting acute symptoms as a result of inpatient hospitalization services?"
+  },
+  "Orders": {
+    "Medication": {
+      "Inpatient Meds": {
+        "Description": "",
+        "Indication": ""
+      }
+    },
+    "Ancillary": ""
+  },
+  "PrintedOn": "",
+  "PsychiatricEvaluation": "Yes",
+  "Route": "eGoldFax",
+  "AdmitDate": "",
+  "Observation": {
+    "DateTime": "",
+    "Frequency": "PRN"
+  },
+  "Pages": {
+    "Total": "28",
+    "Current": "24"
+  },
+  "PageInformation": {
+    "Total": "11",
+    "Current": "8"
+  }
+}
+------------------------------
+------------------------------
+{
+  "Medical Diagnosis": [
+    {
+      "Diagnosis": "Acute embolism and thrombosis of unspecified deep veins of right lower extremity",
+      "Code": "182.401 IcD-10"
+    },
+    {
+      "Diagnosis": "Alcoholic hepatitis without ascites",
+      "Code": "K70.10 IcD-10"
+    },
+    {
+      "Diagnosis": "Gastro-esophageal reflux disease with esophagitis, without bleeding",
+      "Code": "K21.00 IcD-10"
+    },
+    {
+      "Diagnosis": "Other pulmonary embolism without acute cor pulmonale",
+      "Code": "126.99 IcD-10"
+    },
+    {
+      "Diagnosis": "Unspecified convulsions",
+      "Code": "R56.9 IcD-10"
+    }
+  ],
+  "Psychiatric Diagnoses": [
+    {
+      "Diagnosis": "MAJOR DEPRESSIVE DISORDER, RECURRENT, UNSPECIFIED",
+      "Code": "F33.9 IcD10"
+    }
+  ],
+  "Reason for admission": "SI with plan to OD on prescription meds",
+  "Gender": "Male",
+  "Preferred Pronouns": "He/Him/His",
+  "Informant": "Patient.chart",
+  "Reliability": "Yes",
+  "Past Medical History": "LLE DVT, PE, GERD, Congenitalspondylosethesis, left hip avascular necrosis. hx hip replacement, hx back surgery, hx seizures from withdrawal"
+}
+------------------------------
+------------------------------
+{
+"Legal Status": "Voluntary",
+"Gender": "Male",
+"Reason for Admission from Intake": "SI with plan to OD on prescription meds",
+"Identifying Data": "43-year-old male with past psychiatric history of bipolar disorder, PTSD, and polysubstance abuse",
+"Chief Complaint from Intake": "im depressed",
+"Chief Complaint in Patient's Own Words": "i'm dealing with a lot of trauma",
+"History of Present Illness": "Patient is a 43-year-old male with past psychiatric history of bipolar disorder, PTSD, and polysubstance abuse who presents as a transfer from [B-HOSP] [L-HOSP] for suicidal ideation with plan to overdose. Reports he has been feeling increasingly depressed and hopeless since his fiancé passed away in [U-DATE]. Prior to presentation to the ED, he reports taking “a bunch of pills” combined with cocaine and alcohol to try to end life. In addition he feels like he has poor support system and is homeless. He states he is “dealing with a lot of trauma\" and that he has been coping with heroin, reports using $80-100 worth daily. He states he is currently on quetiapine 600mg and suboxone mg twice dally. Utox +benzos, cocaine, fentany|. Patient presents depressed, anxious, hopeless, helpless, with avolition, anhedonia, racing ruminating thought process, poor sleep, poor insight and poor self care.",
+"Detox Status": "Detox Monitoring",
+"COWS Total": 2.00000,
+"Risk of Harm to Self and Others": {
+    "Risk of Harm to Self": {
+        "Harm Analyses": ["Inability to care for self", "Thoughts to harm self", "Active suicidal ideation", "Active suicide plan","Unable to contract for safety"],
+        "C-SSRS Score from Intake": 18,
+        "Suicidal Intent": "plan to OD"
+    },
+    "Risk of Harm to Others": {
+        "Notes": "Denies thought, plan or ideation to harm others",
+        "Assaultive Thoughts or Behaviors": "No"
+    }
+}
+}
+------------------------------
+------------------------------
+{
+"Judgement Abilities": "Poor",
+"Insight Ability": "Poor",
+"General Intellectual Functioning": "Intact",
+"Attention Span": {
+  "Test Method": "Spelling backwards",
+  "Result": "Not Impaired"
+},
+"Recent Memory": {
+  "Test Method": "Current Medications",
+  "Result": "Not Impaired"
+},
+"Remote Memory": {
+  "Test Method": "Recollection of childhood history",
+  "Result": "Not Impaired"
+},
+"Abstract Reasoning": {
+  "Test Method": "Perceptiveness",
+  "Result": "Average"
+},
+"Intelligence": {
+  "Test Method": "Fund of knowledge",
+  "Result": "Not Tested"
+},
+"Further Testing Need": "No",
+"Plan Of Care": {
+  "Individual Therapy": "Yes",
+  "Group Therapy": "Yes",
+  "Expressive Therapy": "Yes"
+},
+"Psychiatric Evaluation": {
+  "Problems": ["Danger to Self (SI with plan to OD on prescription meds)", "High Risk (SI with plan to OD on prescription meds)"]
+},
+"Special Program Services": "Yes",
+"Inpatient Hospitalization Indications": ["Suicidal, self-injurious threats, gestures or behaviors", "Marked regression or intensification of significant symptoms", "Severe impairment in ability to perform ADLs"]
+}
+------------------------------
+
+------------------------------
+{
+  "Medical History and Physical Examination (H&P)": {
+    "Admit Date": "[L-DATE]",
+    "Observation Date/Time": "[L-DATE] 18:53",
+    "Medical History": {
+      "Central Nervous System": "No History of Problems",
+      "Tics": "No",
+      "Genitourinary": "No History of Problems",
+      "Gastrointestinal": "GERD",
+      "Cardiovascular": "history of DVT and PE",
+      "Musculoskeletal": "No History of Problems",
+      "Additional": "seizures",
+      "Surgical History": "Yes"
+    },
+    "Surgery Details": {
+      "Lumbar Fusion": "Yes",
+      "Back Surgery": "Yes",
+      "Total Left Hip Arthoplasty": "Yes"
+    },
+    "Sexual History": {
+      "Sexual History NIA": "Yes",
+      "Recent Contraception NIA": "Yes",
+      "STI": "None",
+      "Sexual Activity in Last Five Days": "No"
+    },
+    "Assessment": {
+      "Reviewed Lab Results": "Yes",
+      "UDS": "Benzos/cocaine/fentanyl-positive"
+    },
+    "Physical Assessment": {
+      "General/Mental Status": "WNL",
+      "Skin": "WNL",
+      "Head": "WNL",
+      "Eyes": "WNL",
+      "ENT": "WNL",
+      "Neck": "WNL",
+      "Lungs": "WNL",
+      "Heart": "WNL",
+      "Abdomen": "WNL",
+      "Extremities": "WNL"
+    }
+  },
+  "Printed On": "[L-DATE] @ 12:37",
+  "Page": "6 of 10"
+}
+
+------------------------------
+------------------------------
+{
+    "Document": "Medical Report",
+    "Powered by": "eGoldFax",
+    "Date": "[L-DATE]",
+    "Family History": {
+        "Known Family History": {
+            "Family Psych/Substance Abuse History": {
+                "Sibling": {
+                    "Mental Health/Chemical Dependency Issues": ["Depression", "Drug Addiction"]
+                }
+            }
+        }
+    },
+    "Education": {
+        "Currently in School": "No",
+        "Highest level of Education": "Some College"
+    },
+    "Employment": {
+        "Currently Employed": "No",
+        "Receives Disability": "No"
+    },
+    "Mental Status Exam": {
+        "Orientation": "Place, Person and Situation",
+        "Appearance": "Disheveled, Malodorous and Poor hygiene",
+        "Behavior": "Anxious, Isolated and Withdrawn",
+        "Eye Contact": "Avoidant",
+        "Speech": "Slow and Soft",
+        "Psychomotor": "Sedated",
+        "Mood": "Anxious, Depressed, Dysphoric and Sad",
+        "Affect": "Dysphoric and Restricted",
+        "Thought Process": "Perseveration and Ruminating",
+        "Thought Content": "Anhedonia, Avolition and Hopelessness"
+    },
+    "Perceptual Disturbance": {
+        "Hallucinations": "Denies",
+        "Judgement": "None"
+    },
+    "Printed On": "[L-DATE] @ 12:37"
+}
+------------------------------
+------------------------------
+{
+"Sender": "[U-HOSP]",
+"Fax Time and Date": "[L-DATE] 14:30",
+"Fax Page": "[L-DATE]",
+"Type of Document": "Facesheet",
+"Admit Date": "[L-DATE]",
+"Observation Date and Time": "[L-DATE] 12:32",
+"Digital Printing Date": "[L-DATE] @ 12:37",
+"Page Number": "1 of 1"
+}
+------------------------------
+------------------------------
+Patient Medical History and Physical Examination:
+
+Admit Date: [U-DATE]
+Observation Date/Time: [L-DATE] 18:53
+
+Current Medications:
+1. Acetaminophen - Oral 325 mg tablet (APAP 650 mg), dosage: FO 4H, purpose: Pain
+2. LORazepam - Oral 1 mg tablet (*Ativan 1 mg), dosage: PO Q6H, purpose: Anxiety 
+3. Dicyclomine - Oral 20 mg tablet (Bentyl 20 mg), dosage: FO TID, purpose: Stomach Cramps
+4. Gabapentin - Oral 600 mg tablet (Neurontin 1,200 mg), dosage: FO TID, purpose: Anxiety
+5. Loperamide - Oral 2 mg capsule (Imodium 2 mg), dosage: FO Q2H, purpose: Diarrhea. Note: Not more than 16mg per day
+6. LORazepam - Injectable 2 mg/mL (Ativan 2 mg), dosage: IM Q48, purpose: Seizure
+7. Melatonin - Oral 5 mg TAB, dosage: 5 mg PO HS, purpose: Insomnia
+8. Methocarbamol - Oral 500 mg tablet (Robaxin 500 mg), dosage: FO TID, purpose: Muscle spasm
+9. Mirtazapine - Oral 15 mg tablet (Remeron 15 mg), dosage: PO HS, purpose: Sleep
+10. Multivitamin - Oral tablet Daily, dosage: ltab FO DAILY, purpose: Nutritional Support
+11. Nicotine - Oral Transmucosal 2 mg gum (Nicorette 2 mg), dosage: oM QaH, purpose: Smoking Cessation
+12. Omeprazole - Oral 20 mg delayed release capsule (PriLOSEC 20 mg), dosage: PO DAILY, purpose: GERD
+13. Ondansetron - Oral 4 mg tablet, disintegrating oDT (Zofran 4 mg), dosage: FO Q6H, purpose: Nausea/Vomiting
+14. Prazosin - Oral 1 mg capsule (Minipress 1 mg), dosage: PO HS, purpose: Nightmares
+15. QUEtiapine - Oral 300 mg tablet (SEROquel 600 mg), dosage: FO HS, purpose: Mood
+16. Sertraline - Oral 50 mg tablet (Zoloft 50 mg), dosage: FO DAILY, purpose: Mood
+17. Buprenorphine - Sublingual 8 mg tablet ('subutex 8 mg), dosage: SL BID, purpose: Maintenance
+18. TraMADol - Oral 50 mg tablet (Ultram 100 mg), dosage: FO TID, purpose: Pain
+19. Rivaroxaban - Oral 10 mg tablet (*Xarelto 10 mg), dosage: PO DAILY, purpose: Dvt
+
+Ancillary Orders:
+1. Admit to: 4N, Dual Diagnosis - Substance Abuse and Detox
+2. Safety Checklist - BID 
+3. Patient/Family Education - Q4H 
+4. Nursing Progress Note - BID 
+5. Psychotropic Medication Notice and Consent Form - Q4H 
+6. LIPID PANEL W/HDL IN AM-UC
+
+Printed On: 10/30/2023 @ 12:37
+Page: 9 of 10
+
+------------------------------

@@ -1,0 +1,54 @@
+Of course, I am here to assist you. How can I help you today?
+------------------------------
+{
+"Cranial Nerves Exam":{
+   "CNI":{
+      "test_method":"Not Mentioned",
+      "result":"WNL"
+   },
+   "CN Il":{
+      "test_method":"Not Mentioned",
+      "result":"WNL"
+   },
+   "CN III, IV, VI":{
+      "test_method":"Finger Tracking",
+      "result":"WNL"
+   },
+   "CN V":{
+      "test_method":"Light touch forehead",
+      "result":"WNL"
+   },
+   "CN VII":{
+      "test_method":"Eyebrow raise",
+      "result":"WNL"
+   },
+   "CN VIII":{
+      "test_method":"Finger rub near ear",
+      "result":"WNL"
+   },
+   "CN IX, X":{
+      "test_method":"Palate elevation",
+      "result":"WNL"
+   },
+   "CN X":{
+      "test_method":"Palate elevation",
+      "result":"WNL"
+   },
+   "CN XI":{
+      "test_method":"Shoulder Shrug",
+      "result":"WNL"
+   },
+   "CN XII":{
+      "test_method":"Extend tongue side to side",
+      "result":"Not Mentioned"
+   }
+},
+"Plan Of Care":{
+   "Printed On":"[L-DATE] @ 12:37"
+},
+"Medical History and Physical HH Examination (H&P)":{
+   "Admit Date":"[L-DATE]",
+   "Observation Date/Time":"[L-DATE] 18:53"
+}
+}
+------------------------------

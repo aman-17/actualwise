@@ -1,0 +1,29 @@
+Of course, how can I assist you today?
+------------------------------
+{
+"DocumentType": "ADMISSION | DISCHARGE RECORD",
+"SubmissionDate&Time": "[U-DATE]/[L-PHONE] 11:00",
+"ContactDetails": {
+    "Telephone Number": "[I-PHONE] [L-PHONE]",
+    "Cell": "",
+    "HospitalPhone_Chicago": "",
+    "HospitalPhone_PolicyNumber": "[U-ID]2"
+},
+"PatientDetails": {
+    "ID": "[U-ID]",
+    "Name": "[B-PATIENT] [B-PATIENT]es[I-PATIENT] [L-PATIENT]is",
+    "Sex": "",
+    "DateOfBirth": "",
+    "GroupNumber": "",
+    "PolicyName": ",",
+    "GroupName": "",
+    "AdmissionStatus": "AUTEHs",
+    "RelationStatus": ": :"
+},
+"Diagnosis": {
+    "DiagnosisCode": "F339",
+    "DiagnosisName": "MAJOR DEPRESSIVE DISORDER, RECURRENT, UNSPECIFIED",
+    "DiagnosisDetails": "[U-ID]40/28/2; eBIoGNIOTIETS"
+}
+}
+------------------------------

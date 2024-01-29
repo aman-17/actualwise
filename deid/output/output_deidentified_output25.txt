@@ -1,0 +1,13 @@
+How can I assist you today?
+------------------------------
+{
+"Sender": "[U-HOSP]",
+"Fax Time and Date": "[L-DATE] 14:30",
+"Fax Page": "[L-DATE]",
+"Type of Document": "Facesheet",
+"Admit Date": "[L-DATE]",
+"Observation Date and Time": "[L-DATE] 12:32",
+"Digital Printing Date": "[L-DATE] @ 12:37",
+"Page Number": "1 of 1"
+}
+------------------------------

@@ -1,0 +1,27 @@
+Absolutely! How can I assist you today?
+------------------------------
+{
+"Fax Details": {
+    "Hospital": "[U-HOSP]",
+    "Fax Time": "[L-DATE] 14:30",
+    "Printed On": "[L-DATE] @ 12:37"
+},
+"Patient Details": {
+    "Admit Date": "[L-DATE]",
+    "Observation Date and Time": "[L-DATE] 18:53"
+},
+"Medical History": {
+    "Major Depression": {"Indication": None, "Medication": None},
+    "SI wiplan to OD": {"Indication": None, "Medication": None},
+    "Polysubstance Abuse": {"Indication": None, "Medication": None},
+    "Seizure due to Alcohol Withdrawal": {"Indication": None, "Medication": None},
+    "Left Lower Extremity Deep Vein Thrombosis/Pulmonary Embolism": {"Indication": "LLE DVT/PE", "Medication": "Xarelto"},
+    "GastroEsophageal Reflux Disease": {"Indication": "GERD", "Medication": "Omeprazole"},
+    "Alcoholic Hepatitis": {"Indication": None, "Medication": None},
+    "Left Hip Avascular Necrosis": {"Indication": "Left hip avascular necrosis/pain", "Medication": "Tramadol"},
+    "Nicotine Dependence": {"Indication": "Nicotine Dependence", "Medication": "Patch"},
+    "Medical Consultation": {"Description": "Medical Consultation-[U-HOSP]h, labs &meds reviewed", "Brand": None}
+    }
+}
+
+------------------------------

@@ -1,0 +1,41 @@
+How can I assist you today?
+------------------------------
+Admission Information:
+- Admit Date: [L-DATE]
+- Observation Date/Time: [L-DATE] 18:53
+
+Allergy Information:
+- Aripiprazole: Severe Allergy, Symptoms - Blurred Vision
+- Bee Sting: Severe Allergy, Symptoms - Swelling
+- Dust Mite: Mild Allergy
+- Ketorolac: Mild Allergy, Symptoms - Swelling
+- Penicillin: Severe Allergy, Symptoms - Hives
+
+Dietary And Activity status:
+- Dietary Restrictions: No
+- Activity Restrictions: No
+
+Vital Signs:
+- Height: 67 in
+- Weight: 151 lb
+- BMI: 23.6
+- Systolic BP: 108 mmHg
+- Diastolic BP: 66 mmHg
+- Blood Pressure overall: 119/170
+- Heart Rate: 82 beats/min
+- Temperature: 97.6°F
+- Respiration: 20 resp/min
+- SpO2: 99%
+
+Past Medical History:
+- Last Dental Exam: 2 years ago
+- Last Eye Exam: 2 years ago
+- Immunizations: Up to date
+- Last PPD: Negative
+- Recent Illness/Injuries: None (patient denies)
+- Past Hospitalization/Psych: Yes
+
+Substance Use:
+- Patient Confirmation: Yes
+- Positive Drug Screen: Yes
+------------------------------

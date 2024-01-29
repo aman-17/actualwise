@@ -1,0 +1,38 @@
+That's right! How can I assist you today?
+------------------------------
+{
+"Medical History and Physical Examination (H&P)": {
+"Admit Date": "[L-DATE]",
+"Observation Date/Time": "[L-DATE] 18:53"
+},
+"Social/Family History": {
+"FAMILY PSYCH/SUBSTANCE ABUSE HISTORY": {
+"1": {
+"Relationship": "Sibling",
+"History of mental health/chemical dependency issues": "depression, drug addiction"
+}
+}
+},
+"Family Medical History": "patient denies",
+"Legal History": {
+"Any Legal Issues": "Yes",
+"Number of arrests": "multiple",
+"Current/Pending Charges": "No",
+"Arrest Details": "drug possession",
+"Time incarcerated": "1 month in jail",
+"Probation/Parole": "No"
+},
+"Military Service": {
+"Military Service": "No",
+"History of Service": "No"
+},
+"Review of Systems": {
+"RESPIRATORY": "No History of Problems",
+"Have you been vaccinated for COVID-19? (Corona)": "No",
+"Do you want to be vaccinated?": "No",
+"Date of last TB Test": "UNK",
+"SKIN": "No History of Problems"
+},
+"Printed On": "[L-DATE] @ 12:37 Page 5 of 10"
+}
+------------------------------

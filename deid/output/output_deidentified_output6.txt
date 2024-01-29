@@ -1,0 +1,51 @@
+Absolutely! How can I assist you today?
+------------------------------
+Psychiatric Evaluation:
+- Admit Date: [L-DATE]
+- Observation Date/Time: [L-DATE] 16:56
+- Issues:
+  - Sexual assault at teenage, not reported legally
+  - Neglected by biological parents in childhood, was later adopted 
+
+Substance Use:
+- Admission to use: Yes
+- Positive Drug Screen
+
+Details:
+- Alcohol: 
+  - Has Prescription: No
+  - Method: Oral
+  - Quantity: 1/2 gallon daily
+  - Age of First Use: Teenage
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+- Cannabis:
+  - Has Prescription: No
+  - Method: Smoke/Vape
+  - Quantity/Frequency: Sporadic
+  - Age of First Use: Teenage
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+- Cocaine/Crack:
+  - Has Prescription: No
+  - Method: Snort/Inhal
+  - Quantity: $40 daily
+  - Age of First Use: 20's
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+- Opiates (Heroin/Oxy etc.):
+  - Has Prescription: No
+  - Method: Injects
+  - Quantity: $80 of heroin
+  - Age of First Use: 18
+  - Last Used: [L-DATE]
+  - Current Use: Yes
+
+Tobacco Use:
+- Admission to use: Yes
+- Use of Cigarettes: 1 pack per day
+- Other Addictive Behaviors: No
+
+Printed Date/Time: [L-DATE] @ 12:37
+Pages: Page 4 of 11
+------------------------------

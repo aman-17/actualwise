@@ -1,0 +1,66 @@
+How can I assist you today?
+------------------------------
+{
+  "Medical History and Physical Examination": {
+    "DOB": "Not mentioned",
+    "Admit Date": "[L-DATE]",
+    "Observation Date/Time": {
+      "Date": "[U-DATE]",
+      "Time": "[L-DATE] 18:53"
+    },
+    "Substance Use": {
+      "Alcohol": {
+        "Format": "Oral",
+        "Quantity": "1/2 gallon",
+        "Frequency": "daily",
+        "Age First Use": "teen",
+        "Last Use Date": "[L-DATE]",
+        "Status": "Current"
+      },
+      "Cannabis": {
+        "Format": "Smoke/Vap",
+        "Frequency": "Sporadic",
+        "Age First Use": "teen",
+        "Last Use Date": "[U-DATE]/[L-DATE]",
+        "Status": "Current"
+      },
+      "Cocaine/Crack": {
+        "Format": "Snort/Inhal",
+        "Quantity": "$40",
+        "Frequency": "daily",
+        "Age First Use": "20's",
+        "Last Use Date": "[U-DATE]/[U-DATE]23",
+        "Status": "Current"
+      },
+      "Opiates": {
+        "Format": "Inject",
+        "Quantity": "$80",
+        "Age First Use": "18",
+        "Last Use Date": "[U-DATE]/[U-DATE]23",
+        "Status": "Current"
+      },
+      "Tobacco Use": {
+        "Admitted": "Yes",
+        "Types Used": {
+          "Cigarettes": {
+            "Quantity": "1 ppd"
+          }
+        }
+      }
+    },
+    "Education": {
+      "Currently in School": "No",
+      "Highest level of Education": "Some College"
+    },
+    "Social/Family History": {
+      "Living Situation": "Homeless",
+      "Can patient return": "Yes",
+      "Raised By": "Adopted Parents",
+      "Number of Siblings": "2",
+      "Describe Relationship": "1 twin brother, only close with twin brother",
+      "Number of Children": "9",
+      "Children's Relationship": "[B-PATIENT]ia[L-PATIENT]"
+    }
+  }
+}
+------------------------------

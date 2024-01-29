@@ -1,0 +1,39 @@
+Yes, my main purpose is to assist you. How can I help you today?
+------------------------------
+{
+"Judgement Abilities": "Poor",
+"Insight Ability": "Poor",
+"General Intellectual Functioning": "Intact",
+"Attention Span": {
+  "Test Method": "Spelling backwards",
+  "Result": "Not Impaired"
+},
+"Recent Memory": {
+  "Test Method": "Current Medications",
+  "Result": "Not Impaired"
+},
+"Remote Memory": {
+  "Test Method": "Recollection of childhood history",
+  "Result": "Not Impaired"
+},
+"Abstract Reasoning": {
+  "Test Method": "Perceptiveness",
+  "Result": "Average"
+},
+"Intelligence": {
+  "Test Method": "Fund of knowledge",
+  "Result": "Not Tested"
+},
+"Further Testing Need": "No",
+"Plan Of Care": {
+  "Individual Therapy": "Yes",
+  "Group Therapy": "Yes",
+  "Expressive Therapy": "Yes"
+},
+"Psychiatric Evaluation": {
+  "Problems": ["Danger to Self (SI with plan to OD on prescription meds)", "High Risk (SI with plan to OD on prescription meds)"]
+},
+"Special Program Services": "Yes",
+"Inpatient Hospitalization Indications": ["Suicidal, self-injurious threats, gestures or behaviors", "Marked regression or intensification of significant symptoms", "Severe impairment in ability to perform ADLs"]
+}
+------------------------------

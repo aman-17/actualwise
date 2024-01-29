@@ -1,0 +1,34 @@
+Certainly, how can I assist you today?
+------------------------------
+{
+"Admit Date": "[L-DATE]",
+"Observation Date/Time": "[L-DATE] 16:56",
+"Medical Procedures": [
+  "CBC W/O DIFFERENTIAL IN AM-UC",
+  "Vital Signs VS_BID",
+  "Urine Drug Screen IN AM-UC"
+],
+"Special Diet": "Heart Healthy: Finger Foods",
+"Consult Needed": "No",
+"Observation Level": "Q10 minutes (Q10)",
+"Observation Reason": "SI with plan to OD on prescription meds",
+"Precautions": [
+  "SUICIDAL Precaution",
+  "HIGH RISK Precaution",
+  "DETOX"
+],
+"Provisional Diagnosis": "$I with plan to OD on prescription meds",
+"Legal Status": "Voluntary",
+"Medical Assessment": "Cows Scale Q4H-COWS",
+"Estimated Length of Stay": "8 Days",
+"Support System": ["Brother", "Mother", "NA people"],
+"Outpatient Treatment Team": "Yes",
+"Doctor Details": ["Dr. [I-HOSP] [I-HOSP] [I-HOSP] [L-HOSP]"],
+"Personal Goal": "Not provided",
+"Living Situation": "Homeless",
+"Substance Abuse": ["alcohol", "heroin", "cocaine"],
+"Legal Issues": "Yes",
+"Discharge Diagnosis Requirements": "At least one ACTIVE and one PRIMARY Diagnosis",
+"Printed On": "[L-DATE] @ 12:37"
+}
+------------------------------

@@ -1,21 +1,17 @@
 from paddleocr import PaddleOCR, draw_ocr
+import fitz
+from PIL import Image
+import cv2
+import numpy as np
 
-# Paddleocr supports Chinese, English, French, German, Korean and Japanese.
-# You can set the parameter `lang` as `ch`, `en`, `fr`, `german`, `korean`, `japan`
-# to switch the language model in order.
-ocr = PaddleOCR(use_angle_cls=True, lang="ch", page_num=2)  # need to run only once to download and load model into memory
+ocr = PaddleOCR(use_angle_cls=True, lang="en", page_num=2)
 img_path = './Case_study_1_CO.pdf'
 result = ocr.ocr(img_path, cls=True)
 for idx in range(len(result)):
     res = result[idx]
     for line in res:
         print(line)
-
-# draw result
-import fitz
-from PIL import Image
-import cv2
-import numpy as np
+        
 imgs = []
 with fitz.open(img_path) as pdf:
     for pg in range(0, pdf.pageCount):
@@ -25,7 +21,6 @@ with fitz.open(img_path) as pdf:
         # if width or height > 2000 pixels, don't enlarge the image
         if pm.width > 2000 or pm.height > 2000:
             pm = page.getPixmap(matrix=fitz.Matrix(1, 1), alpha=False)
-
         img = Image.frombytes("RGB", [pm.width, pm.height], pm.samples)
         img = cv2.cvtColor(np.array(img), cv2.COLOR_RGB2BGR)
         imgs.append(img)

@@ -1,5 +1,3 @@
-Sure, I am here to help you. How may I assist you today?
-------------------------------
 {
 "Report_Details": {
   "Powered_By": "U-HOSP",

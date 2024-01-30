@@ -1,7 +1,3 @@
-How can I assist you today?
-------------------------------
-Here's the information structured as follows:
-
 **Medical History and Physical Examination (H&P)**
 
 **Admit Date:** [L-DATE]

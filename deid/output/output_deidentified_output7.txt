@@ -1,5 +1,3 @@
-Of course, I am here to assist you. How can I help you today?
-------------------------------
 {
 "Cranial Nerves Exam":{
    "CNI":{

@@ -1,5 +1,3 @@
-Absolutely! How can I assist you today?
-------------------------------
 {
 "Fax Details": {
     "Hospital": "[U-HOSP]",
@@ -23,5 +21,3 @@ Absolutely! How can I assist you today?
     "Medical Consultation": {"Description": "Medical Consultation-[U-HOSP]h, labs &meds reviewed", "Brand": None}
     }
 }
-
-------------------------------

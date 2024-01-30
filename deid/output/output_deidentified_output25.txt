@@ -1,5 +1,3 @@
-How can I assist you today?
-------------------------------
 {
 "Sender": "[U-HOSP]",
 "Fax Time and Date": "[L-DATE] 14:30",

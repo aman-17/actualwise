@@ -1,5 +1,3 @@
-Of course, how can I assist you today?
-------------------------------
 {
 "DocumentType": "ADMISSION | DISCHARGE RECORD",
 "SubmissionDate&Time": "[U-DATE]/[L-PHONE] 11:00",

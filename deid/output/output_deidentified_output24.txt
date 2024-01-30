@@ -1,5 +1,3 @@
-Yes, my main purpose is to assist you. How can I help you today?
-------------------------------
 {
 "Judgement Abilities": "Poor",
 "Insight Ability": "Poor",

@@ -1,5 +1,3 @@
-How can I assist you today?
-------------------------------
 {
   "Report_Type": "Medication Administration Record",
   "Record_Start": "[L-DATE] 11:00",

@@ -1,5 +1,3 @@
-How can I assist you today?
-------------------------------
 Admission Information:
 - Admit Date: [L-DATE]
 - Observation Date/Time: [L-DATE] 18:53

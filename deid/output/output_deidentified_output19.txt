@@ -1,5 +1,3 @@
-Great! How can I assist you today?
-------------------------------
 {
     "Document": "Medical Report",
     "Powered by": "eGoldFax",

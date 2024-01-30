@@ -1,5 +1,3 @@
-How can I assist you today?
-------------------------------
 Patient Medical History and Physical Examination:
 
 Admit Date: [U-DATE]

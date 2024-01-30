@@ -1,5 +1,3 @@
-Absolutely, I'm here to assist you. How can I help you today?
-------------------------------
 {
 "Medical_Report": {
   "Details": {

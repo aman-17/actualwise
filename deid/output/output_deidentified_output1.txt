@@ -1,5 +1,3 @@
-How can I assist you today?
-------------------------------
 {
   "Medical History and Physical Examination": {
     "DOB": "Not mentioned",

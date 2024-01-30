@@ -1,5 +1,3 @@
-Absolutely! How can I assist you today?
-------------------------------
 Psychiatric Evaluation:
 - Admit Date: [L-DATE]
 - Observation Date/Time: [L-DATE] 16:56

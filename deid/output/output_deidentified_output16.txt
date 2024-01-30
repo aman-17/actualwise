@@ -1,5 +1,3 @@
-That's right! How can I assist you today?
-------------------------------
 {
 "Medical History and Physical Examination (H&P)": {
 "Admit Date": "[L-DATE]",

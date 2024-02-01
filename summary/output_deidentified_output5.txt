@@ -1,0 +1,8 @@
+How may I assist you today?
+------------------------------
+The patient, whose details such as age and gender are not disclosed in the extract, was admitted to the hospital on an unspecified date. This report states the patient's allergies which include Aripiprazole, bee sting, dust mite, Ketorolac, and Penicillin, showing varying symptoms from blurred vision to hives with varying severity. The patient has no dietary or activity restrictions. The patient's physical stats include a height of 67 inches, weight of 151 lbs, and a BMI of 23.6. The vital signs like heart rate, blood pressure, temperature, SP02 level, and respirations are also noted. 
+
+For the patient's past medical history, their last dental and eye exam was two years ago, they're up-to-date on immunizations, and their last PPD was negative. They do not report any recent illnesses or injuries. However, the patient does admit to past hospitalizations or psychiatric treatment. 
+
+Notably, the patient admits to substance use and has a positive drug screen. The specific substances, their amount or frequency, age of first use, and last used date are not mentioned in this report.
+------------------------------

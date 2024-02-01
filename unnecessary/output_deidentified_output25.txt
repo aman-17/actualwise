@@ -1,0 +1,8 @@
+How may I assist you today?
+------------------------------
+Admit Date: [L-DATE]
+
+Observation Date/Time: [L-DATE] 12:32
+
+Printed On: [L-DATE] @ 12:37 Page 1 of 1
+------------------------------

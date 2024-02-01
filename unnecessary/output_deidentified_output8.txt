@@ -1,0 +1,22 @@
+Yes, I am here to assist you with any questions or tasks you have. How may I help you today?
+------------------------------
+Psychiatric Evaluation
+
+Admit Date: [L-DATE]
+
+Evidence of failure at, or inability to benefit from a less intensive outpatient setting: Yes
+
+Medical History (current, recent, chronic, disabilities): hx blood clot disorder, hx hip replacement, hx back surgery, hx seizures from withdrawal, sciatica, hx bipolar
+
+Surgical History: Yes
+Lumbar fusion, back surgery and total left hip arthoplasty
+
+Does any of the patient's medical or surgical history contribute to current psychiatric presentation: No
+
+Allergies and Home Meds
+
+Allergies reviewed in banner: Yes
+
+Home Meds:
+Description Brand Dese Route Frequency PRN Indication
+------------------------------

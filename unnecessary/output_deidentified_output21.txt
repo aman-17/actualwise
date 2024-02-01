@@ -1,0 +1,57 @@
+How can I assist you today?
+------------------------------
+Date/Time
+
+Medical Diagnosis
+
+Diagnosis
+Code
+
+Acute embolism and thrombosis
+182.401 IcD-10
+
+of unspecified deep veins of
+right lower extremity
+Alcoholic hepatitis without
+K70.10 IcD-10
+
+ascites
+
+Gastro-esophageal reflux
+K21.00 IcD-10
+
+disease with esophagitis,
+without bleeding
+
+Other pulmonary embolism
+126.99 IcD-10
+
+without acute cor pulmonale
+Unspecified convulsions
+R56.9 IcD-10
+
+MAJOR DEPRESSIVE DISORDER,
+F33.9 IcD10
+RECURRENT, UNSPECIFIED
+
+Reason for admission
+
+Gender
+
+Preferred Pronouns
+
+Reliabile
+
+Past Medical History
+
+SI with plan to OD on prescription meds
+Male
+
+HelHimiHis
+
+Yes
+
+LLE DVT, PE, GERD, Congenitalspondylosethesis, left hip
+acascular necrosis. hx hip replacement, hx back surgery,
+hx seizures from withdrawal,
+------------------------------

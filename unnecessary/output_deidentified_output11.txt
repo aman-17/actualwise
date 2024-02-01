@@ -1,0 +1,23 @@
+Yes, I am here to help you with whatever you need. Whether you have questions or need assistance with a task, don't hesitate to ask.
+------------------------------
+Medication Administration Record
+
+Name: 
+Hospital Num:
+Location: 
+Admit Date: [L-DATE]
+Physician: [I-STAFF] [L-DATE]
+
+Medications:
+
+- Tivaroxaban Tablet 10mg (*Xarelto), Oral once a day for DVT. 
+- Sertraline Tablet (Zoloft) 50 mg Oral once a day for Mood. Simultaneous with Sertraline Tablet (Zoloft) 25 mg.
+- Sertraline Tablet (Zoloft) 25mg Oral once a day for Depression. Simultaneous with Sertraline Tablet (Zoloft) 50 mg.
+- Buprenorphine Tablet 8 mg. (*Subutex) Sublingual twice daily PRN for Maintenance.
+- Dicyclomine Tablet 20mg (Bentyl) Oral three times daily PRN for Stomach Cramps.
+- Lorazepam Tablet (*Ativan) 1 mg Oral every 6 hours PRN for Anxiety.
+- Melatonin Tablet 3mg Oral at bedtime PRN for Insomnia.
+- Methocarbamol Tablet 500mg (Robaxin) Oral three times daily PRN for muscle spasm.
+- Nicotine Gum (Nicorette) 2 mg Oral transmucosal every 2 hours PRN for Smoking Cessation.
+- Tramadol Tablet (Ultram) 100 mg Oral three times daily PRN for Pain.
+------------------------------

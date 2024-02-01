@@ -1,0 +1,74 @@
+Absolutely! How may I assist you today?
+------------------------------
+Tanner stage
+
+Cranial Nerves
+CNI:
+How was CN I tested?
+
+CN II:
+How was CN II tested?
+
+CN III, IV, VI:
+How was CN III, IV, VI tested?
+
+CN V:
+How was CN V tested?
+
+CN VII:
+How was this CN VII tested?
+
+CN VIII:
+How was this CN VIII tested?
+
+CN IX, X:
+How was CN IX, X tested?
+
+CN X:
+How was CN X tested?
+
+CN XI:
+How was this CN XI tested?
+
+CN XII:
+How was CN XII tested?
+
+Plan Of Care
+
+Medical History and Physical Examination (H&P)
+
+Admit Date: [L-DATE]
+
+Observation Date/Time: [L-DATE] 18:53
+
+CN I: 
+WNL
+
+CN II:
+WNL
+
+CN III, IV, VI:
+WNL
+
+CN V:
+WNL
+
+CN VII:
+WNL
+
+CN VIII:
+WNL
+
+CN IX, X:
+WNL
+
+CN X:
+WNL
+
+CN XI:
+WNL
+
+CN XII:
+WNL
+
+------------------------------

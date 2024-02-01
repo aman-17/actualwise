@@ -1,0 +1,32 @@
+Absolutely, I'm here to help. How may I assist you today?
+------------------------------
+Medical History and Physical Examination (H&P)
+DOB:
+Admit Date: [L-DATE]
+Observation Date/Time: [U-DATE]/[L-DATE] 18:53
+
+Substance Use:
+1. Alcohol: No Oral, 1/2 gallon daily, starting teen [L-DATE], Current
+2. Cannabis: No Smoke/Vap, sporadic use, teen [U-DATE]/[L-DATE], Current
+3. Cocaine/Crack: No Snort/Inhal, $40 daily, started in 20's [U-DATE], Current
+4. Opiates (heroin/oxy etc): No Injects, $80 per day, started at 18 [U-DATE], Current
+
+Tobacco Use: Yes
+1. Cigarettes: 1 ppd
+
+Other Addictive Behaviors: No
+
+Education:
+Currently in School? No
+Highest level of Education? Some College
+
+Social/Family History:
+Family/Living Situation:
+Current living situation? Patient reported that he is currently homeless.
+Can patient return? Yes
+Patient raised by? Adopted parents
+Number of Siblings? 2
+Describe Relationship: 1 twin brother, only close with twin brother
+Number of Children? 9
+Describe Relationship: [B-PATIENT]ia[L-PATIENT]
+------------------------------

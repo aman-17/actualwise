@@ -1,0 +1,16 @@
+Yes, I am here to help. How can I assist you today?
+------------------------------
+The patient in the report is under the care of Dr. [I-STAFF] [L-STAFF]. The medications administered to the patient include:
+
+1. Rivaroxaban (Xarelto) 10mg: Given once a day for deep vein thrombosis (DVT).
+2. Sertraline (Zoloft) 50mg and 25mg: Given once a day for mood stabilization and depression. 
+3. Buprenorphine (Subutex) 8mg: Administered twice daily as needed for maintenance with a max daily dose of 2.
+4. Dicyclomine (Bentyl) 20mg: Given three times daily as needed for stomach cramps with a max daily dose of 3.
+5. Lorazepam (Ativan) 1mg: Administered every 6 hours as needed for anxiety with a max daily dose of 4.
+6. Melatonin 3mg: Given at bedtime as needed for insomnia with a max daily dose of 1.
+7. Methocarbamol (Robaxin) 500mg: Taken three times daily as needed for muscle spasms.
+8. Nicotine Gum (Nicorette) 2mg: Used every 2 hours as needed for smoking cessation with a max daily dose of 12.
+9. Tramadol (Ultram) 100mg: Given three times daily as needed for pain.
+
+The report also includes individual administration times and staff member names who administered the medication.
+------------------------------

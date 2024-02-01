@@ -1,0 +1,18 @@
+How may I assist you today?
+------------------------------
+This medical record outlines the medication administration for a patient admitted to the hospital on a specific date. The overseeing physician is denoted as [I-STAFF] [L-STAFF]. 
+
+The patient was administered several medicines: 
+
+1. Buprenorphine 8mg tablets every day at 1700 for maintenance.
+2. Gabapentin 1,200 mg orally three times daily for anxiety.
+3. Mirtazapine 15 mg orally at bedtime for sleep.
+4. A daily multivitamin tablet for nutritional support.
+5. Omeprazole 20mg orally once a day for GERD.
+6. Prazosin 1mg orally at bedtime for nightmares.
+7. Quetiapine 300mg and 600mg orally at bedtime for mood.
+
+Two tests were conducted: an Ultra Sensitive 3rd Gen TSH and a Urine Drug Screen. 
+
+The patient was also assessed for suicidal ideation severity daily at 1600. Vital signs were checked twice daily. Note that some instances of medication administration and tests were completed, while one test was not administered due to unspecified reasons (Other - See Notes).
+------------------------------

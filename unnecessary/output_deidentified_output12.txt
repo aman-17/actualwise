@@ -1,0 +1,44 @@
+Absolutely! How can I assist you today?
+------------------------------
+Psychiatric Evaluation
+
+Admit Date: [L-DATE]
+
+Observation Date/Time: [L-DATE] 16:56
+
+SUBSTANCE ABUSE TREATMENT
+
+Row Type of Treatment Location of Treatment Dates of Treatment
+
+1 RIC LSsI [U-DATE]
+2 RIC ECS - [U-LOC], [U-LOC] "a few months ago”
+3 dual diagnosis [L-HOSP] - [B-LOC] [L-LOC], [U-LOC] [U-DATE]
+
+Family/Living Situation
+
+Current living situation? Pt reported that he is currently homeless.
+Can patient return? Yes
+Patient raised by? adopted parents
+Number of Siblings? 2
+Describe Relationship 1 twin brother, only close with twin brother
+Number of Children? 0
+Describe Relationship Nia
+
+Legal History
+
+Any Legal Issues? Yes
+Number of arrests multiple
+Current/Pending Charges No
+Arrest Details drug possession
+Time incarcerated 1 month in jail
+Probation/Parole No
+Military Service
+Military Service? No
+History of Service? No
+ADL's
+Sleep disturbance(s) Yes
+
+“get about 4-hours a night.”
+Sleep disturbance type difficulty falling asleep and frequent awakening
+Normal hours of sleep. 8
+------------------------------

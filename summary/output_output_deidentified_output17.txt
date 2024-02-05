@@ -1,0 +1,210 @@
+Sure, I'd be glad to assist you. How may I help you today?
+------------------------------
+CRE: No
+------------------------------
+C-Auris: No
+------------------------------
+MRSA: No
+------------------------------
+C-DIFF: No
+------------------------------
+MDRO: No
+------------------------------
+COVID: No
+------------------------------
+A&OxNA
+------------------------------
+COVID vaccination: NA
+------------------------------
+COVID test: NA
+------------------------------
+No short-term care plan mentioned.
+------------------------------
+No long-term care plan mentioned.
+------------------------------
+- Bacterial infection (ICD-10: A49.9) - Clindamycin 300mg
+- Nerve pain (ICD-10: M79.2) - Gabapentin 300mg, 400mg, and 800mg
+- Anxiety (ICD-10: F41.9) - Hydroxyzine Hydrochloride 50mg, Sertraline 50mg
+- Seizures (ICD-10: G40.9) - Lamotrigine 25mg
+- Spasms (ICD-10: R25.2) - Methocarbamol 500mg
+- Depression (ICD-10: F32.9) - Mirtazapine 15mg, Sertraline 50mg
+- Dependency on nicotine (ICD-10: F17.200) - Nicotine 21mg/24hr
+- Acid reflux (ICD-10: K21.9) - Omeprazole 20mg
+- Nightmares (ICD-10: F51.5) - Prazosin 1mg
+- Mood disorders (ICD-10: F39) - Quetiapine 100mg and 300mg
+- Pain (ICD-10: R52) - Tramadol 50mg
+- Suicidal ideation (ICD-10: R45.851)
+- Detox (ICD-10: Z71.51)
+- Involvement with Department of Children and Family Services (DCFS) and Adult Protective Services (APS) - possible trauma and abuse (ICD-10: T74.9)
+- History of inpatient psychiatric treatment with 16+ hospitalizations
+------------------------------
+- Patient is on several medications including Clindamycin 300mg, Gabapentin 300mg, 400mg, and 800mg, Hydroxyzine Hydrochloride 50mg, Lamotrigine 25mg, Methocarbamol 500mg, Mirtazapine 15mg, Nicotine 21mg/24hr, Omeprazole 20mg, Prazosin 1mg, Quetiapine 100mg and 300mg, Sertraline 50mg, and Tramadol 50mg for various conditions (Source: Page 1).
+- Patient continued their medication regimen upon admission, including Gabapentin 400mg, Methocarbamol 500mg, Mirtazapine 15mg, Omeprazole 20mg, Prazosin 1mg, Quetiapine 300mg, Sertraline 50mg, and Tramadol 50mg (Source: Page 1).
+- Patient underwent a psychiatric evaluation on a specified date (Source: Page 1).
+- Patient has a history of 16 or more hospitalizations for inpatient treatment (Source: Page 1).
+- Patient's most recent admission was at the Swedish Covenant 2 weeks ago at the age of 20, primarily for suicidal ideation and detox (Source: Page 1).
+- Patient has reported involvement with DCFS (Department of Children and Family Services)/APS (Adult Protective Services) hinting at a potential history of trauma and abuse. The nature, timeline, and reporter of the abuse remain unknown (Source: Page 1).
+------------------------------
+Mobility Aids: NA
+------------------------------
+Patient Monitoring & Safety Equipment:
+
+- Vital signs monitor: To closely monitor the patient's vital health parameters, considering the variety of medications and conditions.
+- ECG machine: Given the medications and conditions related to cardiac function, frequent ECG monitoring could be beneficial.
+- Respiratory monitor: Gabapentin use can occasionally cause changes in breathing patterns, requires close monitoring.
+- Medication management system: To ensure all medications are dispensed and taken as per prescription, preventing drug interactions and overdose.
+- Safety alarms/Call buttons: Due to the history of suicidal ideation, providing an immediate response to any need for help or intervention is crucial.
+- Secure environment: Given the patient's history, it is crucial to maintain a secure environment free of harmful objects and substances.
+- Continuous glucose monitoring system: Given the variety of medications that can impact blood sugar levels, it could be beneficial for regular checks. 
+
+Source: Page NA
+------------------------------
+Bed Equipment: NA
+------------------------------
+Specialized Medical Equipment: NA
+------------------------------
+Assistance information not provided in the document.
+------------------------------
+IV: NA
+------------------------------
+Pressure ulcers : NA
+------------------------------
+Complex wounds: NA
+------------------------------
+The patient is currently on Nicotine 21mg/24hr for smoking cessation. The document doesn't provide specific information on whether they currently smoke or how many packs they were smoking per day.
+------------------------------
+The document doesn't provide information on the patient's history of drug abuse.
+------------------------------
+The document does not provide information on whether the patient is currently engaging in or has a history of alcohol or ETOH abuse.
+------------------------------
+The document does not provide information on the prescribed or recommended types and frequencies of therapy sessions for the patient.
+------------------------------
+Concerns: 
+
+- History of psychiatric treatment with 16+ hospitalizations
+- Most recent admission was for suicidal ideation and detox
+- Reports of involvement with DCFS/APS indicating potential history of abuse
+------------------------------
+Tuberculosis: No
+------------------------------
+VRE: No
+------------------------------
+HIV: No
+------------------------------
+ESBL: No
+------------------------------
+AIDS: No
+------------------------------
+ECG: No
+------------------------------
+The document does not provide information about the need for a Prothrombin Time (PT or PT/INR) test for the patient. 
+
+"PT/INR: No"
+------------------------------
+The document does not provide any information regarding the need for a Cardiac Event Monitor (eCardio or eTrigger) for the patient.
+------------------------------
+The provided information does not include any details pertaining to the need for a Bladder scan to assess postvoid residual (PVR) volume (Radionuclide Cystogram) for the patient. Therefore, my response is "Bladder scan: No".
+------------------------------
+The information provided does not include any reference to the patient having or needing a central venous catheter (central line).
+------------------------------
+The provided text does not contain information on whether the patient has or needs a midline catheter.
+------------------------------
+Implantable ports: No
+------------------------------
+Jackson-Pratt (JP) drain: No
+------------------------------
+The document provided does not include any information about the patient needing or having a Penrose Drain.
+------------------------------
+The text does not provide information on whether the patient has a Nephrostomy or Urostomy.
+------------------------------
+Colostomy: No
+------------------------------
+The document does not provide information on whether the patient has or requires a Suprapubic Catheter.
+------------------------------
+Dialysis Shunt: No
+------------------------------
+Dialysis Catheter: No
+------------------------------
+CPAP: No
+------------------------------
+The document does not provide information on the patient's use or need for bilevel positive airway pressure (BiPAP, Bi PAP, or Bi-PAP).
+------------------------------
+Tracheostomy: No
+------------------------------
+The document provided does not include any information about the patient's use or need for oxygen. Therefore, the response is "Oxygen: No".
+------------------------------
+The text provided does not mention the use or need of a portable or Astral vent for the patient. The necessary information may be contained in another part of the document.
+------------------------------
+The information provided does not mention anything about the patient having a Chest Tube.
+------------------------------
+Pleurex: Information not provided.
+------------------------------
+Surgical Orthopedic care: No
+------------------------------
+The provided information does not indicate a need for an external fixator for the patient. 
+
+"External fixator: No"
+------------------------------
+Orthopedic Traction: No
+------------------------------
+Prosthetics: No
+------------------------------
+CABG: No
+------------------------------
+LVAD: No
+------------------------------
+LifeVest: No
+------------------------------
+Pacemaker: No
+------------------------------
+Hemodialysis: No
+
+The provided information does not indicate that the patient requires Hemodialysis.
+------------------------------
+Peritoneal dialysis: No
+------------------------------
+The text does not provide information about the patient's weight or any bariatric issues.
+------------------------------
+IV: No.
+------------------------------
+TPN: No
+------------------------------
+PCA: No
+------------------------------
+The document does not provide information on whether the patient needs an Intravenous push (IV push).
+------------------------------
+Oral Chemotherapy: No
+------------------------------
+The document does not provide information on whether the patient requires Intravenous Chemo or Chemo infusion.
+------------------------------
+High Cost Rx: Yes
+
+Source: Original Page No. 2, 3, 4, 5
+------------------------------
+Psychosocial Care: Yes
+------------------------------
+Dementia: No
+------------------------------
+The document provided does not contain the information required to accurately answer if the patient presents a recent danger to themselves or others.
+------------------------------
+I'm afraid your request can't be completed because the information provided does not mention the use or need of restraints for the patient.
+------------------------------
+Closed Unit: Yes
+Source: Page 3
+------------------------------
+The document does not provide information on whether the patient has a criminal record or has been to jail.
+------------------------------
+Sexual Offender: No information provided in the text.
+------------------------------
+I'm sorry, but the provided information doesn't provide details on the patient's current alcohol (ETOH) use. The relevant document may include this information on a different page not included in this excerpt. Please provide the necessary details.
+------------------------------
+Sorry, the information provided does not specify whether the patient has a history of ETOH or Alcohol abuse.
+------------------------------
+The provided text does not include information regarding if the patient currently suffers from drug abuse. A more comprehensive review of the patient's history may be necessary to provide a definitive answer.
+------------------------------
+The document does not provide information on whether the patient has a history of drug abuse, excluding alcohol abuse.
+------------------------------
+Head Injury: No
+------------------------------
+Less<18 yrs: No
+------------------------------

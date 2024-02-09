@@ -1,0 +1,995 @@
+Absolutely! How can I assist you today?
+------------------------------
+CRE: No
+------------------------------
+CRE: No
+------------------------------
+CRE: No
+------------------------------
+CRE: No
+------------------------------
+C-Auris: No
+------------------------------
+C-Auris: No
+------------------------------
+C-Auris: No
+------------------------------
+C-Auris: No
+------------------------------
+MRSA: No
+------------------------------
+MRSA: No
+------------------------------
+MRSA: No
+------------------------------
+MRSA: No
+------------------------------
+C-DIFF: No
+------------------------------
+C-DIFF: No.
+------------------------------
+C-DIFF: No
+------------------------------
+C-DIFF: No. The report does not indicate that the patient has Clostridioides Difficile or is taking any prescription drugs that indicate they have this condition.
+------------------------------
+MDRO: No
+------------------------------
+MDRO: No. The document does not mention any indication of Multidrug-Resistant Organism (MDRO).
+------------------------------
+MDRO: No
+------------------------------
+MDRO: No
+------------------------------
+COVID: No
+------------------------------
+COVID: No
+------------------------------
+COVID: No
+------------------------------
+COVID: No
+------------------------------
+Based on the available text, there is no specific mention of a dementia, alertness, or orientation assessment for this patient. Therefore, the patient's level of alertness and orientation is not available in this document. A&OxNA
+------------------------------
+The document does not provide information about the patient's level of alertness and orientation. Therefore, the appropriate response is "A&OxNA".
+------------------------------
+The text does not contain any information regarding an alertness and orientation assessment for the patient. Therefore, the patient's level of alertness and orientation would be "A&OxNA".
+------------------------------
+The patient was disoriented about place, person, and situation. Therefore, they can be considered as "A&OxNA". The page number for this information is Page: 20.
+------------------------------
+COVID vaccination: NA
+------------------------------
+COVID vaccination: No
+Source: Page 4
+------------------------------
+COVID vaccination: NA
+------------------------------
+COVID vaccination: NA
+------------------------------
+COVID test: NA
+------------------------------
+COVID test: NA
+------------------------------
+COVID test: NA
+------------------------------
+COVID test: NA
+------------------------------
+No short-term care plan mentioned.
+------------------------------
+No short-term care plan mentioned.
+------------------------------
+No short-term care plan mentioned.
+------------------------------
+No short-term care plan mentioned.
+------------------------------
+No long-term care plan mentioned.
+------------------------------
+No long-term care plan mentioned.
+------------------------------
+No long-term care plan mentioned.
+------------------------------
+No long-term care plan mentioned.
+------------------------------
+Diagnoses:
+- Severe allergy to Aripiprazole causing blurred vision (ICD-10: T88.7, H53.8 - Page 8)
+- Severe allergy to bee stings causing swelling (ICD-10: T78.3 - Page 8)
+- Severe allergy to Penicillin causing hives (ICD-10: Z88.0 - Page 8)
+- Mild allergy to dust mites (ICD-10: J30.1 - Page 8)
+- Mild allergy to Ketorolac causing swelling (ICD-10: T88.6 - Page 8)
+- High blood pressure (ICD-10: I10 - Page 8)
+- Past hospitalizations from a psychiatric issue (ICD-10: Z86.59 - Page 8)
+- Substance abuse diagnosis (ICD-10: F19.10 - Page 8)
+- Homelessness (ICD-10: Z59.0 - Page 25)
+- Suicidal tendencies with a history of substance abuse (ICD-10: F10.20, Z91.5 - Page 25)
+- Sleep disturbances (ICD-10: G47.00 - Page 20)
+- Bipolar disorder (ICD-10: F31.9 - Page 16)
+- PTSD (ICD-10: F43.10 - Page 16)
+- Polysubstance abuse (ICD-10: F19.10 - Page 16)
+- Depression (ICD-10: F32.9 - Page 16)
+- Anxiety disorder (ICD-10: F41.9 - Page 16)
+- Heroin dependency (ICD-10: F11.20 - Page 16)
+- Deep Vein Thrombosis (ICD-10: I82.40 - Page 14)
+- Cocaine dependency (ICD-10: F14.20 - Page 16)
+- Alcohol dependency (ICD-10: F10.20 - Page 16)
+- GERD (ICD-10: K21.9 - Page 2)
+------------------------------
+- Acute embolism and thrombosis of unspecified deep veins of the right lower extremity (ICD-10: 182.401) [Page 6]
+- Alcoholic hepatitis without ascites (ICD-10: K70.10) [Page 6]
+- Gastro-esophageal reflux disease with esophagitis but without bleeding (ICD-10: K21.00) [Page 6]
+- Pulmonary embolism without acute cor pulmonale (ICD-10: 126.99) [Page 6]
+- Unspecified convulsions (ICD-10: R56.9) [Page 6]
+- Major depressive disorder, recurrent type (ICD-10: F33.9) [Page 6]
+- History of left lower extremity deep vein thrombosis (LLE DVT) [Page 6]
+- History of pulmonary embolism (PE) [Page 6]
+- History of gastroesophageal reflux disease (GERD) [Page 6]
+- Congenital spondylolisthesis [Page 6]
+- Left hip avascular necrosis [Page 6]
+- History of hip replacement [Page 6]
+- History of back surgery [Page 6]
+- History of seizures likely due to withdrawal syndrome [Page 6]
+- History of substance abuse (alcohol, cannabis, cocaine, opiates) [Page 19]
+- Failure in a less intensive outpatient setting [Page 17]
+- Blood clot disorder [Page 17]
+- Hip replacement [Page 17]
+- Back surgery [Page 17]
+- Sciatica [Page 17]
+- Bipolar disorder [Page 17]
+- Suicidal ideation with a plan to overdose on drugs [Page 15]
+- Withdrawal symptoms (detox precautions) [Page 15]
+- Tobacco use, one pack of cigarettes per day [Page 19]
+- History of lumbar fusion surgery [Page 17]
+- Total left hip arthroplasty [Page 17]
+- Childhood sexual abuse [Page 19]
+- Neglect in childhood [Page 19]
+- Rape and drug abuse in teenage [Page 19]
+------------------------------
+- Alcohol dependence with withdrawal - ICD-10 F10.931 (Page 24)
+- Suicidal Ideation - ICD-10 R45.851 (Page 24)
+- Anxiety - ICD-10 F41.9 (Page 24)
+- Stomach cramps - ICD-10 R10.84 (Page 24)
+- Diarrhea - ICD-10 R19.7 (Page 24)
+- Seizures - ICD-10 R56.9 (Page 24)
+- Insomnia - ICD-10 G47.00 (Page 24)
+- Muscle Spasms - ICD-10 M62.838 (Page 24)
+- Smoking (nicotine dependence)  - ICD-10 F17.200 (Page 24)
+- GERD (Gastroesophageal Reflux Disease) - ICD-10 K21.9 (Page 24)
+- Nausea - ICD-10 R11.0 (Page 24)
+- Nightmares - ICD-10 F51.5 (Page 24)
+- Mood Disorder - ICD-10 F39 (Page 24)
+- Pulmonary Embolism - ICD-10 I26.9 (Page 13)
+- Deep Vein Thrombosis - ICD-10 I82.409 (Page 13)
+- Gastroesophageal Reflux - ICD-10 K21.9 (Page 13)
+- Avascular necrosis of Left hip - ICD-10 M87.051 (Page 13)
+- Alcoholic hepatitis - ICD-10 K70.1 (Page 13)
+- Polysubstance abuse - ICD-10 F19.10 (Page 13)
+- Major Depression - ICD-10 F32.9 (Page 13)
+------------------------------
+- Substance abuse - Dual Diagnosis (Page 20)
+- Mental health - Depression (family history in sibling; Page 21)
+- Mental health - Anxiety (Page 21)
+- Mental health - Dysphoria (Page 21)
+- Mental health - Sadness (Page 21)
+- Mental health - Anhedonia (Page 21)
+- Mental health - Avolition (Page 21)
+- Behavior - Isolation (Page 21)
+- Behavior - Withdrawal (Page 21)
+- Behavior - Avoidant eye contact (Page 21)
+- Speech - Slow, soft speech (Page 21)
+- Physical appearance - Dishevelment (Page 21)
+- Physical appearance - Malodorous (Page 21)
+- Physical appearance - Poor hygiene (Page 21)
+- Medical management - Use of methadone for opioid-dependence (Page 20)
+- Medical management - Use of gabapentin for neuropathic pain (Page 20)
+- Medical management - Use of mirtazapine for sleep aid (Page 20)
+- Medical management - Use of abilization for mood stabilization (Page 20)
+- Medical management - Use of sertraline for mood stabilization (Page 20)
+- Medical management - Use of tramadol for pain management (Page 20)
+- Medical management - Use of tivaroxaban for DVT treatment (Page 20)
+- Psychiatric symptoms - Disorientation about place, person, and situation (Page 21)
+- Psychiatric symptoms - Perseveration and rumination thought processes (Page 21)
+- Psychiatric symptoms - Hopelessness (Page 21)
+------------------------------
+The patient's past medical history includes:
+
+- Psychiatric issues resulting in past hospitalizations (Page 8)
+- Substance abuse including alcohol, heroin, and cocaine. Positive drug screen but details about specific substance, frequency, route, amount, age of first use, or last use not provided (Page 8, 25)
+- Bipolar disorder, PTSD, polysubstance abuse which escalated after the loss of his fiance (Page 16)
+- Substance-induced sleep disturbances, only able to sleep about 4 hours a night (Page 20)
+- Suicidal tendencies which have included attempts of overdose from prescription medication (Page 25) 
+
+Note that the timeline for each of these conditions was not provided in the documents.
+------------------------------
+- History of 16 hospitalizations, starting at age 20 (Page 3)
+- Has undergone multiple surgeries, including lumbar fusion, back surgery, and total left hip arthroplasty (Page 17)
+- History of left lower extremity deep vein thrombosis (LLE DVT) (Page 6)
+- Past pulmonary embolism (PE) (Page 6)
+- Gastroesophageal reflux disease (GERD) (Page 6)
+- Congenital spondylolisthesis (Page 6)
+- Left hip avascular necrosis (Page 6)
+- Seizures likely due to withdrawal syndrome (Page 6)
+- History of suicidal ideation and need for detox, most recent admission 2 weeks prior (Page 3)
+- History of trauma or abuse, involved with the Department of Children and Family Services or Adult Protective Services (Page 3)
+- Substance use, including alcohol, cannabis, cocaine, and opiates - no specified timeline (Page 19)
+- Patient was raped and drugged as a teenager and neglected by biological parents before being adopted during childhood (Page 19) 
+- Blood clot disorder, hip replacement, back surgery, seizures from withdrawal, sciatica, and bipolar diagnosis - no specified timeline mentioned (Page 17)
+- History of tobacco use, smokes one pack of cigarettes daily - no specified timeline given (Page 19).
+------------------------------
+- Gastroesophageal Reflux Disease (GERD) - Source: Page 11
+- Deep Vein Thrombosis (DVT), Pulmonary Embolism (PE) - Source: Page 11
+- Seizures, unspecified timeline - Source: Page 11
+- History of Surgeries: Lumbar fusion, Back surgery, and Total Left Hip Arthroplasty. No timeline indicated - Source: Page 11
+- Substance Use: Tobacco (about a pack per day), Alcohol, Cannabis, Cocaine/crack, and Opiates, starting from teenage year and twenties - Source: Page 9
+- Positive urine drug screening for Benzos, Cocaine and Fentanyl. No timeline indicated - Source: Page 11
+- Major Depressive Disorder, Suicidal Ideation with a plan to overdose, Polysubstance abuse- Source: Page 13
+- Seizure due to Alcohol Withdrawal - Source: Page 13
+- Lower left extremity Deep Vein Thrombosis or Pulmonary Embolism - Source: Page 13
+- Alcoholic Hepatitis - Source: Page 13
+- Pain due to Left Hip Avascular Necrosis - Source: Page 13
+- Nicotine Dependency - Source: Page 13
+
+------------------------------
+The document does not provide information about the patient's past medical history.
+------------------------------
+Mobility Aids: NA
+------------------------------
+Mobility Aids: NA
+Source: Page Numbers Not Provided in Text Passage
+------------------------------
+Mobility Aids: NA
+------------------------------
+The document does not provide specific information on the need for mobility aids for this patient. Based on the data given:
+
+Mobility Aids: NA
+------------------------------
+Patient Monitoring & Safety Equipment:
+
+1. Vital signs monitor - to regularly check blood pressure, heart rate, temperature, and respirations 
+   (Source: Page 8)
+   
+2. Respiratory monitor - to assess the patient's oxygen saturation (SPO2)
+   (Source: Page 8)
+
+3. Drug monitor - To perform Urine Drug Screen tests, and possibly to administer medical detoxification treatment
+   (Source: Page 25, 10)
+
+4. Suicidal Ideation Severity Assessment - Automated tool for daily assessment of the patient's mental health status, specifically to evaluate suicide risk 
+   (Source: Page 2)
+
+5. Electrocardiogram (ECG) machine - Given that the patient is currently on a heart-healthy diet, it could be inferred that an ECG machine may be needed to monitor the patient's cardiac status. 
+   (Source: Page 25) 
+
+Note: This is an informed summary based on the documents provided and the patient's stated medical conditions. The actual need for these safety and monitoring equipment should be determined by the healthcare provider.
+------------------------------
+Patient Monitoring & Safety Equipment:
+
+- Vital signs monitor: To monitor blood pressure, heart rate, and temperature due to the patient's respiratory and cardiac conditions (Page: 6).
+- Respiratory monitor: Given the patient's pulmonary embolism diagnosis (Page: 6).
+- Electrocardiogram (ECG) machine: To monitor heart function as the patient may have a risk of cardiac complications (Page: 6). 
+- Glucometer: As the patient has a potential risk for diabetes given their age and extensive medical history. 
+- Regular drug screening equipment due to the patient's history of drug use (Page: 19).
+- Medical scales: To monitor the patient's weight as a part of general health check-ups and for proper drug dosage calculations. 
+ 
+------------------------------
+Patient Monitoring & Safety Equipment:
+
+- Vital signs monitor, for regular check-ups as the patient has multiple health conditions (Page: 13)
+- Respiratory monitors, due to their history of Pulmonary Embolism (Page: 13)
+- Electrocardiogram (ECG) machine, given the patient's history of Deep Vein Thrombosis which could potentially affect heart function (Page: 13)
+- Seizure monitoring equipment, due to the patient's history of seizures caused by alcohol withdrawal (Page: 13)
+------------------------------
+Patient Monitoring & Safety Equipment: NA
+------------------------------
+Bed Equipment: NA
+------------------------------
+Bed Equipment: NA
+------------------------------
+Bed Equipment: NA
+------------------------------
+Bed Equipment: NA
+------------------------------
+Specialized Medical Equipment: NA
+------------------------------
+Specialized Medical Equipment: NA
+------------------------------
+Specialized Medical Equipment: NA
+------------------------------
+Specialized Medical Equipment: NA
+------------------------------
+Assistance: NA
+Page: Not specified in the document.
+------------------------------
+Assistance: NA
+------------------------------
+
+Page: NA
+------------------------------
+The report does not clarify the level of assistance required by the patient.
+------------------------------
+The text does not provide specific details on the level of assistance needed by the patient.
+------------------------------
+The text does not provide information to determine if the patient currently has an intravenous (IV) line or is expected to need one. The original document does not provide the necessary details. IV: NA. Source: Page 10.
+------------------------------
+The available document does not provide information on whether the patient currently has an intravenous (IV) line or is expected to need one.
+------------------------------
+IV: NA. 
+
+Source: The medical reports provided don't specify any information about the patient currently having an intravenous (IV) line or is expected to need one in the near future.
+------------------------------
+IV: NA
+------------------------------
+The available report does not provide any information on whether the patient has pressure ulcers, therefore a sufficient response cannot be given based on the available text.
+------------------------------
+This document does not provide any information about the presence or absence of pressure ulcers in the patient.
+------------------------------
+Pressure ulcers : NA
+------------------------------
+The report does not provide information on whether the patient has any pressure ulcers, including stages 1-4, and unstageable. "Pressure ulcers: NA"
+------------------------------
+Complex wounds: No
+------------------------------
+Complex wounds: No.
+------------------------------
+Complex wounds: No
+------------------------------
+The document does not provide any information on whether the patient has any complex wounds. Therefore, the response is: "Complex wounds: No".
+------------------------------
+Wound Vac: No.
+------------------------------
+Wound Vac: No. The document does not provide any information about the patient needing a wound vacuum. There seems to be no mention of a wound vacuum in the patient's document.
+------------------------------
+Wound Vac: No.
+------------------------------
+The document provides no information on whether the patient requires a wound vacuum.
+------------------------------
+Specialty Wound Equipment: No.
+The document does not provide any information about the patient requiring any specialty wound equipment, including a wound vacuum. Please refer to the original document for complete details.
+------------------------------
+Specialty Wound Equipment: No
+
+This information is not mentioned explicitly in the document.
+------------------------------
+Specialty Wound Equipment: No
+Page: Not specified in the provided text.
+------------------------------
+The report does not mention the need for any specialty wound equipment for the patient. Therefore, "Specialty Wound Equipment: No".
+------------------------------
+The patient report does not provide any information regarding the patient's smoking status. Page: 10
+------------------------------
+Yes, the patient smokes one pack of cigarettes per day. (Page: 19)
+------------------------------
+Yes, the patient admits to smoking about a pack of cigarettes a day. This information is mentioned on Page 9.
+------------------------------
+The document does not provide information on the patient's smoking habits.
+------------------------------
+• Heroin: Injected, $80-100 daily (Page 16)
+• Cocaine: Snorted/Inhaled, usage not specified, last used recently (Page 25)
+------------------------------
+• Cannabis: Smoked, sporadic usage, started in teenage years, last used recently (Page 19 of 30)
+• Cocaine: Intranasal, $40 daily usage, started in the patient's late 20s, last used recently (Page 19 of 30)
+• Opiates (Heroin): Injected, $80 daily usage, started in the patient's late 20s, last used recently (Page 19 of 30)
+------------------------------
+• Benzos: Urine drug screen positive (Page 11 of 26);
+• Cocaine: Urine drug screen positive (Page 11 of 26);
+• Fentanyl: Urine drug screen positive (Page 11 of 26);
+• Cannabis: Patient reported usage, last used recently (Page 9 of 26);
+• Opiates: Patient reported usage, last used recently (Page 9 of 26).
+------------------------------
+The original summary doesn't provide any specific information about the patient's current engagement in drug abuse or a history of substance abuse, separate from and excluding alcohol or ETOH abuse.
+------------------------------
+- Yes
+- Alcohol
+- Heroin
+- Cocaine
+
+The frequency was not specified in the document. (Page: 25)
+------------------------------
+- The patient indicates a history of alcohol abuse, consuming half a gallon daily. (Page: 19)
+- The patient also reports using other substances including cannabis sporadically, spending $40 daily on cocaine, and injecting $80 worth of heroin daily. (Page: 19)
+------------------------------
+Yes
+
+- Alcohol: Daily intake, amount unspecified (Page: 9)
+- Cannabis: Daily use, amount unspecified (Page: 9)
+- Cocaine/Crack: Used daily, for several years (Page: 9)
+- Opiates: Used daily, for several years (Page: 9)
+------------------------------
+The report does not provide any specific information about the patient's current or previous engagement in alcohol or ETOH abuse.
+------------------------------
+Therapy: NA
+------------------------------
+Therapy: NA
+------------------------------
+Therapy: NA
+------------------------------
+The document does not provide specific details on the types, frequency, or duration of therapy sessions recommended or prescribed for the patient.
+------------------------------
+Concern [Page: 16]
+- The patient has a psychiatric history of bipolar disorder, PTSD, and polysubstance abuse.
+- The patient has been admitted due to suicidal ideation with a plan to overdose on prescription medication.
+- He has taken a mix of pills, cocaine and alcohol in an attempt to end his life.
+- His risk for harm to himself is significantly high, as evidenced by his inability to provide self-care, active suicide thoughts and intentions, a concrete plan for suicide, and inability to promise safety.
+- He requires immediate hospitalization for safety and stabilization. 
+
+Concern [Page: 25]
+- The patient is currently homeless and has a history of legal issues. He has been admitted voluntarily and is under observation every 10 minutes due to suicidal tendencies.
+- The patient abuses alcohol, heroin, and cocaine.
+- The patient has been put under detox precaution.
+- The patient is deemed as high risk.
+
+Concern [Page: 20]
+- The patient underwent a psychiatric evaluation for substance abuse treatment.
+- He has multiple arrests, primarily for drug possession, resulting in a month of jail time.
+------------------------------
+Concerns:
+- The patient has a history of suicidal ideation and had a plan to overdose on prescription medications (Page: 6)
+- The patient's substance abuse may constitute a risk to themselves, and possibly others, if not managed properly; they have been using alcohol, cannabis, cocaine, and heroin regularly (Page: 19) 
+- The patient has had multiple hospitalizations, suggesting a severe and recurrent illness that may require close monitoring and management (Page: 18)
+- There is a mention of some trauma or abuse in the patient's history which may result in unpredicted behavioral issues, although these details are not explicit in the document (Page: 18)
+- The patient has had multiple run-ins with the law and has been incarcerated before, suggesting potential behavioral issues that may affect other patients and staff (Page: 2)
+- The patient is not vaccinated against COVID-19, posing a potential health risk to others in the nursing home (Page: 2)
+- The patient's psychiatric conditions including bipolar disorder and major depressive disorder may require therapeutic management and possibly constitute a risk to themselves (Page: 17)
+------------------------------
+Concerns: 
+
+- Page 2: The patient showed suicidal indications with a clear plan to overdose. 
+- Page 22: The provided report assigned a high-risk level to the patient due to their suicidal intent and inability to maintain their safety or the safety of others. 
+- Page 8: The patient had a positive result in urine drug screening for benzos, cocaine, and fentanyl. 
+- Page 9: The patient was noted to have a history of substance use, specifically alcohol, cannabis, cocaine/crack, and opiates. 
+- Page 13: The patient exhibited severe depression and suicidal ideation, and they had a history of polysubstance. Additionally, they had a history of seizures due to alcohol withdrawal.
+- Page 24: The patient had been prescribed lorazepam for anxiety and also for potential seizures.
+------------------------------
+Concerns:
+
+- Patient was disoriented about place, person, and situation (Page 21)
+- Psychiatric evaluation revealed anxious, depressed, dysphoric, and sad mood, with a dysphoric and restricted affect (Page 21)
+- Evidence of perseveration and rumination, typically associated with various psychiatric disorders (Page 21)
+- The thought content was marked by Anhedonia, Avolition, and Hopelessness (Page 21)
+- Although the patient denied experiencing hallucinations, they were assessed for perceptual disturbances (Page 21)
+- There is a recorded sibling family history of depression and drug addiction which could indicate genetic predisposition (Page 21)
+------------------------------
+Tuberculosis: No
+Source: Page 8
+------------------------------
+Tuberculosis: No
+
+Sources: Page 3, 6, 7, 12, 15, 17, 18, 19.
+------------------------------
+Tuberculosis: No
+------------------------------
+Tuberculosis: No. The report does not mention the patient having Tuberculosis (TB) or taking any medication typically prescribed for Tuberculosis.
+------------------------------
+VRE: No.
+------------------------------
+VRE: No.
+------------------------------
+VRE: No.
+------------------------------
+VRE: No
+------------------------------
+HIV: No
+------------------------------
+HIV: No
+------------------------------
+HIV: No
+------------------------------
+HIV: No
+
+I could not find any information in the provided text that indicates that the patient is taking any prescription drugs for HIV or has the Human Immunodeficiency Virus.
+------------------------------
+ESBL: No
+------------------------------
+ESBL: No
+------------------------------
+ESBL: No
+------------------------------
+ESBL: No
+------------------------------
+AIDS: No
+------------------------------
+AIDS: No
+------------------------------
+AIDS: No
+------------------------------
+AIDS: No
+------------------------------
+ECG: No.
+------------------------------
+ECG: No.
+------------------------------
+ECG: No
+------------------------------
+The document does not provide information on whether the patient needs an Electrocardiogram (ECG or EKG).
+------------------------------
+PT/INR: No
+------------------------------
+PT/INR: No
+------------------------------
+PT/INR: No
+------------------------------
+PT/INR: No
+------------------------------
+eCardio: No
+------------------------------
+The information provided in these documents does not indicate the patient's need for a Cardiac Event Monitor. Therefore: "eCardio: No"
+------------------------------
+eCardio: No
+
+Page: Not specified.
+------------------------------
+eCardio: No
+------------------------------
+Bladder scan: No
+------------------------------
+Bladder scan: No
+
+The document does not provide any information about the need for a bladder scan to assess postvoid residual (PVR) volume for the patient.
+------------------------------
+Bladder scan: No 
+
+Page: Not mentioned
+------------------------------
+The text does not provide information on whether the patient needs a Bladder scan to assess postvoid residual (PVR) volume (Radionuclide Cystogram).
+------------------------------
+Central line: No.
+Source: Pages 8, 4, 25, 23, 20, 16, 14, 2, 10
+------------------------------
+Central line: No
+
+The information provided in the document does not indicate that the patient has or needs a central venous catheter (central line).
+------------------------------
+Central line: No. There is no indication in the text that the patient has or needs a central venous catheter (central line).
+------------------------------
+The report does not provide information on whether the patient has or needs a central venous catheter (central line).
+------------------------------
+Midline catheter: No
+------------------------------
+There is no information available in the given texts regarding the patient's requirement or possession of a midline catheter.
+------------------------------
+Midline catheter: No.
+------------------------------
+The document does not provide information on whether the patient has or needs a midline catheter.
+------------------------------
+Implantable ports: No.
+------------------------------
+Implantable ports: No information provided in the documents.
+------------------------------
+Implantable ports: No.
+------------------------------
+The document does not provide any information on whether the patient has or needs Implantable Ports.
+------------------------------
+JP/Penrose drain: No.
+------------------------------
+JP/Penrose drain: No
+------------------------------
+JP/Penrose drain: No.
+------------------------------
+JP/Penrose drain: No
+------------------------------
+Nephrostomy: No
+------------------------------
+Nephrostomy: No.
+------------------------------
+Nephrostomy: No
+------------------------------
+The document does not provide information on whether the patient has a Nephrostomy or Urostomy.
+------------------------------
+Colostomy: No
+------------------------------
+Colostomy: No. The document does not mention the patient having a colostomy.
+------------------------------
+Colostomy: No
+------------------------------
+The available document does not provide any information on the patient having a colostomy.
+------------------------------
+The document does not provide any information about the patient having or needing a Suprapubic Catheter. The original pages reviewed do not give any reference to a Suprapubic Catheter.
+------------------------------
+Suprapubic Catheter: No. No relevant information regarding a suprapubic catheter was found in the document.
+------------------------------
+Suprapubic Catheter: No.
+------------------------------
+The text provided does not include any information regarding a Suprapubic Catheter for the patient. Therefore, the response is "Suprapubic Catheter: No". As per the instructions provided, no page number or additional summary statements are included.
+------------------------------
+Dialysis Shunt: No
+
+The provided text does not indicate that the patient has or requires a dialysis shunt. Original page number of the response: Not Applicable.
+------------------------------
+Dialysis Shunt: No. 
+
+This information was not mentioned in the available documents reviewed, so it is assumed that the patient does not have a dialysis shunt. The original document pages did not contain any information regarding a dialysis shunt.
+------------------------------
+Dialysis Shunt: No
+------------------------------
+The document does not provide information on whether the patient has or needs a Dialysis Shunt.
+------------------------------
+Dialysis Catheter: No
+------------------------------
+Dialysis Catheter: No. The document does not contain any information about the patient having or needing a Dialysis Catheter.
+------------------------------
+Dialysis Catheter: No
+
+The document does not provide information about the patient having or needing a dialysis catheter.
+------------------------------
+The report does not provide information on whether the patient has or needs a Dialysis Catheter.
+------------------------------
+BiPAP/CPAP: No
+(There's no information about the patient's need for BiPAP or CPAP in the given text. The original text is located on Page: 10.)
+------------------------------
+BiPAP/CPAP: No
+------------------------------
+Page: N/A
+------------------------------
+BiPAP/CPAP: No.
+------------------------------
+The document does not provide information on whether the patient uses or needs bilevel positive airway pressure (BiPAP, Bi PAP, or Bi-PAP) or continuous positive airway pressure (CPAP or C-PAP).
+------------------------------
+Tracheostomy: No
+------------------------------
+Tracheostomy: No
+------------------------------
+Tracheostomy: No
+------------------------------
+The report does not provide any information about the patient having a Tracheostomy. Tracheostomy: No.
+------------------------------
+The patient's report does not specify any usage or need for oxygen. 
+
+Source: Pages 4, 8, 14, 16, 20, 23, 25.
+------------------------------
+The document provided does not include explicit information on the patient's use or need for oxygen.
+------------------------------
+Oxygen: No
+------------------------------
+Oxygen: No
+------------------------------
+The document doesn't provide information about the patient's use or need of a portable or Astral vent.
+------------------------------
+The information available does not indicate whether the patient uses or needs a portable or Astral vent. 
+
+Source: Unable to provide as no such information is present in the document.
+------------------------------
+Portable/Astral vent: No. The text does not provide information regarding the patient's need or use of a portable or Astral vent.
+------------------------------
+The document provided does not supply information on whether the patient uses or needs a portable or Astral vent.
+------------------------------
+The document does not provide information on whether the patient has a Chest Tube.
+------------------------------
+Chest tube: No
+------------------------------
+Chest tube: No.
+------------------------------
+Chest tube: No
+------------------------------
+Pleurex: No
+------------------------------
+Pleurex: No
+------------------------------
+Pleurex: No
+------------------------------
+The document does not provide information on whether the patient has a Pleurex or PleurX.
+------------------------------
+Surgical Orthopedic care: No. 
+
+Original Page number: NA. The document does not provide any information indicating the need for surgical orthopedic care for the patient.
+------------------------------
+Surgical Orthopedic care: No. 
+
+Page Number: Not Specified. The document does not provide specific information about the need for surgical orthopedic care for the patient.
+------------------------------
+Surgical Orthopedic care: No
+------------------------------
+Surgical Orthopedic care: No
+------------------------------
+External fixator: No
+------------------------------
+The document does not provide information on whether the patient requires an external fixator.
+------------------------------
+External fixator: No
+------------------------------
+External fixator: No
+------------------------------
+Orthopedic Traction: No
+------------------------------
+Orthopedic Traction: No. There is no mention of the patient requiring orthopedic traction in the provided document.
+------------------------------
+Orthopedic Traction: No
+------------------------------
+Orthopedic Traction: No
+------------------------------
+: No
+------------------------------
+The document does not specify whether the patient has or needs prosthetics. Page number(s): Unspecified.
+------------------------------
+Prosthetics: No information available in the text provided.
+------------------------------
+Prosthetics: No
+------------------------------
+CABG: No. The provided text doesn't mention the patient having a Coronary artery bypass graft (CABG).
+------------------------------
+CABG: No.
+------------------------------
+CABG: No.
+------------------------------
+The report does not provide information on whether the patient had a Coronary Artery Bypass Graft (CABG).
+------------------------------
+LVAD: No
+------------------------------
+LVAD: No
+------------------------------
+LVAD: No
+------------------------------
+LVAD: No
+------------------------------
+LifeVest: No
+------------------------------
+LifeVest: No
+------------------------------
+LifeVest: No
+------------------------------
+The text does not provide information on whether the patient has a LifeVest Wearable Defibrillator or LifeVest.
+------------------------------
+Pacemaker: No
+------------------------------
+Pacemaker: No
+------------------------------
+Pacemaker: No
+------------------------------
+The document does not provide information on whether the patient has a Pacemaker.
+------------------------------
+Hemodialysis: No
+------------------------------
+Hemodialysis: No
+
+The document does not mention the patient requiring hemodialysis.
+------------------------------
+Hemodialysis: No
+------------------------------
+Hemodialysis: No
+------------------------------
+The document doesn't provide information on whether the patient needs Peritoneal Dialysis (PD).
+------------------------------
+Peritoneal dialysis: No
+
+This information is not specified in any page of the documents.
+------------------------------
+Peritoneal dialysis: No
+------------------------------
+Peritoneal dialysis: No
+------------------------------
+Bariatric: No
+------------------------------
+Bariatric: No
+------------------------------
+Bariatric: No.
+------------------------------
+The document does not provide information on the patient's weight or any bariatric issues.
+------------------------------
+IV: No
+------------------------------
+IV: No
+------------------------------
+Page: 16
+
+------------------------------
+IV: No
+------------------------------
+IV: No
+------------------------------
+TPN: No
+------------------------------
+TPN: No
+------------------------------
+TPN: No
+------------------------------
+Page: 24
+------------------------------
+TPN: No
+
+The document does not mention any need for Total Parenteral Nutrition (TPN) for the patient.
+------------------------------
+PCA: No
+------------------------------
+PCA: No
+------------------------------
+PCA: No
+------------------------------
+PCA: No
+------------------------------
+IV Push: No
+------------------------------
+The document does not provide information on whether the patient requires Intravenous push (IV push). Page number with this information is not available in the document.
+------------------------------
+
+Page: Not specified
+
+------------------------------
+IV Push: No
+
+In this medical text provided, there is no mention of the patient requiring an Intravenous push (IV push). Therefore, the response is based on all available information from the text. The original page number(s) indicating the source of the response could not be included as the IV push requirement is not mentioned in the text.
+------------------------------
+IV Push: No
+
+This document does not indicate whether the patient needs Intravenous push (IV push).
+------------------------------
+Oral Chemotherapy: No.
+------------------------------
+Oral Chemotherapy: No.
+------------------------------
+Oral Chemotherapy: No
+------------------------------
+Oral Chemotherapy: No
+------------------------------
+IV Chemo: No
+------------------------------
+IV Chemo: No
+------------------------------
+IV Chemo: No
+------------------------------
+IV Chemo: No
+------------------------------
+High Cost Rx: No
+------------------------------
+High Cost Rx: No.
+------------------------------
+High Cost Rx: No. 
+
+Page: 24.
+------------------------------
+High Cost Rx: No
+------------------------------
+Psychosocial Care: No.
+------------------------------
+Psychosocial Care: Yes
+
+(Page: 19) The patient experienced sexual assault and neglect during their childhood. They were raped and drugged by a stranger as a teenager, and were neglected by their biological parents before being adopted at a young age. 
+
+(Page: 17) The patient has a psychiatric evaluation with a history of failure in a less intensive outpatient setting. Their medical history includes a blood clot disorder, hip replacement, back surgery, seizures from withdrawal, sciatica, and bipolar diagnosis.
+
+(Page: 15) This medical report details a patient with Suicidal Ideation (SI) and a plan to overdose on prescription medications. The patient is being observed every 10 minutes and on high-risk suicide and detox precautions. 
+
+(Page: 3) The patient is being treated with a mix of medications likely for epilepsy, muscle spasms, sleep disorders, gastrointestinal reflux disease, anxiety and mood disorders, pain relief, and nicotine dependency. The patient has a record of inpatient treatment related to suicidal ideation and need for detox. 
+
+(Page: 18) There is also a mention of some form of trauma or abuse in the patient's history, but the details are not explicit in this document. It's noted there was an involvement with the Department of Children and Family Services or Adult Protective Services.
+------------------------------
+Psychosocial Care: Yes
+
+Page: 22
+The patient in this report displays dangerous behaviors towards themselves, specifically suicidal intent with a plan to overdose on prescribed medication. The report suggests a marked regression in their symptoms and evidence of severe impairment in daily life tasks. Inpatient hospitalization was suggested due to the severity of the patient's symptoms and their failure to respond to outpatient treatments, indicating a need for intensive, integrated psychosocial care.
+------------------------------
+Psychosocial Care: Yes
+Page: 20
+------------------------------
+Dementia: No
+------------------------------
+Dementia: No
+------------------------------
+Dementia: No
+------------------------------
+Dementia: No
+------------------------------
+Recent danger: Yes. (Page: 16)
+------------------------------
+Recent danger: Yes
+
+Page: 15: "The patient was admitted due to suicidal ideation (SI) with a plan to overdose on prescription medications."
+------------------------------
+Recent danger: Yes
+Source: Page 22
+------------------------------
+The document does not provide enough information to determine if the patient is a recent danger to self or others.
+------------------------------
+Restraints: No
+------------------------------
+Restraints: No
+
+Source: Original page number(s) not provided in the excerpt.
+------------------------------
+Restraints: No
+------------------------------
+The document provided does not include information on whether the patient requires restraints.
+------------------------------
+Closed Unit: No
+Source: Not applicable as no relevant information was found in the document.
+------------------------------
+Closed Unit: No
+------------------------------
+Page: 5
+------------------------------
+Closed Unit: No.
+------------------------------
+The report does not provide information on whether the patient requires a Closed Unit. Please refer back to the original document for this information.
+------------------------------
+Felon: Yes. The patient has multiple arrests primarily for drug possession, which resulted in a month of jail time (Page: 20).
+------------------------------
+Felon: Yes
+------------------------------
+Page: 2
+------------------------------
+Felon: No
+
+Source Information: Not mentioned in the provided pages.
+------------------------------
+The document does not provide information on whether the patient is a known felon or has been convicted or sentenced to jail time.
+------------------------------
+Sexual Offender: No. The document doesn't provide any information indicating that the patient is a known sexual offender.
+------------------------------
+Sexual Offender: No. The information provided in the document does not indicate the patient being a Known Sexual Offender.
+------------------------------
+Sexual Offender: No.
+------------------------------
+The document provided does not contain information regarding the patient being a Known Sexual Offender.
+------------------------------
+Etoh/Alcohol-current: Yes
+Source: Page 25.
+------------------------------
+Etoh/Alcohol-current: Yes
+Source: Page 19.
+------------------------------
+Etoh/Alcohol-current: Yes
+
+Page: 9
+------------------------------
+The document doesn't provide information on the current status of the patient's ETOH or Alcohol abuse.
+------------------------------
+The document does not include specific details regarding the patient's history of ETOH or Alcohol abuse.
+------------------------------
+Etoh/Alcohol-history: Yes
+
+Page: 19
+------------------------------
+Etoh/Alcohol-history: Yes
+Page: 9
+------------------------------
+The document does not provide specific information regarding the patient's history of ETOH or alcohol abuse.
+------------------------------
+Drugs-current: Yes
+Source: Page 25
+------------------------------
+Drugs-current: Yes
+------------------------------
+Source: Page 19
+------------------------------
+Drugs-current: Yes
+The patient's urine drug screening was positive for benzos, cocaine, and fentanyl. The source of this response can be found on Page 11.
+------------------------------
+The document does not provide specific information on whether the patient currently suffers from drug abuse, excluding alcohol abuse.
+------------------------------
+Drugs-history: Yes - The patient admits to substance abuse. (Page 8)
+------------------------------
+Drugs-history: Yes
+Source: Page 19
+------------------------------
+Drugs-history: Yes
+
+Page: 9 "The patient has a history of substance use, specifically alcohol, cannabis, cocaine/crack, and opiates." 
+
+Page: 11 "Additionally, the patient's urine drug screening was positive for benzos, cocaine, and fentanyl."
+------------------------------
+Drugs-history: Yes
+Page: 21
+------------------------------
+Head Injury: No
+------------------------------
+Head Injury: No. The documents do not mention the presence of a head injury in the patient's history.
+------------------------------
+Head Injury: No.
+------------------------------
+Head Injury: No
+------------------------------
+Less<18 yrs: No
+
+Source: The patient's details and the contexts in which they are discussed (including substance abuse, past relationships, homelessness, legal issues) suggest that the patient is an adult. However, the specific age is redacted for privacy reasons. Original page numbers are not provided in this format.
+------------------------------
+Less<18 yrs: No. The patient's first hospitalization occurred at the age of 20, as indicated on Page 1.
+------------------------------
+Less<18 yrs: No
+
+Source Information Not Available.
+------------------------------
+The document does not provide information on the patient's age.
+------------------------------
+NA
+------------------------------
+NA
+------------------------------
+NA
+------------------------------
+NA
+------------------------------

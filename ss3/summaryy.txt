@@ -1,0 +1,47 @@
+How can I assist you today?
+------------------------------
+This medical report appears to be a Medication Administration Record (MAR) that keeps track of all medications administered for a male patient admitted on October 28, 2023, with Dr. Quesada Anthony as the attending physician. While some of the placeholders have not been filled in, the report outlines the schedule for administering multiple medications and interventions, including blood glucose monitoring, a care profile and crisis plan, a complete blood count, and a metabolic panel.
+
+The patient appears to be on several medications including buprenorphine, gabapentin, mirtazapine, multivitamin, omeprazole, prazosin, quetiapine, tivaroxaban, and sertraline. Sublingual buprenorphine tablets (2 mg and 8 mg) have been administered for maintenance. Gabapentin (1,200 mg) was given for anxiety, and Mirtazapine (15 mg) for sleep. Multivitamins, omeprazole, and tivaroxaban are administrated once a day. Prazosin has been given for nightmares, and quetiapine for mood. A combination of sertraline (50 mg and later 75 mg) was prescribed for mood and depression.
+
+Additionally, several assessments including the COWS Scale, daily nursing progress note, and environment patient safety checklist appear to have been completed multiple times over the course of the patient's stay. The patient has also been administered nicotine gum to assist with smoking cessation. Some treatments have been not been administered or completed including blood glucose monitoring, a complete blood count, a metabolic panel, and a urine drug screen.
+
+Note: This information is based on multiple placeholders used in the text, such as [L-DATE] and [U-DATE], which might stand for the last and upcoming dates in the medical record respectively. Thus, context may be missing due to lack of specific details.
+------------------------------
+This is a medical report about an admitted patient on 10/28/2023, who has attempted suicide with an overdose. The patient is a 43 year old male with a history of deep vein thrombosis (DVT), pulmonary embolism (PE), gastro-esophageal reflux disease (GERD), congenital spondylosethesis, left hip avascular necrosis, back surgery, hip replacement and seizures from withdrawal. The patient has been under multiple medication for various issues like anxiety, muscle spasms, sleep, GERD, nightmares, mood stabilisation and pain relief.
+
+His major psychiatric diagnosis is Major Depressive Disorder, Recurrent, Unspecified (code: F33.9 according to ICD10), which seems to the primary reason for his admission, as he has shown suicidal intentions with a plan to overdose on prescription medications. 
+
+There is also documented allergic reaction to the drugs Aripiprazole and ketorolac causing severe blurred vision and swelling respectively. Additionally, they show mild allergies to dust mites and have severe allergy to bee sting causing swelling.
+
+------------------------------
+Patient is a male, with a documented drug allergy hives and stands at approximately 67 inches with a weight of 151 pounds. His Body Mass Index (BMI) is calculated at 23.6. Vital signs indicate a systolic pressure of 106 mmHg, diastolic pressure of 66 mmHg (while blood pressure at 119/70), a heart rate of 82 beats/minute, a temperature of 97.6 °F, respirations at 20 resp/min, and a SPO2 of 99%.
+
+The patient admitted to substance use, with a positive drug screen for alcohol, cannabis, cocaine/crack, and opiates. He also confessed to tobacco use but denied any other addictive behaviors. He completed some college but isn't currently in school. 
+
+Currently, the patient is homeless, was raised by adopted parents and has a twin brother whom he is close with. He has never been enrolled in military service, and has a legal history of multiple arrests due to drug possession and a month's incarceration.
+
+Medical history includes major depression, suicide ideation with a plan, polysubstance abuse, seizures due to alcohol withdrawal, Gastroesophageal Reflux Disease (GERD), Left Lower Extremity (LLE) Deep Vein Thrombosis (DVT), and Pulmonary Embolism (PE), alcoholic hepatitis and left hip avascular necrosis/pain. He was prescribed several medications including acetaminophen, lorazepam, dicyclomine, gabapentin, loperamide, methocarbamol, etc., for pain, anxiety, muscle spasm, and other issues. 
+
+He does not wish to be vaccinated for COVID-19 and was last tested for TB with an unknown date. He has a seizure history and has undergone lumbar fusion, back surgery, and total left hip arthroplasty. He was ordered to be admitted on high-risk precaution due to suicidal ideation.
+------------------------------
+The report concerns a 43-year-old male admitted to the hospital on a voluntary basis due to severe depression and suicidal ideations. He is suffering from a number of serious mental health issues including bipolar disorder, PTSD, and polysubstance abuse. He has been using drugs and alcohol to deal with these issues, particularly after the death of his fiancé earlier in the year.
+
+His past surgical history includes a lumbar fusion, back surgery, and total left hip arthroplasty. He takes a number of medications including Gabapentin and TraMADol for anxiety and pain respectively, QUEtiapine and Sertraline for mood stabilization.
+
+He was reportedly neglected by his biological parents as a child and raised by adopted parents. He has a history of substance abuse and has been in treatment multiple times, including inpatient treatment. He also has a legal history, including multiple arrests and one month of jail time for drug possession.
+
+His current living situation is unstable; he is homeless. He is not currently in school or employed, and does not receive disability.
+
+His mental health examination showed disorientation, poor hygiene, anxiety, sedation, rumination and references to ending his own life. He is in critical need of professional mental health support and substance abuse treatment.
+------------------------------
+The medical report provides a psychiatric evaluation of a patient admitted on October 28th, 2023. The patient was evaluated at Chicago Behavioral Hospital and was experiencing issues such as poor judgement, poor insight, risk to self with plans to overdose on prescription medications, and inability to understand the nature of the illness or the need for medication/treatment. 
+
+However, the patient demonstrated an average intelligence with no impairments in recent memory, remote memory, abstract reasoning, and had an intact attention span. The patient's living situation is currently unstable as they are homeless and also report involvement with legal issues. The consumption of alcohol, heroin, and cocaine is also mentioned.
+
+Criteria for inpatient hospitalization centers around the risk to self, an intensification of symptoms, inability to perform regular activities, and worsening condition in response to outpatient treatments. While admitted, the patient was on a range of medications, including acetaminophen, lorazepam, gabapentin, prazosin, and others, with instructions for administration specified. 
+
+Further, the patient was diagnosed with Major Depressive Disorder, recurrent severe without psychotic features. The patient is expected to make practical improvement with inpatient treatment and the estimated length of stay is 8 days. The treatment plan includes a range of therapies and programs with a goal of improving signs and symptoms of the mood disorder and building insight into the condition.
+
+As for the aftercare plan, living options such as home/independent living, residential treatment center, or a halfway house/shelter were considered alongside follow-up treatments. The provider, Dr. Silverman, conducted the evaluation and discussed the use of antipsychotic drugs and other treatments with the patient.
+------------------------------

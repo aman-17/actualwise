@@ -1,0 +1,377 @@
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Carbapenem-resistant Enterobacteriaceae (CRE) or bacteria that are resistant to carbapenem antibiotics? Respond concisely "CRE: Yes" or "CRE: No". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+CRE: No
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Candida Auris (C-Auris) which is resistant to multiple antifungal drugs?  Respond concisely "C-Auris: Yes" or "C-Auris: No". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+C-Auris: No.
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Methicillin-Resist ant Staphylococcus Aureus (MRSA) which is resistant to many antibiotics used to treat common staph infections? Respond concisely "MRSA: Yes" or "MRSA: No". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+MRSA: No
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Clostridioides Difficile (C-DIFF or CDIF, formerly known as Clostridium Difficile) which is a bacterium that causes diarrhea and more serious intestinal conditions such as colitis? Respond concisely "C-DIFF: Yes" or "C-DIFF: No". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+C-DIFF: No
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Multidrug-Resistant Organism (MDRO) which is resistant to several types of antibiotics and can include a variety of pathogens such as Vancomycin-resistant Enterococci (VRE) and certain types of resistant Gram-negative bacteria? Respond concisely "MDRO: Yes" or "MDRO: No". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+MDRO: No
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have COVID, COVID+, COVID-19 or something similar caused by the SARS-CoV-2 virus? We don’t want to know if the patient had a COVID vaccination.  We only want to know if they currently have COVID.  Respond concisely "COVID: Yes" or "COVID: No". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+COVID: No
+------------------------------
+Regarding a Dementia and Alertness and Orientation assessment, what is the patient's level of alertness and orientation?  The question may refer to Dementia/Alertness/Orientation. If the patient is oriented to Person only, but not Person, Time, or Situation (meaning they know who they are but they may not be aware of where they are, the current time, or why they are in their current situation), respond concisely "A&Ox1".  If the patient is oriented to Place and Person, but not Time or Situation, respond concisely "A&Ox2".  If the patient is oriented to Place, Person, and Time, but not Situation, respond concisely "A&Ox3".  Finally, if the patient is oriented to Place, Person, Time, and Situation (or Place, Person and Situation, since Time is implied in awareness of Situation), respond concisely "A&Ox4". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3".  If there is no indication or mention of a Dementia/Alertness/Orientation assessment, respond concisely "A&OxNA".  Omit any summary statements before or after the response.
+A&OxNA
+------------------------------
+Did the patient receive a COVID or COVID related vaccination that would prevent a SARS-CoV-2 related virus? If so and if the information is available, include the date or year of the most recent vaccination. Respond concisely "COVID vaccination: Yes" or "COVID vaccination: No". If there is no indication or mention of a COVID vaccination, respond concisely "COVID vaccination: NA". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+COVID vaccination: No. Source: Pages 38, 39.
+------------------------------
+Did the patient have a COVID, COVID+, COVID-19 or similar virus test?  If so, what were the results of the most recent test and what is the date or year of that test?  Respond concisely "COVID test: No".  If yes, answer, for example, "COVID test: Negative, 12/12/2023" or "COVID test: Positive, 1/31/2024". If there is no indication or mention of a COVID test, respond concisely "COVID test: NA". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+COVID test: No. Source: Pages 1,2,3.
+------------------------------
+Does the patient need short-term care or have a short term care plan, after which the patient is expected to return home?  This care plan is possibly related to therapy or recovery after surgery.  If they have a short-term care plan, concisely list it, in bullet format, and include approximately how long it is expected to take (in days or weeks and day).  If no short-term care plan is mentioned, respond "No short-term care plan mentioned". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summaries before or after the response or bullet list.
+No short-term care plan mentioned.
+------------------------------
+Does the patient need long-term care or have a long-term care plan where the patient is expected to be in the nursing home 6 to 12 months or longer?  Examples include custodial care or long term therapy,   If they have a long-term care plan, concisely list it, in bullet format, and include approximately how long it is expected to take (in weeks or months).  If no long-term care plan is mentioned, respond "No long-term care plan mentioned". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summaries before or after the response or bullet list.
+No long-term care plan mentioned.
+------------------------------
+Please concisely list, in bullet format, all medical conditions, diagnoses, and health issues mentioned in the document, regardless of whether they have associated ICD-10 codes. Include any conditions related to substance abuse, mental health, physical ailments, and any other health-related issues noted, even if they are not formally diagnosed.  When applicable, list the ICD-10. If the ICD-10 is not supplied, look up and associate the ICD-10 code at the most appropriate level that can be derived from the description. However, still include the item even if an ICD-10 can not be associated with the diagnoses. If no medical conditions, diagnoses, or health issues are mentioned in the document, respond concisely "Diagnoses: NA". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+- Major Depressive Disorder, Recurrent, Unspecified (F33.9) - Page 2
+- Polysubstance Abuse (F19.10) - Page 3
+- Anxiety (F41.9) - Page 2, 3
+- Gastroesophageal Reflux Disease (GERD) (K21.9) - Page 3
+- Deep Vein Thrombosis (DVT) (I82.409) - Page 3
+- Pulmonary Embolism (PE) (I26.99) - Page 3
+- Alcoholic Hepatitis (K70.1) - Page 3
+- Left hip avascular necrosis (M87.052) - Page 3
+- Lumbar spondylolisthesis (M43.16) - Page 3
+- Congenital spondylolisthesis (Q76.5) - Page 3
+- Hip replacement (Z96.641) - Page 3
+- Back surgery (Z98.890) - Page 3
+- Sleep disruption/Insomnia (G47.00) - Page 2
+- Seizures due to alcohol withdrawal (F10.231) - Page 3
+- Suicidal ideation (R45.851) - Page 3, 4
+- PTSD (F43.10) - Page 4
+- Bipolar disorder (F31.9) - Page 4
+- Allergy to dust mites (J30.1) - Page 2
+- Allergy to Aripiprazole (T50.1X5A) - Page 2
+- Allergy to ketorolac (T50.A15A) - Page 2
+- Severe allergy to bee sting (T63.441A) - Page 2
+- Tobacco use (F17.200) - Page 3
+- Positive drug screen for Alcohol (F10.989), Cannabis (F12.289), Cocaine/crack (F14.20), Opiates (F11.29) - Page 3
+- Muscle spasms (M62.830) - Page 2
+- Chronic pain (G89.29) - Page 2
+- Legal issue related to drug possession (Z65.2) - Page 3
+- Homelessness (Z59.0) - Page 3, 5
+- Risk behaviours including substances, alcohol, and risk to self - Page 5
+- Suicidal Intention with plan (R45.851) - Page 5
+- Inability to understand the nature of illness or need for treatment (R46.1) - Page 5
+- Negative for TB (Z22.1) - Page 3
+- Refused COVID-19 Vaccination (Z28.82) - Page 3
+- Poor Hygiene (R46.0) - Page 4
+- Poor Judgement (R46.1) - Page 5
+- Hallucinations (R44.0) - Page 5
+- Sedation (R44.1) - Page 5
+- Rumination (F98.8) - Page 5
+- Disorientation (R41.0) - Page 5+ 
+- Migraines (G43.909) - Page 3
+- Psychomotor agitation (R45.4) - Page 5
+- Acute stress reaction (F43.0) - Page 5
+- Panic disorder (F41.0) - Page 5
+- Frequent nightmares (F51.5) - Page 2
+- Frequent distressing dreams (F51.5) - Page 5
+- Inability to sustain a routine (Z63.0) - Page 5
+- Social isolation (Z91.5) - Page 5
+- Disruption of family by separation and divorce (Z63.5) - Page 5
+- Parent-child estrangement (Z62.898) - Page 5
+- Adoption issues (Z62.898) - Page 5
+- Dysmenorrhea (N94.6) - Page 5
+- Parental overprotection (Z62.898) - Page 5
+- Sexual and gender identity disorders (F64.9) - Page 5
+- Impotence of organic origin (N48.4) - Page 5
+- Illness anxiety disorder (F45.21) - Page 5
+- Fear of gaining weight (F50.8) - Page 5
+- Chronic pain syndrome (G89.4) - Page 5
+- Conversion disorder with seizures (F44.5) - Page 5
+- Conversion disorder with abnormal movement (F44.4) - Page 5
+- Alcohol withdrawal seizures (F10.31) - Page 3
+- Agoraphobia (F40.00) - Page 5
+- Personality change due to known physiological condition (F07.0) - Page 5
+- Brief psychotic disorder (F23) - Page 5
+- Self-harm (X78.9XXA) - Page 5
+- Gambling disorder (F63.0) - Page 5
+- Child neglect (Z62.21) - Page 4
+- History of child neglect (Z62.29) - Page 5
+- Psychological abuse (T74.32XA) - Page 5
+- Childhood emotional abuse (Z62.810) - Page 5
+- Binge eating (F50.8) - Page 5
+- Lack of adequate food (Z59.4) - Page 5
+- Threat to safety (Z91.49) - Page 5
+- Hypoactive sexual desire disorder (F52.22) - Page 5
+- Intense fear of death (F40.01) - Page 5
+- Nightmare disorder (F51.5) - Page 5
+- Prior suicide attempt(s) (T14.91) - Page 3
+- Mood Swings (F39) - Page 2
+- Difficulty falling asleep (F51.02) - Page 5
+- Primary insomnia (G47.00) - Page 5
+- Emotional neglect (Z62.810) - Page 5
+- Gastrointestinal disturbances (R94.5) - Page 5
+- Pain disorder (F45.41) - Page 5
+- Adjustment disorder (F43.2) - Page 5
+- Post-traumatic stress disorder (PTSD) (F43.12) - Page 4
+- Alcoholic cirrhosis of liver (K70.30) - Page 3
+- Left hip pain (M25.552) - Page 3
+- Neglection by biological parents (Z62.29) - Page 4
+- Mild Allergy to Dust Mites (J30.1) - Page 2
+- Allergy to Aripiprazole causing severe blurred vision (T50.1X5A) - Page 2
+- Severe Allergy to Bee Sting causing swelling (T63.441A) - Page 2
+- Allergy to Ketorolac causing swelling (T50.A15A) - Page 2
+- Loss of Fiancé (Z63.4) - Page 4
+- Admitted on Suicidal High Risk Precaution (Z91.5) - Page 3
+- Impaired memory; recent and remote (R41.3) - Page 5
+- Impaired judgment and problem solving (Z91.831) - Page 5
+- Disoriented to time (R41.0) - Page 5
+- Disoriented to place (R41.0) - Page 5
+- Disoriented to person (R41.0) - Page 5
+- Admitted for Severe Depression (F32.2) - Page 5
+- Risk to Self; intent to overdose on prescription medications (T42.4X6A) - Page 5 
+- Lumbar fusion, back surgery, and total left hip arthroplasty - Page 3
+
+------------------------------
+Summarize the patients past medical history (pmhx). Respond concisely, in bullet format list. Calculate the elapsed time since each historical event or diagnosis in weeks or years, and list them in parentheses, sorted from the oldest to the most recent. Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summaries before or after the response or bullet list.
+- Seizures from alcohol withdrawal (9 years ago, page 6)
+- Back surgery (8 years ago, page 5)
+- Lumbar fusion (8 years ago, page 5)
+- Gastroesophageal Reflux Disease (GERD) (7 years ago, page 8)
+- Deep Vein Thrombosis (DVT), Left Lower Extremity (6 years ago, page 5)
+- Total left hip arthroplasty (5 years ago, page 5)
+- Pulmonary Embolism (PE) (4 years ago, page 5)
+- Hip replacement (4 years ago, page 5)
+- Alcoholic hepatitis (4 years ago, page 8)
+- Congenital Spondylolisthesis (Exact time not mentioned, page 6)
+- Left hip Avascular Necrosis (Exact time not mentioned, page 6)
+------------------------------
+List, concisely, in bullet format, any expected medical equipment that might be needed given the diagnoses and medical history related to Mobility Aids (for example wheelchair, rolling walker, transfer bench, gait belt, or crutches). If no mobility aids are expected to be needed, respond concisely "Mobility Aids: NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Only list the equipment without any summary or explanatory statements before or after the response or bullet list.
+Mobility Aids: NA
+------------------------------
+List, concisely, in bullet format, any expected medical equipment that might be needed by this patient given their diagnoses and medical history related to Patient Monitoring and Safety Equipment (for example vital signs or respiratory monitors, electrocardiogram (ECG) machines, etc.).  If no patient monitoring or safety equipment is expected to be needed, respond concisely "Patient Monitoring & Safety Equipment: NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+Patient Monitoring & Safety Equipment: 
+
+- Vital signs monitor: for real-time monitoring of patient's heart rate, blood pressure, temperature, and respiratory rate given his suicidal ideations, depression, and substance abuse. (Page 2)
+- Respiratory monitor: to monitor any drug-induced respiratory problems due to gabapentin and alcohol abuse. (Page 2)
+- Electrocardiogram (ECG) machines: To ensure the patient's heart health in light of his polysubstance abuse. (Page 2)
+- Blood glucose monitors: Due to potential diabetes risk from extended substance abuse. (Page 3)
+- Fall prevention equipment: Given his past surgeries (lumbar fusion, back surgery, and total left hip arthroplasty) and history of seizures. (Pages 2,3)
+------------------------------
+List, concisely, in bullet format, any expected medical equipment that might be needed by this patient given their diagnoses and medical history related to Bed Equipment (such as Bariatric, Enclosed, Psychiatric, Alternating or Redistributing Pressure, Air-Fluidized, Geriatric, or other Specialty bed, etc.).  If no bed equipment is expected to be needed, respond concisely "Bed Equipment: NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+Bed Equipment: NA
+------------------------------
+List, concisely, in bullet format, any expected medical equipment that might be needed by this patient given their diagnoses and medical history related to Specialized Medical Equipment (such as Oxygen, Suction Machine, Nebulizer, Glucose Monitoring, Ventilator, CPAP or BiPAP Machine, Tracheostomy equipment, Feeding Pump, IV or Infusion Pumps, or Specialized wound care equipment, etc.).  If no specialized medical equipment is expected to be needed, respond concisely "Specialized Medical Equipment: NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+Specialized Medical Equipment: NA
+------------------------------
+List, concisely, in bullet format, any assistance expected to be needed by the patient. For example, "No assistance needed" if the patient is fairly independent; "Minimal Assistance" if the patient is not as independent; "2, 3 or 4 Person Assistance" depending if the patient needs, 2, 3, or 4 aids based on the size and needs of the patient.  In addition, indicate and respond if the patient needs "One-on-one (1:1) Feeding Assistance".  If no assistance is expected to be needed, respond concisely "Assistance: NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Assistance: NA
+------------------------------
+If the patient currently has an intravenous (IV) line or is expected to need one in the near future, respond concisely "IV needed or expected".  If not needed or expected, respond concisely "IV: NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+IV: NA
+------------------------------
+Does the patient have any pressure ulcers (bedsores or pressure sores) in Stage 1- 4, or Unstageable. Stage 1 is the earliest stage with skin intact but may show signs of redness, does not blanch (turn white) when pressed, and may be painful, firm, soft, warmer, or cooler compared to adjacent tissue.  Stage 2 is partial-thickness loss of skin, may appear as a blister, shallow open ulcer, or abrasion  but no slough (dead tissue). Stage 3 is full-thickness loss of skin, ulcer appears as a deep wound, fat may be visible, but bone, tendon, or muscle are not exposed, and if slough, does not obscure depth of tissue loss.  Stage 4 is full-thickness tissue loss with exposed bone, tendon, or muscle, may have slough or eschar (black, brown, or tan dead tissue, ulcers are often very deep, may have osteomyelitis (bone infection) or osteitis (bone inflammation). Unstageable is full-thickness skin and tissue loss, but damage extent cannot be determined because it is obscured by slough or eschar.  If yes, respond  concisely with the stage, for example: "Pressure ulcer: Stage 2" or "Pressure ulcer: Unstageable". If no pressure ulcers, respond concisely "Pressure ulcers : NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Pressure ulcers : NA
+------------------------------
+Does the patient have any complex wounds. If yes, response  concisely "Complex wound:" followed by the type(s) of wound(s).  If not, respond  concisely "Complex wounds: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+Complex wounds: No
+------------------------------
+Does the patient have need a wound vacuum. If yes, response  concisely "Wound Vac: Yes".  If not, respond  concisely "Wound Vac: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Wound Vac: No. The document does not mention the need for a wound vacuum.
+------------------------------
+Does the patient have need any specialty wound equipment, besides a would vacuum (vac). If yes, then response "Specialty Wound Equipment:" followed by the type(s) of equipment needed.  If not, respond concisely "Specialty Wound Equipment: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+Specialty Wound Equipment: No
+------------------------------
+Does the patient currently smoke or were they a previous smoker? If so, how many packs per day do they smoke? Return you answer in a concise format, for example "No", or "Yes, 1 pack per day". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+Yes, the patient is a current smoker with an unknown quantity being smoked per day. (Page 4)
+------------------------------
+Are there indications that the patient is currently engaging in drug abuse or has a history of substance abuse, separate from and excluding alcohol or ETOH abuse?  If yes, specify which substances and frequencies. Respond as concisely as possible, for example "No", or respond with a bullet list "• Opiates (Heroin/Oxy): Injected, $20 daily usage, started at age 18, last used recently, (Page 1); • Cocaine/Crack: Snorted/Inhaled, $40 daily usage, started in the patient's 20s, last used recently, (Page 3 ); etc.". If there is no indication of drug abuse, return "NA". Include the page number(s) indicating the source of a the answer. Omit any summaries before or after the response or bullet list.
+• Opiates (Heroin/Oxy): Injected, $60 daily usage, started at age 20, last used yesterday (Page 3);
+• Cocaine/Crack: Snorted/Inhaled, $50 daily usage, started at age 22, last used yesterday (Page 3);
+• Cannabis: Smoked, daily usage, started at age 18, last used yesterday (Page 3);
+• Nicotine: Smoked cigarettes, daily usage, last used today (Page 3).
+------------------------------
+Are there indications that the patient is currently engaging in or has a history of alcohol or ETOH abuse, separate from and excluding drug abuse?  If yes, specify which substances and frequencies. Respond as concisely as possible, for example "No", or respond with a bullet list "• Beer, 5 days per week, 2 drinks per day, started at age 18, last used recently, (Page 1); • Liquor, 7 days per week, 3 drinks per day, started in the patient's 20s, last used recently, (Page 3 ); etc.". If there is no indication of alcohol or ETOH abuse, return "NA". Include the page number(s) indicating the source of a the answer. Omit any summaries before or after the response or bullet list.
+• Alcohol: Daily, intensity - intense, duration - long-term, started at age 13, last used recently (Page 3).
+------------------------------
+Based on the patient's specific conditions, diagnoses, or physician recommendations, what are the prescribed or recommended types and frequencies of therapy sessions? If therapy is expected, respond concisely, in bullet format, which kinds of therapies, how often per week, and how many minutes per session.  Examples of therapies include physical therapy (PT), occupational therapy (OT), speech therapy, etc.  If therapy is not expected, respond "Therapy: NA". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summaries before or after the response or bullet list.
+Therapy: NA
+------------------------------
+Are there any significant concerns or notes regarding admitting this patient to a nursing home, such as being a potential threat or risk to themselves, other patients, the staff or the facilities?  Examples include, prior history or harm to others or self, suicidal indications, prior history of damaging a building or facility, sex offender, victim of repeated violent abuse, etc.  Is anything noted in the notes as a 'concern'?  If yes, respond concisely, in bullet list format, as "Concerns" followed by the list. If not, respond concisely "Concerns: NA".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response or bullet list.
+Concerns: 
+- The patient has suicidal ideations with a specific plan to overdose on prescription medications. (Page 1)
+- The patient is suffering from multiple serious mental health issues including bipolar disorder and PTSD. (Page 2)
+- Exhibiting poor judgement inability to understand nature of illness and need for medication/treatment. (Page 5)
+- The patient has a history of substance abuse, specifically alcohol, heroin, and cocaine. (Page 2,5)
+- Previous multiple arrests and jail time for drug possession. (Page 2)
+- Currently homeless and has unstable living conditions. (Page 2,5)
+------------------------------
+Does the patient currently have Tuberculosis (TB) or are they taking any prescription drugs that indicate they have Tuberculosis.  If yes, respond "Tuberculosis: Yes". If not, respond concisely "Tuberculosis: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Tuberculosis: No. Source: No pages indicate an active case of Tuberculosis, or TB-related medication.
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Vancomycin-resistant Enterococci (VRE). If yes, respond "VRE: Yes". If not, respond concisely "VRE: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+VRE: No
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Human immunodeficiency virus (HIV). If yes, respond "HIV: Yes". If not, respond concisely "HIV: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+HIV: No
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Extended spectrum B-lactamases (ESBL). If yes, respond "ESBL: Yes". If not, respond concisely "ESBL: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+ESBL: No.
+------------------------------
+Does the patient have or are they taking any prescription drugs that indicate they have Acquired immunodeficiency syndrome (AIDS). If yes, respond "AIDS: Yes". If not, respond concisely "AIDS: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+AIDS: No
+------------------------------
+Does the patient need an Electrocardiogram (ECG or EKG)? If yes, respond "ECG: Yes". If not, respond concisely "ECG: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+ECG: No. Source: Information not provided in the documents.
+------------------------------
+Does the patient need an Prothrombin Time (PT or PT/INR) test? If yes, respond "PT/INR: Yes". If not, respond concisely "PT/INR: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+PT/INR: No.
+------------------------------
+Does the patient need an Cardiac Event Monitor (eCardio or eTrigger)? If yes, respond "eCardio: Yes". If not, respond concisely "eCardio: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+eCardio: No. The report does not indicate the need for a Cardiac Event Monitor.
+------------------------------
+Does the patient need a Bladder scan to assess postvoid residual (PVR) volume (Radionuclide Cystogram)? If yes, respond "Bladder scan: Yes". If not, respond concisely "Bladder scan: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Bladder scan: No.
+------------------------------
+Does the patient have or need a central venous catheter (central line)? If yes, respond "Central line: Yes". If not, respond concisely "Central line: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Central line: No. The document does not mention any information about a central venous catheter (central line) for the patient.
+------------------------------
+Does the patient have or need a midline catheter? If yes, respond "Midline catheter: Yes". If not, respond concisely "Midline catheter: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Midline catheter: No. The document does not provide any information indicating the patient has or needs a midline catheter. The source is the entire document.
+------------------------------
+Does the patient have or need Implantable Ports? If yes, respond "Implantable ports: Yes". If not, respond concisely "Implantable ports: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Implantable ports: No
+------------------------------
+Does the patient have or need a Jackson-Pratt (JP) or Penrose Drain? If yes, respond "JP/Penrose drain: Yes". If not, respond concisely "JP/Penrose drain: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+JP/Penrose drain: No. This information is not mentioned in the report.
+------------------------------
+Does the patient have a Nephrostomy or Urostomy? If yes, respond "Nephrostomy: Yes". If not, respond concisely "Nephrostomy: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Nephrostomy: No
+------------------------------
+Does the patient have a Colostomy? If yes, respond "Colostomy: Yes". If not, respond concisely "Colostomy: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Colostomy: No
+------------------------------
+Does the patient have or need a Suprapubic Catheter? If yes, respond "Suprapubic Catheter: Yes". If not, respond concisely "Suprapubic Catheter: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Suprapubic Catheter: No
+------------------------------
+Does the patient have or need a Dialysis Shunt? If yes, respond "Dialysis Shunt: Yes". If not, respond concisely "Dialysis Shunt: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Dialysis Shunt: No. Information not provided in the document.
+------------------------------
+Does the patient have or need a Dialysis Catheter? If yes, respond "Dialysis Catheter: Yes". If not, respond concisely "Dialysis Catheter: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Dialysis Catheter: No. The document does not mention the patient having or needing a Dialysis Catheter.
+------------------------------
+Does the patient use or need bilevel positive airway pressure (BiPAP, Bi PAP, or Bi-PAP) or continuous positive airway pressure (CPAP or C-PAP)? If yes, respond "BiPAP/CPAP: Yes". If not, respond concisely "BiPAP/CPAP: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+BiPAP/CPAP: No. The report does not mention the usage or need for bilevel positive airway pressure (BiPAP, Bi PAP, or Bi-PAP) or continuous positive airway pressure (CPAP or C-PAP) for the patient.
+------------------------------
+Does the patient have a Tracheostomy?  If so, is it new or recent, is it old or from past medical history, or does it not indicate timing? If yes, respond "Tracheostomy: Yes" followed by ", New", ", Old", or ", Unknown" accordingly. If no Tracheostomy, respond concisely "Tracheostomy: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Tracheostomy: No
+------------------------------
+Does the patient use or need Oxygen (Compressed gas system, Portable oxygen concentrator (POC), or Liquid oxygen system)? If yes, what is the maximum amount (in Liters)? If yes, respond "Oxygen: ", followed by the maximum amount of liters, for example "Oxygen: 10 LPM". If not, respond concisely "Oxygen: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Oxygen: No
+------------------------------
+Does the patient use or need a portable or Astral vent? If yes, respond "Portable/Astral vent: Yes". If not, respond concisely "Portable/Astral vent: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Portable/Astral vent: No. The document does not provide any information regarding the use of a portable or Astral vent.
+------------------------------
+Does the patient have a Chest Tube? If yes, respond "Chest tube: Yes". If not, respond concisely "Chest tube: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Chest tube: No.
+------------------------------
+Does the patient have a Pleurex or PleurX? If yes, respond "Pleurex: Yes". If not, respond concisely "Pleurex: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Pleurex: No
+------------------------------
+Does the patient need Surgical Orthopedic care? If yes, respond "Surgical Orthopedic care: Yes". If not, respond concisely "Surgical Orthopedic care: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Surgical Orthopedic care: No. (Pages 1,2,3,4,5)
+------------------------------
+Does the patient need external fixator? If yes, respond "External fixator: Yes". If not, respond concisely "External fixator: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+External fixator: No.
+------------------------------
+Does the patient need Orthopedic Traction? If yes, respond "Orthopedic Traction: Yes". If not, respond concisely "Orthopedic Traction: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Orthopedic Traction: No
+------------------------------
+Does the patient have or need a Prosthetics? If yes, respond "Prosthetics: Yes". If not, respond concisely ": No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Prosthetics: No. Source: Not mentioned in the provided text.
+------------------------------
+Does the patient have a Coronary artery bypass graft (CABG)? If yes, respond "CABG: Yes". If not, respond concisely "CABG: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+CABG: No
+------------------------------
+Does the patient have a Left Ventricular Assist Device (LVAD)? If yes, respond "LVAD: Yes". If not, respond concisely "LVAD: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+LVAD: No
+------------------------------
+Does the patient have a LifeVest Wearable Defibrillator or LifeVest? If yes, respond "LifeVest: Yes". If not, respond concisely "LifeVest: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+LifeVest: No
+------------------------------
+Does the patient have a Pacemaker? If so, is it new or recent, is it old or from past medical history, or does it not indicate timing? If yes, respond "Pacemaker: Yes", followed by ", New", ", Old", or ", Unknown" accordingly. If not, respond concisely "Pacemaker: No". Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Pacemaker: No
+------------------------------
+Does the patient need Hemodialysis (HD)? If yes, respond "Hemodialysis: Yes". If not, respond concisely "Hemodialysis: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Hemodialysis: No. There is no mention of Hemodialysis in the provided information.
+------------------------------
+Does the patient need Peritoneal dialysis (PD)? If yes, respond "Peritoneal dialysis: Yes". If not, respond concisely "Peritoneal dialysis: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Peritoneal dialysis: No. I didn't find any indication in the medical report that the patient needs Peritoneal dialysis.
+------------------------------
+Does the patient have bariatric issues or weight more than 400 lbs? If yes, respond "Bariatric: Yes". If not, respond concisely "Bariatric: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Bariatric: No. Pages: 1,2,3.
+------------------------------
+Does the patient need Intravenous Fluids or an IV? If yes, respond "IV: Yes". If not, respond concisely "IV: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+IV: No. Source not indicated in the document.
+------------------------------
+Does the patient need Total parenteral nutrition (TPN)? If yes, respond "TPN: Yes". If not, respond concisely "TPN: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+TPN: No. (Source information not available in provided text)
+------------------------------
+Does the patient need Patient controlled analgesia (PCA)? If yes, respond "PCA: Yes". If not, respond concisely "PCA: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+PCA: No.
+------------------------------
+Does the patient need Intravenous push (IV push)? If yes, respond "IV Push: Yes". If not, respond concisely "IV Push: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+IV Push: No
+------------------------------
+Does the patient need Oral Chemotherapy? If yes, respond "Oral Chemotherapy: Yes". If not, respond concisely "Oral Chemotherapy: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Oral Chemotherapy: No
+------------------------------
+Does the patient need Intravenous Chemo or Chemo infusion? If yes, respond "IV Chemo: Yes". If not, respond concisely "IV Chemo: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+IV Chemo: No.
+------------------------------
+Does the patient need High Cost Medications? If yes, respond "High Cost Rx: Yes". If not, respond concisely "High Cost Rx: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+High Cost Rx: No
+Source: Pages 1,2,3.
+------------------------------
+Does the patient need serious Psychosocial Care? If yes, respond "Psychosocial Care: Yes". If not, respond concisely "Psychosocial Care: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Psychosocial Care: Yes. (Pages 3,11,15,17)
+------------------------------
+Does the patient have Dementia or been diagnosed with an ICD10 indicating Dementia? If yes, respond "Dementia: Yes". If not, respond concisely "Dementia: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Dementia: No.
+------------------------------
+Is the patient a recently known danger to self or others? If yes, respond "Recent danger: Yes". If not, respond concisely "Recent danger: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Recent danger: Yes. Pages 1, 4.
+------------------------------
+Does the patient need Restraints? If yes, respond "Restraints: Yes". If not, respond concisely "Restraints: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Restraints: No. (Page 1)
+------------------------------
+Does the patient need a Closed Unit? If yes, respond "Closed Unit: Yes". If not, respond concisely "Closed Unit: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Closed Unit: No. Pages: 2, 3, 4.
+------------------------------
+Does the patient a known felon or convicted or sentenced to jail time? If yes, respond "Felon: Yes". If not, respond concisely "Felon: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Felon: Yes. Source: Page 5.
+------------------------------
+Is the patient a Known Sexual Offender? If yes, respond "Sexual Offender: Yes". If not, respond concisely "Sexual Offender: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Sexual Offender: No. This information is not available in any of the given documents.
+------------------------------
+Does the patient currently suffer from ETOH or Alcohol abuse, excluding drug abuse? If yes, respond "Etoh/Alcohol-current: Yes". If not, respond concisely "Etoh/Alcohol-current: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Etoh/Alcohol-current: Yes. (Page 1, Page 3)
+------------------------------
+Does the patient have a history of ETOH or Alcohol abuse, excluding drug abuse? If yes, respond "Etoh/Alcohol-history: Yes". If not, respond concisely "Etoh/Alcohol-history: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Etoh/Alcohol-history: Yes. Source: Page 2.
+------------------------------
+Does the patient currently suffer from drug abuse, excluding alcohol abuse? If yes, respond "Drugs-current: Yes". If not, respond concisely "Drugs-current: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Drugs-current: Yes. Pages 1, 3.
+------------------------------
+Does the patient have a history of drug abuse, excluding alcohol abuse? If yes, respond "Drugs-history: Yes". If not, respond concisely "Drugs-history: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Drugs-history: Yes. Source: Pages 1,2,3.
+------------------------------
+Does the patient have a Head Injury? If yes, respond "Head Injury: Yes". If not, respond concisely "Head Injury: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Head Injury: No
+------------------------------
+Is the patient less than 18 years old? If yes, respond "Less<18 yrs: Yes". If not, respond concisely "Less<18 yrs: No".  Include the page number(s) indicating the source, for example "Page 1" or "Pages 1,2,3". Omit any summary statements before or after the response.
+Less<18 yrs: No, Page 1
+------------------------------
+Who is responsible for the patient's medical costs? Medicare, Medicaid, or Commercial insurance (for example Blue Cross Blue Shield (BCBS), United Health Care (UHC), Aetna, Cigna, Humana, Health Care Services Corporation (HCSC), Centene, Kaiser Permanente, Molina Healthcare, Health Alliance, Anthem)? Respond with 'Medicare/Medicaid/[Commercial insurance name]/NA'. Omit any summary statements before or after the response.

@@ -1,0 +1,131 @@
+PDF Page Number 1
+Powered by [U-PATORG]GoldFax [L-DATE] 14:30 eGo IldPax /28
+Medication Administration Record
+[L-DATE] 11:00 - [U-DATE]/[L-DATE] 12:37
+Name: Sex: M Gn
+Location: Admit Date: [U-DATE]
+Physician: [I-STAFF] [L-STAFF]
+D Blood Glucose Monitoring Start: 11:42 [L-DATE] Stop: 12:07 [U-DATE]/[L-DATE] Admin Sched
+NOW [L-DATE] 12:07 11:42 Not Administered/Nc agarin
+Other - See Notes
+n/a
+D Care Profile and Crisis Plan Stadt: 11:42 [L-DATE] Stop: 12:04 [L-DATE] Admin Sched
+EVERY 4 HOURS - UNTIL COMPLETE [L-DATE] 12:04 11:42 Complete agarin
+D CBC W/O DIFFERENTIAL Start: 10:00 [U-DATE]/[L-DATE] Stop: 0:47 [U-DATE]/30 Admin Sched
+EVERY MORNING UNTIL COMPLETE [L-DATE] 16:01 10:00 Not Administered/Nc kslupek
+Other - See Notes
+D COMPREHENSIVE METABOLIC Start: 10:00 [U-DATE]/[L-DATE] Stop: 0:47 [U-DATE]/30 Admin Sched
+EVERY MORNING UNTIL COMPLETE [L-DATE] 16:01 10:00 Not Administered/Nc kslupek
+ther = See Notes
+D Consent and Declination of Seasonal Influenza Start: 11:42 [L-DATE] Stop: 12:01 [L-DATE] Admin Sched
+Vaccine [L-DATE] 12:01 11:42 Complete agarin
+EVERY 12 HOURS UNTIL COMPLETE
+A COWS Scale Start: 17:00 [U-DATE]/[L-DATE] Stop: 23:59 [L-DATE] Admin Sched
+Every 4 hours - COWS [L-DATE] 17:03 17:00 Complete kslupek
+If initial score >10 assess vitals per protocol Verify [L-DATE] 21:10 21:00 Complete mebreo
+with MD the mitiation of the medical detox [L-DATE] 9:56 9:00 Complete kslupek
+protocol. [L-DATE] 12:56 13:00 Complete kslupek
+[L-DATE] 16:02 17:00 Complete kslupek
+[L-DATE] 21:14 21:00 Complete sjohn
+10/30 8135 9:00 Complete rsoriano
+A Daily Nursing Progress Note Start: 16:00 10/28 Stop: 23:59 12/31 Admin Sched
+Twice a Day Assessments 10/28 12:07 16:00 Not Administered/Nc agarin
+Other - See Notes
+see admission assessment
+10/29 1:32 4:00 Complete mebreo
+10/29 14:55 16:00 Complete kslupek
+10/29 23:22 4:00 Complete sjohn
+10/30 10:30 16:00 Complete jlundang
+A Environment Patient Safety Checklist Start: 16:00 10/28 Stop: 23:59 12/31 Admin Sched
+Twice a Day Assessments 10/28 12:07 16:00 Complete agarin
+10/28 21:08 4:00 Complete mebreo
+10/29 14:55 16:00 Complete kslupek
+10/29 23:18 4:00 Complete sjohn
+D Inttial Nursing Assessment Start: 11:42 10/28 Stop: 12:37 10/28 Admin Sched
+EVERY 4 HOURS - UNTIL COMPLETE 10/28 12:36 11:42 Complete agarin
+D Initial Treatment Plan Start: 11:42 10/28 Stop: 12:10 10/28 Admin Sched
+EVERY 4 HOURS - UNTIL COMPLETE 10/28 12:10 11:42 Complete agarin
+D Inttiate Treatment Plan for Patient Start: 11:42 10/28 Stop: 13:52 10/28 Admin Sched
+EVERY 4 HOURS - UNTIL COMPLETE 10/28 13:52 11:42 Complete agarin
+D LIPID PANEL W/HDL Start: 10:00 10/29 Stop: 10:19 10/30 Admin Sched
+EVERY MORNING UNTIL COMPLETE 10/29 16:01 10:00 Not Administered/Nc kslupek
+Other - See Notes
+10/30 10:19 10:00 Complete Tsoriano
+D Patient Unit Orientation Checklist Start: 11:42 10/28 Stop: 12:02 10/28 Admin Sched
+EVERY 4 HOURS - UNTIL COMPLETE 10/28 12:02 11:42 Complete agarin
+D Safety and Health Evaluation Start: 11:42 10/28 Stop: 12:09 10/28 Admin Sched
+One time for ancillary orders 10/28 12:09 11:42 Complete agarin
+A buprenorphine TABLET 2mg Start: 10:00 10/30 Stop: 23:59 12/31 Admin Sched
+(*Subutex) 10/30 10:12 10:00 Complete rsoriano
+Sublingual TWICE DAILY 0900 & 1700
+for Maintenance
+printed: 10/30/23 12:37  of 3
+
+
+------------------------------------------------------------
+PDF Page Number 2
+Powered by eGoldFax 10/30/2023 14:30 eGo ldFPax /28
+Medication Administration Record
+10/28/2023 11:00 - 10/30/2023 12:37
+Name: O Hospital v@
+Location: Admit Date: 10/28/2023
+Physician: Quesada, Anthony
+D buprenorphine TABLET 8 mg Start: 17:00 10/28 Stop: 23:59 10/28 Admin Sched
+(*Subutex) 10/28 17:32 17:00 Complete kslupek
+Sublingual DAILY AT 1700 (1 Day)
+for Maintenance
+D buprenorphine TABLET 8 mg Start: 12:20 10/29 Stop: 12:56 10/29 Admin Sched
+(*Subutex) 10/29 12:56 12:20 Complete kslupek
+Sublingual NOW
+for Maintenance
+A. gabapentin TABLET 1,200 mg Start: 17:00 10/28 Stop: 23:59 12/31 Admin Sched
+(Neurontin) 10/28 17:32 17:00 Complete kslupek
+Oral THREE TIMES DAILY 0900 1300 10/28 20:44 21:00 Complete mebreo
+2100 10/29 9:21 900 Complete kslupek
+To give 1,200 mg use 2 of 600 mg 10/29 12:55 13:00 Complete kslupek
+for Anxiety 10/29 20:36 21:00 Complete sjohn
+10/30 814 9:00 Complete rsoriano
+A mirtazapine TABLET 15 mg Start: 21:00 10/28 Stop: 23:59 12/31 Admin Sched
+(Remeron) 10/28 20:44 21:00 Complete mebreo
+Oral AT BEDTIME 10/29 20:37 21:00 Complete sjohn
+for Sleep
+A multivitamin TABLET 1 tab Start: 9:00 10/29 Stop: 23:59 12/31 Admin Sched
+(Daily Multiple Vitamins) 10/29 9:21 9:00 Complete kslupek
+Oral ONCE ADAY 10/30 814 9:00 Complete rsoriano
+for Nutritional Support
+A omeprazole DR CAP 20 mg plat: 9:00 10/29 Stop: 23:59 12/31 Admin Sched
+(PnLOSEC) 10/29 9:20 9:00 Complete kslupek
+Oral ONCE A DAY 10/30 &14 9:00 Complete rsoriano
+for GERD
+A prazosin CAPSULE Img Start: 21:00 10/28 Stop: 23:59 12/31 Admin Sched
+(Minipress) 10/28 20:45 21:00 Complete mebreo
+Oral AT BEDTIME 10/29 20:37 21:00 Complete sjohn
+for nightmares
+D QUEtiapine TABLET 300 mg Start: 21:00 10/28 Stop: 16:56 10/29 Admin Sched
+(SEROquel) 10/28 20:45 21:00 Complete mebreo
+Oral AT BEDTIME
+for Mood
+A QUEtiapine TABLET 600 mg Start: 21:00 10/29 Stop: 23:59 12/31 Admin Sched
+(SEROquel) 10/29 20:37 21:00 Complete sjohn
+Oral AT BEDTIME
+To give 600 mg use 2 of 300 mg
+for Mood
+A Suicidal Ideation Severity Assessment Start: 16:00 10/28 Stop: 23:59 12/31 Admin Sched
+DAILY AT 1600 10/28 12:06 16:00 Complete agarin
+10/29 14:35 16:00 Complete kslupek
+10/30 10:14 16:00 Complete jlundang
+D TSH ONLY, ULTRA SENSITIVE 3RD GEN Start: 10:00 10/29 Stop: 10:19 10/30 Admin Sched
+EVERY MORNING UNTIL COMPLETE 10/29 16:01 10:00 Not Administered/Nc kslupek
+Other - See Notes
+10/30 10:19 10:00 Complete Tsoriano
+D Urime Drug Screen Start: 10:00 10/29 Stop: 0:47 10/30 Admin Sched
+EVERY MORNING UNTIL COMPLETE 10/29 16:01 10:00 Not Administered/Nc kslupek
+Nurse Collect Other - See Notes
+A Vital Signs Start: 21:00 10/28 Stop: 23:59 12/31 Admin Sched
+TWICE A DAY 10/28 21:09 21:00 Complete mebreo
+10/29 &37 9:00 Complete agarin
+10/29 19:57 21:00 Complete sjohn
+10/30 10:19 9:00 Complete rsoriano
+printed: 10/30/23 12:37  of 3
+
+

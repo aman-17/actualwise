@@ -1,0 +1,253 @@
+
+PDF Page Number 6
+Powered by eGoldFax [U-DATE]/[L-DATE] 14:30 eGo IldPax /28
+oe E Medical History and Physical
+A a Examination (H&P)
+bragaviriea: blryeperas Observation Date/Time: [U-DATE]/[L-DATE] 18:53
+Date/Time [U-DATE]/[L-DATE]23 10:21
+Medical Diagnosis
+Diagnosis Class Type Priority Date
+Code System
+Acute embolism and thrombosis Medical Working Secondary Diagnosis [U-DATE]/[U-DATE]23
+I82.401 ICD-10
+of unspecified deep veins of
+right lower extremity
+Alcoholic hepatitis without Medical Working Secondary Diagnosis [U-DATE]/[U-DATE]/[L-DATE]23
+K70.10 ICD-10
+ascites
+Gastro-esophageal reflux Medical Working Secondary Diagnosis [U-DATE]23
+K21.00 ICD-10
+disease with esophagitis,
+without bleeding
+Other pulmonary embolism Medical Working Secondary Diagnosis [U-DATE]23
+I26.99 ICD-10
+without acute cor pulmonale
+Unspecified convulsions Medical Working Secondary Diagnosis [U-DATE]/[L-DATE]23
+R56.9 ICD-10
+Medical Working
+Psychiatric Diagnoses
+Diagnosis Class Type Priority Date
+Code System
+MAJOR DEPRESSIVE DISORDER, Psychiatric Admitting Primary Diagnosis [U-DATE]/[L-DATE]23
+F33.9 ICD10
+RECURRENT, UNSPECIFIED
+Reason for admission SI with plan to OD on prescription meds
+Gender Male
+Preferred Pronouns He/Him/His
+Informant Patient. chart
+Reliabile Yes
+Past Medical History LLE DVT, PE, GERD, Congenitalspondylosethesis, left hip
+acascular necrosis. hx hip replacement, hx back surgery,
+hx seizures from withdrawal,[U-HOSP]HOME MED LIST AND ADMISSION MED REG
+Printed On: [U-DATE]/[L-DATE] @ 12:37  of 10
+
+
+------------------------------------------------------------
+PDF Page Number 7
+Powered by eGoldFax [U-DATE]/[L-DATE] 14:30 eGo IldPax /28
+| ee I Medical History and Physical
+- . Examination (H&P) [I-HOSP]ees | [L-HOSP]
+eeag ase fe shaga Eats eHerat Observation Date/Time: 10/29/23 18:53
+Home Meds:
+Description Brand Dose Route Frequency PRN
+Indication
+clindamycin Oral 300 mg capsule Cleocin
+HC1
+gabapentin Oral 300 mg capsule Neurontin
+gabapentin Oral 400 mg capsule Neurontin 1,200 PO TID91317 Anxiety
+mg
+gabapentin Oral 800 mg TAB 1 ea Neurontin
+hydrOxXYzine hydrochloride Oral 50 Atarax
+mg TAB 1 ea
+lamoTRIigine Oral 25 mg tablet LaMICtal 25 mg PO DAILY
+Seizures
+methocarbamol Oral 500 mg tablet Robaxin 500 mg PO TID91321 P muscle
+spasm
+mirtazapine Oral 15 mg tablet Remeron 15 mg PO HS Sleep
+nicotine 21 mg/24 hr TERF Habitrol
+omeprazole Oral 20 mg delayed PriLOSEC 20 mg PO DAILY GERD
+release capsule
+prazosin Oral 1 mg capsule Minipress 1 mg PO HS
+nightmares
+QUEtiapine Oral 100 mg tablet SEROquel
+QUEtiapine Oral 300 mg tablet SHEROquel 300 mg PO HS Mood
+sertraline Oral 50 mg tablet Zoloft 50 mg PO DAILY Mood
+traMADol 50 mg TAB Ultram 100 mg PO TID91321 P Pain
+Admission Meds:
+Description Brand Dose Route Frequency PRN
+Indication
+gabapentin Oral 400 mg capsule Neurontin 1,200 PO TID91317 Anxiety
+mg
+methocarbamol Oral 500 mg tablet Robaxin 500 mg PO TID91321 P muscle
+spasm
+mirtazapine Oral 15 mg tablet Remeron 15 mg PO HS Sleep
+omeprazole Oral 20 mg delayed PriLOSEC 20 mg PO DAILY GERD
+release capsule
+prazosin Oral 1 mg capsule Minipress 1 mg PO HS
+nightmares
+QUEtiapine Oral 300 mg tablet SEROquel 300 mg PO HS Mood
+sertraline Oral 50 mg tablet Zoloft 50 mg PO DAILY Mood
+traMADol Oral 50 mg tablet Ultram 100 mg PO TID91321 P Pain
+Allergy Type Reaction Severity Date Cade System
+Comments
+Printed On: 10/30/2023 @ 12:37  of 10
+
+
+------------------------------------------------------------
+PDF Page Number 8
+Powered by eGoldFax 10/30/2023 14:30 eGo IldPax /28
+ee ee Medical History and Physical
+(ol Examination (H&P) MR
+— Hos
+Le Ee ge eg ea Admit Date: 10/28/2023
+ie gaye pe wee “Eden eyas € Observation Date/Time: 10/29/23 18:53
+ARIPIPRAZOLE Drug Allergy Severe 7704567 RB Alg ID
+blurred vision
+BEE STING Drug Allergy Swelling Severe 7708918 RB Alg ID
+DUST MITE Drug Allergy Mild 7708910 RB Alg ID
+KETOROLAC Drug Allergy Swelling Mild 7700739 RB Alg ID
+PENICILLIN Drug Allergy Hives Severe 7702923 RB Alg ID
+Dietary Restrictions No
+Activity Restrictions No
+Height 67 in
+Weight 151 |b
+Body Mass Index 23.6
+Systolic 106 mmHg
+Diastolic 66 mmHg
+Blood Pressure 119/70
+Heart Rate 82 beats/min
+Temperature 97.6 °F
+Respirations 20 Resp/Min
+SPO2 99 %
+
+Past Medical History
+Last Dental Exam 2 yrs ago
+Last Eye Exam 2 yrs ago
+Immunizations UTD
+Last PPD Neg
+Recent Illnesses/Injuries pt denies
+Past Hospitalizations/Psych Yes
+Substance Use
+Does patent admit to Substance Use? Yes and Positive Drug Screen
+SUBSTANCE USE.
+Row Substance Does pt Route Amount/Freg Age of 1st Last Used Current/His
+have Rx? uency Use torical
+Printed On: 10/30/2023 @ 12:37  of 10
+
+
+------------------------------------------------------------
+PDF Page Number 9
+Powered by eGoldFax 10/30/2023 14:30 eGo IldPax /28
+ee ee Medical History and Physical
+A a Examination (H&P)
+ie gaye i ty wee “Eden eyas € Observation Date/Time: 10/29/23 18:53
+1 Alcohol No Oral 1/2 gallon teen 10/26/2023 Current
+of alcohol
+/ daily
+2 Cannabis No Smoke/Vap sporadicall teen 10/26/2023 Current
+¥
+3 Cocaine/Cra No Snort/Inhal $40 / daily 20's 10/26/2023 Current
+ck e
+4 Opiates No Injects $80 / 18 10/26/2023 Current
+(heroin/Oxy heroin
+etc.)
+Substance Use
+Does patient admit to Tobacco Use? Yes
+TOBACCO USE
+Row Type Amount/Frequency
+1 Cigarettes 1 ppd
+Substance Use
+Other Addictive Behaviors No
+Education
+Currently in School? No
+Highest level of Education? Some College
+Social/Family History
+Family/Living Situation
+Current living situation? Pt reported that he is currently homeless.
+Can patient return? Yes
+Patient raised by? adopted parents
+Number of Siblings? 2
+Describe Relationship 1 twin brother, only close with twin brother
+Number of Children? 0
+Describe Relationship Nia
+Printed On: 10/30/2023 @ 12:37  of 10
+
+
+------------------------------------------------------------
+PDF Page Number 10
+Powered by eGoldFax 10/30/2023 14:30 eGo IldPax /28
+
+ee ee Medical History and Physical
+
+A a Examination (H&P)
+
+oe ey A dmi t Date: 1 0 /28 /2 023
+
+baraucioush at baryons § Observation Date/Time: 10/29/23 18:53
+Social/Family History
+FAMILY PSYC H/SUBSTANCE ABUSE HISTORY
+
+Row Relationship History of mental health/chemical dependency issues
+
+1 Sibling depression, drug addiction
+
+Social/Family History
+Family Medical History pt denies
+Legal History
+Any Legal Issues? Yes
+Number of arrests multiple
+Current/Pending Charges No
+Arrest Details drug possession
+Time incarcerated 1 month in jail
+Probation/Parole No
+
+Social/Family History
+Military Service
+Military Service? No
+History of Service? No
+Review of Systems
+RESPIRATORY No History of Problems
+Have you been vaccinated for COVID-19? (Corona) No
+Do you want to be vaccinated? No
+Date of last TB Test UNK
+SKIN No History of Problems
+Printed On: 10/30/2023 @ 12:37  of 10
+
+
+------------------------------------------------------------
+PDF Page Number 11
+Powered by eGoldFax 10/30/2023 14:30 eGo IldPax /28
+CC Medical History and Physical
+en Admit Date: 10/28/2023
+ce Be & ea Slosheral Observation Date/Time: 10/29/23 18:53
+CENTRAL NERVOUS SYSTEM No History of Problems
+Tics No
+GENITOURINARY No History of Problems
+GASTROINTESTINAL GERD
+CARDIOVASCULAR: “history of DVT and PE"
+MUSCULOSKELETAL No History of Problems
+ADDITIONAL seizures
+SURGICAL HISTORY Yes
+Lumbar fusion, back surgery and total left hip arthoplasty
+Sexual History
+Sexual History NiA
+Recent contraception N/A
+ST None
+Sexual activity in last five days No
+Assessment a
+Reviewed Lab Results Yes
+UDS-Benzos/cocaine/fentanyl-+
+Physical Assessment
+General/Mental Status WNL
+Skin WNL
+Head WNL
+Eyes WNL
+ENT WNL
+Neck WNL
+Lungs WNL
+Heart WNL
+Abdomen WNL
+Extremities WNL
+Printed On: 10/30/2023 @ 12:37  of 10
+
+

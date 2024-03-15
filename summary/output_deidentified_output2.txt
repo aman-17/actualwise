@@ -1,8 +1,0 @@
-How can I assist you today?
-------------------------------
-This is a psychiatric evaluation of a patient admitted voluntarily on [L-DATE] due to suicidal ideation with a plan to overdose on prescription medications. He has been put on a high risk and detox precaution with vital signs observed every 10 minutes. The patient has a history of abusing alcohol, heroin, and cocaine, and is currently homeless, adding to his stress levels. He has legal issues as well.
-
-The patient's supportive network includes his brother, mother, and members of Narcotics Anonymous. His outpatient treatment team includes Dr. [I-HOSP] and he is on a special heart-healthy diet.
-
-He hopes for a better future and is undergoing an 8 day treatment. The treatment also involves assessment for drug use and if needed, initiation of medical detox protocol. His discharge diagnosis needs to have at least one active and one primary diagnosis.
-------------------------------

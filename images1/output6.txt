@@ -1,0 +1,68 @@
+Page Number 6
+Powered by eGoldFax 10/30/2023 14:30 eGo ldFax Page
+
+Medical History and Physical
+Examination (H&P)
+
+Admit Date: 10/28/2023
+
+Observation Date/Time: 10/29/23 18:53
+
+Date/Time 10/29/2023 10:21
+
+Medical Diagnosis
+
+Diagnosis Class Type Priority Date
+Code System
+
+Acute embolism and thrombosis Medical Working Secondary Diagnosis 10/29/2023
+r82.401 IcD-10
+
+of unspecified deep veins of
+
+right lower extremity
+
+Alcoholic hepatitis without Medical Working Secondary Diagnosis 10/29/2023
+K70.10 IcD-10
+
+ascites
+
+Gastro-esophageal reflux Medical Working Secondary Diagnosis 10/29/2023
+K21.00 IcD-10
+
+disease with esophagitis,
+without bleeding
+
+Other pulmonary embolism Medical Working Secondary Diagnosis 10/29/2023
+126.99 IcD-10
+without acute cor pulmonale
+Unspecified convulsions Medical Working Secondary Diagnosis 10/29/2023
+R56.9 IcD-10
+
+Medical Working
+
+Psychiatric Diagnoses
+
+Diagnosis Class Type Priority Date
+Code System
+
+MAJOR DEPRESSIVE DISORDER, Psychiatric Admitting Primary Diagnosis 10/28/2023
+F33.9 IcD10
+RECURRENT, UNSPECIFIED
+Reason for admission SI with plan to OD on prescription meds
+Gender Male
+Preferred Pronouns HelHim/His
+Informant Patient. chart
+Reliabile Yes
+Past Medical History LLE DVT, PE, GERD, Congenitalspondylosethesis, left hip
+
+acascular necrosis. hx hip replacement, hx back surgery,
+hx seizures from withdrawal,
+
+HOME MED LIST AND ADMISSION MED REC.
+
+7/28
+
+Printed On: 10/30/2023 @ 12:37 Page 1 of 10
+
+------------------------------

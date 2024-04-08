@@ -1,0 +1,51 @@
+Page Number 19
+Powered by [U-HOSP]Fax [L-DATE] 14:30
+
+[U-HOSP]Fax Page [L-ID]
+Psychiatric Evaluation
+Admit Date: [L-DATE]
+Observation Date/Time: [L-DATE] 16:56
+1 Sexual 18 stranger pt reported N/A N/A
+Assault was raped and
+drugged by a
+man as a
+teenager. Pt
+denies legal
+action.
+2 Neglect childhood biological pt reported N/A N/A
+parents was adopted
+when he was
+very young
+and was
+neglected by
+his
+biological
+parents.
+Substance Use
+Does patient admit to Substance Use? Yes and Positive Drug Screen
+SUBSTANCE USE.
+Rew Substance Dees pt Route Amcunt/Freq Age of Ist Last Used Current/His
+have Rx? uency Use torical
+1 Alcohel No Oral 1/2 gallon teen [L-DATE] Current
+of alcohol
+/ daily
+2 Cannabis No Smoke/Vap sporadicall teen [L-DATE] Current
+¥
+3 Cocaine/Cra No Snort/Inhal $40 / daily 20's [L-DATE] Current
+ck e
+4 Opiates No Injects $80 / 18 [L-DATE]23 Current
+(heroin/Oxy heroin
+etc.)
+Substance Use
+Does patient admit to Tobacco Use? Yes
+TOBACCO USE
+Row Type Amount /Frequency
+1 Cigarettes 1 ppd
+Substance Use
+Other Addictive Behaviors No
+
+Printed On: [L-DATE] @ 12:37
+
+Page 4 of 11
+
+------------------------------

@@ -1,0 +1,40 @@
+Page Number 5
+Powered by eGoldFax [L-DATE] 14:30 eGoldFax
+[I-HOSP] [I-HOSP] [L-HOSP]
+So[B-LOC] [I-LOC] [L-LOC] - [B-HOSP] Plaines, [L-PATIENT]is [U-LOC]76
+Telephone Number: [I-PHONE] [L-PHONE]
+
+ADMISSION | DISCHARGE RECORD
+
+Page [L-DATE]
+
+PHONE; [L-PHONE]-[L-PHONE] PRONE:
+RE! UNKNOWN[L-PHONE] WRE: [I-PHONE] [L-PHONE]H REL:
+CELL:[L-LOC], [U-LOC], OD
+
+CHICAGO
+
+PHONE:
+
+|
+| outeaso
+
+PHONE: PHONE:
+POLICY#:
+GROUP #:[U-ID]ORP MAM: ? GRP DAME:
+| AUTH: AULEHS
+SEX: DOB:
+
+SEX:
+REL: i :
+
+DOB:
+
+MAJOR DEPRESSIVE DISORDER, RECURRENT, UNSPECIFIED
+[U-ID]F339
+
+ae |[U-PHONE]‘[L-DATE]78
+
+HELICES [I-STAFF] [I-STAFF] [L-STAFF]REECE
+
+------------------------------

@@ -1,0 +1,74 @@
+Page Number [U-ID]
+Powered by eGoldFax [L-DATE] 14:30 eGo ldFax Page [L-ID]
+Psychiatric Evaluation
+Admit Date: [L-DATE]
+Besa Observation Date/Time: [L-DATE] 16:56
+clindamycin Oral 300 mg capsule Cleocin
+gabapentin Oral 300 mg capsule Newzontin
+gabapentin Oral 400 mg capsule Neurontin 1,200 FO TID[U-ID]17 Anxiety
+gabapentin Oral 800 mg TAB 1 ea Neurontin ms
+
+hydrOXYzine hydrochloride Oral 50 Atarax
+mg TAB 1 ea
+
+lamoTRIgine Oral 25 mg tablet LaMICctal 25 mg FO DAILY
+
+Seizures
+
+methocarbamol Oral 500 mg tablet Robaxin 500 mg Po TID[L-DATE]21 P muscle
+spasm
+
+mirtazapine Oral 15 mg tablet Remeron 15 mg FO HS Sleep
+nicotine 21 mg/24 hr TERF Habitrol
+
+omeprazole Oral 20 mg delayed PriLOsEC 20 ng PO DAILY GERD
+release capsule
+
+prazosin Oral 1 mg capsule Minipress 1 mg FO HS
+
+nightmares
+
+QUEtiapine Oral 100 mg tablet SEROquel
+
+QUEtiapine Oral 300 mg tablet SEROquel 300 mg FO HS Mood
+sertraline Oral 50 mg tablet Zoloft 50 mg PO DAILY Mood
+traMADol 50 mg TAB Ultram 100 mg BO T[L-DATE] P Pain
+Admission Meds:
+
+Description Brand Dose Route Frequency PRN
+Indication
+
+gabapentin Oral 400 mg capsule Neurontin 1,200 PO T[U-ID]17 Anxiety
+
+mg
+methocarbamol Oral 500 mg tablet Robaxin 500 mg FO T[U-ID]21 P muscle
+spasm
+mirtazapine Oral 15 mg tablet Remeron 15 mg PO HS Sleep
+omeprazole Oral 20 mg delayed PriLOsEC 20 mg PO DAILY GERD
+release capsule
+prazosin Oral 1 mg capsule Minipress 1 mg PO HS
+nightmares
+QUEtiapine Oral 300 mg tablet SEROquel 300 mg PO HS Mood
+sertraline Oral 50 mg tablet Zoloft 50 mg FO DAILY Mood
+traMADol Oral 50 mg tablet Ultram 100 mg FO TID91321 P Pain
+
+‘Treatment History —$
+
+History of Inpatient Treatment Yes
+
+Number of hospitalizations 16+
+
+Most recent admission: date and location Swedish Covenant 2 weeks ago
+Age of first hospitalization 20
+
+Reason for admission suicidal ideation, detox
+
+TRAUMA AND ABUSE
+
+Row Type of abuse Age of abuse By whom Details DCFS/APS DCFS/APS
+
+Involvement Report Filed
+
+Printed On: 10/30/2023 @ 12:37 Page 3 of 11
+
+------------------------------

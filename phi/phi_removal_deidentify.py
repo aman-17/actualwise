@@ -45,7 +45,7 @@ annotated_docs = tagger.annotate(documents)
 from pprint import pprint
 
 first_doc = annotated_docs[0]
-# pprint(first_doc.annotations)
+pprint(first_doc.annotations)
 from deidentify.util import mask_annotations
 
 masked_doc = mask_annotations(first_doc)
